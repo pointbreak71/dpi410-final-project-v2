@@ -1,0 +1,8330 @@
+[
+  {
+    "mandi_id": 1,
+    "mandi_name": "Andaman Hi Tech Kisan Mandi",
+    "district": "South Andaman",
+    "state": "Andaman & Nicobar Islands"
+  },
+  {
+    "mandi_id": 2,
+    "mandi_name": "Anakapalli",
+    "district": "Anakapalle",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 3,
+    "mandi_name": "Ananthapuramu",
+    "district": "Ananthapuramu",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 4,
+    "mandi_name": "Kalyandurg",
+    "district": "Ananthapuramu",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 5,
+    "mandi_name": "Rayadurg",
+    "district": "Ananthapuramu",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 6,
+    "mandi_name": "Gurramkonda",
+    "district": "Annamayya",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 7,
+    "mandi_name": "Kalikiri",
+    "district": "Annamayya",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 8,
+    "mandi_name": "Madanapalle",
+    "district": "Annamayya",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 9,
+    "mandi_name": "Parchur",
+    "district": "Bapatla",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 10,
+    "mandi_name": "VEMURU BHATTIPROLU",
+    "district": "Bapatla",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 11,
+    "mandi_name": "Palamaner",
+    "district": "Chittoor",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 12,
+    "mandi_name": "Punganur",
+    "district": "Chittoor",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 13,
+    "mandi_name": "Ravulapalem",
+    "district": "Dr BR Ambedkar Konaseema ",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 14,
+    "mandi_name": "Denduluru",
+    "district": "Eluru",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 15,
+    "mandi_name": "Eluru",
+    "district": "Eluru",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 16,
+    "mandi_name": "Duggirala",
+    "district": "Guntur",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 17,
+    "mandi_name": "Guntur",
+    "district": "Guntur",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 18,
+    "mandi_name": "Tadikonda",
+    "district": "Guntur",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 19,
+    "mandi_name": "Tenali",
+    "district": "Guntur",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 20,
+    "mandi_name": "Adoni",
+    "district": "Kurnool",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 21,
+    "mandi_name": "Kurnool",
+    "district": "Kurnool",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 22,
+    "mandi_name": "Pattikonda",
+    "district": "Kurnool",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 23,
+    "mandi_name": "Yemmiganur",
+    "district": "Kurnool",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 24,
+    "mandi_name": "Jaggayyapet",
+    "district": "NTR",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 25,
+    "mandi_name": "Chilakaluripet",
+    "district": "Palnadu",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 26,
+    "mandi_name": "Piduguralla",
+    "district": "Palnadu",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 27,
+    "mandi_name": "Sattenapalle",
+    "district": "Palnadu",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 28,
+    "mandi_name": "Rapur",
+    "district": "SPSR Nellore",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 29,
+    "mandi_name": "Hindupur",
+    "district": "Sri Satyasai ",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 30,
+    "mandi_name": "Ichapuram",
+    "district": "Srikakulam",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 31,
+    "mandi_name": "Bobbili",
+    "district": "Vizianagaram",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 32,
+    "mandi_name": "Vizianagaram",
+    "district": "Vizianagaram",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 33,
+    "mandi_name": "Gopalapuram",
+    "district": "West Godavari",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 34,
+    "mandi_name": "Kadapa",
+    "district": "YSR Kadapa",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "mandi_id": 35,
+    "mandi_name": "Kharupetia APMC",
+    "district": "Darrang",
+    "state": "Assam"
+  },
+  {
+    "mandi_id": 36,
+    "mandi_name": "Gauripur APMC",
+    "district": "Dhubri",
+    "state": "Assam"
+  },
+  {
+    "mandi_id": 37,
+    "mandi_name": "Dhing APMC",
+    "district": "Nagaon",
+    "state": "Assam"
+  },
+  {
+    "mandi_id": 38,
+    "mandi_name": "Forbesganj",
+    "district": "Araria",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 39,
+    "mandi_name": "Daudnagar",
+    "district": "Aurangabad",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 40,
+    "mandi_name": "Begusarai",
+    "district": "Begusarai",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 41,
+    "mandi_name": "Ara",
+    "district": "Bhojpur",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 42,
+    "mandi_name": "Buxar",
+    "district": "Buxar",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 43,
+    "mandi_name": "Darbhanga",
+    "district": "Darbhanga",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 44,
+    "mandi_name": "Motihari",
+    "district": "East Champaran",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 45,
+    "mandi_name": "Gaya",
+    "district": "Gaya",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 46,
+    "mandi_name": "Mohaniya",
+    "district": "Kaimur",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 47,
+    "mandi_name": "Katihar",
+    "district": "Katihar",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 48,
+    "mandi_name": "Singheswar",
+    "district": "Madhepura",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 49,
+    "mandi_name": "Muzaffarpur",
+    "district": "Muzaffarpur",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 50,
+    "mandi_name": "Biharsharif",
+    "district": "Nalanda",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 51,
+    "mandi_name": "Musallahpur",
+    "district": "Patna",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 52,
+    "mandi_name": "Gulabbagh",
+    "district": "Purnia",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 53,
+    "mandi_name": "Sasaram",
+    "district": "Rohtas",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 54,
+    "mandi_name": "Samastipur",
+    "district": "Samastipur",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 55,
+    "mandi_name": "Chhapra",
+    "district": "Saran",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 56,
+    "mandi_name": "Sitamarhi",
+    "district": "Sitamarhi",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 57,
+    "mandi_name": "Hajipur",
+    "district": "Vaishali",
+    "state": "Bihar"
+  },
+  {
+    "mandi_id": 58,
+    "mandi_name": "Chandigarh Grain Market",
+    "district": "Chandigarh",
+    "state": "Chandigarh"
+  },
+  {
+    "mandi_id": 59,
+    "mandi_name": "Balod",
+    "district": "Balod",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 60,
+    "mandi_name": "Bhatapara",
+    "district": "Baloda Bazaar",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 61,
+    "mandi_name": "Jagdalpur",
+    "district": "Bastar",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 62,
+    "mandi_name": "Bemetara",
+    "district": "Bemetara",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 63,
+    "mandi_name": "Bilaspur",
+    "district": "Bilaspur",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 64,
+    "mandi_name": "Dhamtari",
+    "district": "Dhamtari",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 65,
+    "mandi_name": "Kurud",
+    "district": "Dhamtari",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 66,
+    "mandi_name": "Durg",
+    "district": "Durg",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 67,
+    "mandi_name": "Rajim",
+    "district": "Gariyaband",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 68,
+    "mandi_name": "Jashpur Nagar",
+    "district": "Jashpur",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 69,
+    "mandi_name": "Kawardha",
+    "district": "Kabirdham",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 70,
+    "mandi_name": "Kanker",
+    "district": "Kanker",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 71,
+    "mandi_name": "Katghora",
+    "district": "Korba",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 72,
+    "mandi_name": "Saraipali",
+    "district": "Mahasamund",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 73,
+    "mandi_name": "Mungeli",
+    "district": "Mungeli",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 74,
+    "mandi_name": "Patelpali (Raigarh)",
+    "district": "Raigarh",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 75,
+    "mandi_name": "Nawapara",
+    "district": "Raipur",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 76,
+    "mandi_name": "Raipur",
+    "district": "Raipur",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 77,
+    "mandi_name": "Rajnandgaon",
+    "district": "Rajnandgaon",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 78,
+    "mandi_name": "Ambikapur",
+    "district": "Sarguja",
+    "state": "Chhattisgarh"
+  },
+  {
+    "mandi_id": 79,
+    "mandi_name": "Mapusa Market Yard",
+    "district": "North Goa",
+    "state": "Goa"
+  },
+  {
+    "mandi_id": 80,
+    "mandi_name": "Ponda Market Yard",
+    "district": "North Goa",
+    "state": "Goa"
+  },
+  {
+    "mandi_id": 81,
+    "mandi_name": "Sanquelim Market Yard",
+    "district": "North Goa",
+    "state": "Goa"
+  },
+  {
+    "mandi_id": 82,
+    "mandi_name": "Valpoi Market Yard.",
+    "district": "North Goa",
+    "state": "Goa"
+  },
+  {
+    "mandi_id": 83,
+    "mandi_name": "Canacona Market Yard",
+    "district": "South Goa",
+    "state": "Goa"
+  },
+  {
+    "mandi_id": 84,
+    "mandi_name": "Curchorem Market Yard",
+    "district": "South Goa",
+    "state": "Goa"
+  },
+  {
+    "mandi_id": 85,
+    "mandi_name": "Margao Main Market Yard",
+    "district": "South Goa",
+    "state": "Goa"
+  },
+  {
+    "mandi_id": 86,
+    "mandi_name": "Ahmedabad",
+    "district": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 87,
+    "mandi_name": "Bavla",
+    "district": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 88,
+    "mandi_name": "Dhandhuka",
+    "district": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 89,
+    "mandi_name": "Dhoalka",
+    "district": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 90,
+    "mandi_name": "Mandal",
+    "district": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 91,
+    "mandi_name": "Sanand",
+    "district": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 92,
+    "mandi_name": "Viramgam",
+    "district": "Ahmedabad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 93,
+    "mandi_name": "Amreli",
+    "district": "Amreli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 94,
+    "mandi_name": "Babra",
+    "district": "Amreli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 95,
+    "mandi_name": "Bagasara",
+    "district": "Amreli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 96,
+    "mandi_name": "Dhari",
+    "district": "Amreli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 97,
+    "mandi_name": "Rajula",
+    "district": "Amreli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 98,
+    "mandi_name": "Savarkundla",
+    "district": "Amreli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 99,
+    "mandi_name": "Anand",
+    "district": "Anand",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 100,
+    "mandi_name": "Borsad",
+    "district": "Anand",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 101,
+    "mandi_name": "Khambhat",
+    "district": "Anand",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 102,
+    "mandi_name": "Petalad",
+    "district": "Anand",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 103,
+    "mandi_name": "Tarapur",
+    "district": "Anand",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 104,
+    "mandi_name": "Bayad",
+    "district": "Aravalli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 105,
+    "mandi_name": "Bhiloda",
+    "district": "Aravalli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 106,
+    "mandi_name": "Malpur",
+    "district": "Aravalli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 107,
+    "mandi_name": "Modasa",
+    "district": "Aravalli",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 108,
+    "mandi_name": "Bhabhar",
+    "district": "Banaskantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 109,
+    "mandi_name": "Deesa",
+    "district": "Banaskantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 110,
+    "mandi_name": "Deodar",
+    "district": "Banaskantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 111,
+    "mandi_name": "Dhanera",
+    "district": "Banaskantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 112,
+    "mandi_name": "Lakhni",
+    "district": "Banaskantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 113,
+    "mandi_name": "Palanpur",
+    "district": "Banaskantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 114,
+    "mandi_name": "Panthawada",
+    "district": "Banaskantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 115,
+    "mandi_name": "Thara",
+    "district": "Banaskantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 116,
+    "mandi_name": "Tharad",
+    "district": "Banaskantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 117,
+    "mandi_name": "Bharuch",
+    "district": "Bharuch",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 118,
+    "mandi_name": "Jhagadiya",
+    "district": "Bharuch",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 119,
+    "mandi_name": "Valia",
+    "district": "Bharuch",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 120,
+    "mandi_name": "Bhavnagar",
+    "district": "Bhavnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 121,
+    "mandi_name": "Gariyadhar",
+    "district": "Bhavnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 122,
+    "mandi_name": "Mahuva",
+    "district": "Bhavnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 123,
+    "mandi_name": "Palitana",
+    "district": "Bhavnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 124,
+    "mandi_name": "Sihor",
+    "district": "Bhavnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 125,
+    "mandi_name": "Talaja",
+    "district": "Bhavnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 126,
+    "mandi_name": "Umrala",
+    "district": "Bhavnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 127,
+    "mandi_name": "Valabhipur",
+    "district": "Bhavnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 128,
+    "mandi_name": "Botad",
+    "district": "Botad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 129,
+    "mandi_name": "Gadhada",
+    "district": "Botad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 130,
+    "mandi_name": "Bodeli",
+    "district": "Chhota Udaipur",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 131,
+    "mandi_name": "Pavi-Jetpur",
+    "district": "Chhota Udaipur",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 132,
+    "mandi_name": "Dahod",
+    "district": "Dahod",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 133,
+    "mandi_name": "Devgadbaria",
+    "district": "Dahod",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 134,
+    "mandi_name": "Fatehpura",
+    "district": "Dahod",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 135,
+    "mandi_name": "Jhalod",
+    "district": "Dahod",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 136,
+    "mandi_name": "Limkheda",
+    "district": "Dahod",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 137,
+    "mandi_name": "Sanjeli",
+    "district": "Dahod",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 138,
+    "mandi_name": "Ahwa",
+    "district": "Dang",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 139,
+    "mandi_name": "Jamkhambhaliya",
+    "district": "Devbhoomi Dwarka",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 140,
+    "mandi_name": "Dehgam",
+    "district": "Gandhinagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 141,
+    "mandi_name": "Gandhinagar",
+    "district": "Gandhinagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 142,
+    "mandi_name": "Kalol",
+    "district": "Gandhinagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 143,
+    "mandi_name": "Mansa",
+    "district": "Gandhinagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 144,
+    "mandi_name": "Kodinar",
+    "district": "Gir Somnath",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 145,
+    "mandi_name": "Talalagir",
+    "district": "Gir Somnath",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 146,
+    "mandi_name": "Una",
+    "district": "Gir Somnath",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 147,
+    "mandi_name": "Veraval",
+    "district": "Gir Somnath",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 148,
+    "mandi_name": "Bhanvad",
+    "district": "Jamnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 149,
+    "mandi_name": "Dhrol",
+    "district": "Jamnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 150,
+    "mandi_name": "Jam Jodhpur",
+    "district": "Jamnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 151,
+    "mandi_name": "Jamnagar",
+    "district": "Jamnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 152,
+    "mandi_name": "Kalavad",
+    "district": "Jamnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 153,
+    "mandi_name": "Lalpur",
+    "district": "Jamnagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 154,
+    "mandi_name": "Bhesan",
+    "district": "Junagadh",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 155,
+    "mandi_name": "Junagadh",
+    "district": "Junagadh",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 156,
+    "mandi_name": "Keshod",
+    "district": "Junagadh",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 157,
+    "mandi_name": "Visavadar",
+    "district": "Junagadh",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 158,
+    "mandi_name": "Kapadwanj",
+    "district": "Kheda",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 159,
+    "mandi_name": "Kathlal",
+    "district": "Kheda",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 160,
+    "mandi_name": "Mahemdavad",
+    "district": "Kheda",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 161,
+    "mandi_name": "Matar",
+    "district": "Kheda",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 162,
+    "mandi_name": "Nadiad",
+    "district": "Kheda",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 163,
+    "mandi_name": "Thasra",
+    "district": "Kheda",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 164,
+    "mandi_name": "Anjar",
+    "district": "Kutch",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 165,
+    "mandi_name": "Bhuj",
+    "district": "Kutch",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 166,
+    "mandi_name": "Mandvi",
+    "district": "Kutch",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 167,
+    "mandi_name": "Rapar",
+    "district": "Kutch",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 168,
+    "mandi_name": "Lunawada",
+    "district": "Mahisagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 169,
+    "mandi_name": "Virpur",
+    "district": "Mahisagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 170,
+    "mandi_name": "Kadi",
+    "district": "Mehsana",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 171,
+    "mandi_name": "Mehsana",
+    "district": "Mehsana",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 172,
+    "mandi_name": "Unava",
+    "district": "Mehsana",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 173,
+    "mandi_name": "Unjha",
+    "district": "Mehsana",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 174,
+    "mandi_name": "Vijapur",
+    "district": "Mehsana",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 175,
+    "mandi_name": "Visnagar",
+    "district": "Mehsana",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 176,
+    "mandi_name": "Halvad",
+    "district": "Morbi",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 177,
+    "mandi_name": "Morbi",
+    "district": "Morbi",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 178,
+    "mandi_name": "Wankaner",
+    "district": "Morbi",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 179,
+    "mandi_name": "Dediyapada",
+    "district": "Narmada",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 180,
+    "mandi_name": "Rajpipla",
+    "district": "Narmada",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 181,
+    "mandi_name": "Selemba",
+    "district": "Narmada",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 182,
+    "mandi_name": "Tilakvada",
+    "district": "Narmada",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 183,
+    "mandi_name": "Bilimora",
+    "district": "Navsari",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 184,
+    "mandi_name": "Chikhli",
+    "district": "Navsari",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 185,
+    "mandi_name": "Navsari",
+    "district": "Navsari",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 186,
+    "mandi_name": "Vasda",
+    "district": "Navsari",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 187,
+    "mandi_name": "Godhra",
+    "district": "Panchamahal",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 188,
+    "mandi_name": "Chanasma",
+    "district": "Patan",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 189,
+    "mandi_name": "Patan",
+    "district": "Patan",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 190,
+    "mandi_name": "Radhanpur",
+    "district": "Patan",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 191,
+    "mandi_name": "Siddhpur",
+    "district": "Patan",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 192,
+    "mandi_name": "Porbandar",
+    "district": "Porbandar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 193,
+    "mandi_name": "Dhoraji",
+    "district": "Rajkot",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 194,
+    "mandi_name": "Gondal",
+    "district": "Rajkot",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 195,
+    "mandi_name": "Jamkandorna",
+    "district": "Rajkot",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 196,
+    "mandi_name": "Jasdan",
+    "district": "Rajkot",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 197,
+    "mandi_name": "Jetpur",
+    "district": "Rajkot",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 198,
+    "mandi_name": "Rajkot",
+    "district": "Rajkot",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 199,
+    "mandi_name": "Upleta",
+    "district": "Rajkot",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 200,
+    "mandi_name": "Vinchhiya",
+    "district": "Rajkot",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 201,
+    "mandi_name": "Himmatnagar",
+    "district": "Sabarkantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 202,
+    "mandi_name": "Idar",
+    "district": "Sabarkantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 203,
+    "mandi_name": "Prantij",
+    "district": "Sabarkantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 204,
+    "mandi_name": "Talod",
+    "district": "Sabarkantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 205,
+    "mandi_name": "Vadali",
+    "district": "Sabarkantha",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 206,
+    "mandi_name": "Bardoli",
+    "district": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 207,
+    "mandi_name": "Kosamba",
+    "district": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 208,
+    "mandi_name": "Mahuva",
+    "district": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 209,
+    "mandi_name": "Mandvi",
+    "district": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 210,
+    "mandi_name": "Surat",
+    "district": "Surat",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 211,
+    "mandi_name": "Chotila",
+    "district": "Surendranagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 212,
+    "mandi_name": "Dhangadhra",
+    "district": "Surendranagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 213,
+    "mandi_name": "Patdi",
+    "district": "Surendranagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 214,
+    "mandi_name": "Wadhwan",
+    "district": "Surendranagar",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 215,
+    "mandi_name": "Kukarmunda",
+    "district": "Tapi",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 216,
+    "mandi_name": "Nizar",
+    "district": "Tapi",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 217,
+    "mandi_name": "Songadh",
+    "district": "Tapi",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 218,
+    "mandi_name": "Ucchal",
+    "district": "Tapi",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 219,
+    "mandi_name": "Valod",
+    "district": "Tapi",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 220,
+    "mandi_name": "Vyara",
+    "district": "Tapi",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 221,
+    "mandi_name": "Dabhoi",
+    "district": "Vadodara",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 222,
+    "mandi_name": "Desar",
+    "district": "Vadodara",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 223,
+    "mandi_name": "Karjan",
+    "district": "Vadodara",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 224,
+    "mandi_name": "Padara",
+    "district": "Vadodara",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 225,
+    "mandi_name": "Savli",
+    "district": "Vadodara",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 226,
+    "mandi_name": "Vadodara",
+    "district": "Vadodara",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 227,
+    "mandi_name": "Kaprada",
+    "district": "Valsad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 228,
+    "mandi_name": "Pardi",
+    "district": "Valsad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 229,
+    "mandi_name": "Valsad",
+    "district": "Valsad",
+    "state": "Gujarat"
+  },
+  {
+    "mandi_id": 230,
+    "mandi_name": "Ambala",
+    "district": "Ambala",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 231,
+    "mandi_name": "Ambala Cantt.",
+    "district": "Ambala",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 232,
+    "mandi_name": "BARARA",
+    "district": "Ambala",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 233,
+    "mandi_name": "Mullana",
+    "district": "Ambala",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 234,
+    "mandi_name": "Naraingarh",
+    "district": "Ambala",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 235,
+    "mandi_name": "Shahzadpur",
+    "district": "Ambala",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 236,
+    "mandi_name": "BEHAL",
+    "district": "Bhiwani",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 237,
+    "mandi_name": "Bhiwani",
+    "district": "Bhiwani",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 238,
+    "mandi_name": "JUI",
+    "district": "Bhiwani",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 239,
+    "mandi_name": "LOHARU",
+    "district": "Bhiwani",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 240,
+    "mandi_name": "Siwani",
+    "district": "Bhiwani",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 241,
+    "mandi_name": "TOSHAM",
+    "district": "Bhiwani",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 242,
+    "mandi_name": "Charkhi Dadri",
+    "district": "Charkhi Dadri",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 243,
+    "mandi_name": "BALLABGARH",
+    "district": "Faridabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 244,
+    "mandi_name": "Faridabad",
+    "district": "Faridabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 245,
+    "mandi_name": "MOHNA",
+    "district": "Faridabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 246,
+    "mandi_name": "TIGAON",
+    "district": "Faridabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 247,
+    "mandi_name": "Bhattu Kalan",
+    "district": "Fatehabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 248,
+    "mandi_name": "BHUNA",
+    "district": "Fatehabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 249,
+    "mandi_name": "Fatehabad",
+    "district": "Fatehabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 250,
+    "mandi_name": "Jakhal",
+    "district": "Fatehabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 251,
+    "mandi_name": "Ratia",
+    "district": "Fatehabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 252,
+    "mandi_name": "Tohana",
+    "district": "Fatehabad",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 253,
+    "mandi_name": "FARRUKHNAGAR",
+    "district": "Gurugram",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 254,
+    "mandi_name": "Gurugram",
+    "district": "Gurugram",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 255,
+    "mandi_name": "PATAUDI",
+    "district": "Gurugram",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 256,
+    "mandi_name": "SOHNA",
+    "district": "Gurugram",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 257,
+    "mandi_name": "Adampur",
+    "district": "Hisar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 258,
+    "mandi_name": "Barwala (Hisar)",
+    "district": "Hisar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 259,
+    "mandi_name": "BASS",
+    "district": "Hisar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 260,
+    "mandi_name": "Hansi",
+    "district": "Hisar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 261,
+    "mandi_name": "Hisar",
+    "district": "Hisar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 262,
+    "mandi_name": "Narnaund",
+    "district": "Hisar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 263,
+    "mandi_name": "Uklana",
+    "district": "Hisar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 264,
+    "mandi_name": "BAHADURGARH",
+    "district": "Jhajjar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 265,
+    "mandi_name": "BERI",
+    "district": "Jhajjar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 266,
+    "mandi_name": "Jhajjar",
+    "district": "Jhajjar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 267,
+    "mandi_name": "ALEWA",
+    "district": "Jind",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 268,
+    "mandi_name": "Jind",
+    "district": "Jind",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 269,
+    "mandi_name": "Julana",
+    "district": "Jind",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 270,
+    "mandi_name": "Narwana",
+    "district": "Jind",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 271,
+    "mandi_name": "Pillukhera",
+    "district": "Jind",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 272,
+    "mandi_name": "Safidon",
+    "district": "Jind",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 273,
+    "mandi_name": "Uchana",
+    "district": "Jind",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 274,
+    "mandi_name": "Cheeka",
+    "district": "Kaithal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 275,
+    "mandi_name": "Dhand",
+    "district": "Kaithal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 276,
+    "mandi_name": "Kaithal",
+    "district": "Kaithal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 277,
+    "mandi_name": "Kalayat",
+    "district": "Kaithal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 278,
+    "mandi_name": "Pai",
+    "district": "Kaithal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 279,
+    "mandi_name": "Pundri",
+    "district": "Kaithal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 280,
+    "mandi_name": "SIWAN",
+    "district": "Kaithal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 281,
+    "mandi_name": "Asandh",
+    "district": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 282,
+    "mandi_name": "Gharaunda",
+    "district": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 283,
+    "mandi_name": "Indri",
+    "district": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 284,
+    "mandi_name": "JUNDLA",
+    "district": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 285,
+    "mandi_name": "Karnal",
+    "district": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 286,
+    "mandi_name": "Nigdhu",
+    "district": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 287,
+    "mandi_name": "Nilokheri",
+    "district": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 288,
+    "mandi_name": "Nissing",
+    "district": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 289,
+    "mandi_name": "Taraori",
+    "district": "Karnal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 290,
+    "mandi_name": "BABAIN",
+    "district": "Kurukshetra",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 291,
+    "mandi_name": "Ismailabad",
+    "district": "Kurukshetra",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 292,
+    "mandi_name": "Ladwa",
+    "district": "Kurukshetra",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 293,
+    "mandi_name": "Pehowa",
+    "district": "Kurukshetra",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 294,
+    "mandi_name": "Pipli",
+    "district": "Kurukshetra",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 295,
+    "mandi_name": "Shahbad",
+    "district": "Kurukshetra",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 296,
+    "mandi_name": "Thanesar",
+    "district": "Kurukshetra",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 297,
+    "mandi_name": "Ferozpur Jhirka",
+    "district": "Mewat (Nuh)",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 298,
+    "mandi_name": "Nuh",
+    "district": "Mewat (Nuh)",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 299,
+    "mandi_name": "Punhana",
+    "district": "Mewat (Nuh)",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 300,
+    "mandi_name": "Tauru",
+    "district": "Mewat (Nuh)",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 301,
+    "mandi_name": "Ateli",
+    "district": "Mohindergarh",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 302,
+    "mandi_name": "Kanina",
+    "district": "Mohindergarh",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 303,
+    "mandi_name": "Mohindergarh",
+    "district": "Mohindergarh",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 304,
+    "mandi_name": "Narnaul",
+    "district": "Mohindergarh",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 305,
+    "mandi_name": "HATHIN",
+    "district": "Palawal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 306,
+    "mandi_name": "HASSANPUR",
+    "district": "Palwal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 307,
+    "mandi_name": "Hodal",
+    "district": "Palwal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 308,
+    "mandi_name": "Palwal",
+    "district": "Palwal",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 309,
+    "mandi_name": "Barwala (Panchkula)",
+    "district": "Panchkula",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 310,
+    "mandi_name": "Panchkula",
+    "district": "Panchkula",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 311,
+    "mandi_name": "Raipur Rani",
+    "district": "Panchkula",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 312,
+    "mandi_name": "BAPOLI",
+    "district": "Panipat",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 313,
+    "mandi_name": "Israna",
+    "district": "Panipat",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 314,
+    "mandi_name": "Madlauda",
+    "district": "Panipat",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 315,
+    "mandi_name": "Panipat",
+    "district": "Panipat",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 316,
+    "mandi_name": "Samalkha",
+    "district": "Panipat",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 317,
+    "mandi_name": "Kosli",
+    "district": "Rewari",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 318,
+    "mandi_name": "Rewari",
+    "district": "Rewari",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 319,
+    "mandi_name": "Meham",
+    "district": "Rohtak",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 320,
+    "mandi_name": "Rohtak",
+    "district": "Rohtak",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 321,
+    "mandi_name": "SAMPLA",
+    "district": "Rohtak",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 322,
+    "mandi_name": "Dabwali",
+    "district": "Sirsa",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 323,
+    "mandi_name": "DING",
+    "district": "Sirsa",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 324,
+    "mandi_name": "Ellanabad",
+    "district": "Sirsa",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 325,
+    "mandi_name": "Kalanwali",
+    "district": "Sirsa",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 326,
+    "mandi_name": "Rania",
+    "district": "Sirsa",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 327,
+    "mandi_name": "Sirsa",
+    "district": "Sirsa",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 328,
+    "mandi_name": "Ganaur",
+    "district": "Sonipat",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 329,
+    "mandi_name": "Gohana",
+    "district": "Sonipat",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 330,
+    "mandi_name": "KHARKHODA",
+    "district": "Sonipat",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 331,
+    "mandi_name": "Sonepat",
+    "district": "Sonipat",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 332,
+    "mandi_name": "Chhachhrauli",
+    "district": "Yamuna Nagar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 333,
+    "mandi_name": "Jagadhari",
+    "district": "Yamuna Nagar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 334,
+    "mandi_name": "MUSTAFABAD",
+    "district": "Yamuna Nagar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 335,
+    "mandi_name": "RADAUR",
+    "district": "Yamuna Nagar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 336,
+    "mandi_name": "Sadhaura",
+    "district": "Yamuna Nagar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 337,
+    "mandi_name": "Yamuna Nagar",
+    "district": "Yamuna Nagar",
+    "state": "Haryana"
+  },
+  {
+    "mandi_id": 338,
+    "mandi_name": "BILASPUR",
+    "district": "Bilaspur",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 339,
+    "mandi_name": "Chamba",
+    "district": "Chamba",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 340,
+    "mandi_name": "Hamirpur",
+    "district": "Hamirpur",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 341,
+    "mandi_name": "NADAUN",
+    "district": "Hamirpur",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 342,
+    "mandi_name": "Baijnath",
+    "district": "Kangra",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 343,
+    "mandi_name": "Dharmshala",
+    "district": "Kangra",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 344,
+    "mandi_name": "Jassour",
+    "district": "Kangra",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 345,
+    "mandi_name": "Kangra",
+    "district": "Kangra",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 346,
+    "mandi_name": "NAGROTA BAGWAN",
+    "district": "Kangra",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 347,
+    "mandi_name": "Palampur",
+    "district": "Kangra",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 348,
+    "mandi_name": "Bandrol",
+    "district": "Kullu",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 349,
+    "mandi_name": "Bhuntar",
+    "district": "Kullu",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 350,
+    "mandi_name": "CHOURIBIHAL",
+    "district": "Kullu",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 351,
+    "mandi_name": "KULLU",
+    "district": "Kullu",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 352,
+    "mandi_name": "Patlikuhal",
+    "district": "Kullu",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 353,
+    "mandi_name": "SHAAT",
+    "district": "Kullu",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 354,
+    "mandi_name": "Dhanotu",
+    "district": "Mandi",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 355,
+    "mandi_name": "Mandi",
+    "district": "Mandi",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 356,
+    "mandi_name": "SMY Chailchowk",
+    "district": "Mandi",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 357,
+    "mandi_name": "Takoli",
+    "district": "Mandi",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 358,
+    "mandi_name": "Bhattakufar Dhalli",
+    "district": "Shimla",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 359,
+    "mandi_name": "Dhalli Shimla",
+    "district": "Shimla",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 360,
+    "mandi_name": "Khadapathhar",
+    "district": "Shimla",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 361,
+    "mandi_name": "NERWA",
+    "district": "Shimla",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 362,
+    "mandi_name": "Parala",
+    "district": "Shimla",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 363,
+    "mandi_name": "Rohru-Shimla",
+    "district": "Shimla",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 364,
+    "mandi_name": "SMY Mehandli",
+    "district": "Shimla",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 365,
+    "mandi_name": "SMY Tapri",
+    "district": "Shimla",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 366,
+    "mandi_name": "NAHAN",
+    "district": "Sirmaur",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 367,
+    "mandi_name": "Paonta Sahib",
+    "district": "Sirmaur",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 368,
+    "mandi_name": "RAJGARH",
+    "district": "Sirmaur",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 369,
+    "mandi_name": "DHARAMPUR",
+    "district": "Solan",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 370,
+    "mandi_name": "Parwanoo",
+    "district": "Solan",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 371,
+    "mandi_name": "Solan",
+    "district": "Solan",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 372,
+    "mandi_name": "WAKHNAGHAT",
+    "district": "Solan",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 373,
+    "mandi_name": "Santoshgarh",
+    "district": "Una",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 374,
+    "mandi_name": "TAKARLA",
+    "district": "Una",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 375,
+    "mandi_name": "Una",
+    "district": "Una",
+    "state": "Himachal Pradesh"
+  },
+  {
+    "mandi_id": 376,
+    "mandi_name": "ANANTNAG",
+    "district": "Anantnag",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 377,
+    "mandi_name": "Baramulla ",
+    "district": "Baramulla",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 378,
+    "mandi_name": "CHARARISHARIEF",
+    "district": "Chararisharief",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 379,
+    "mandi_name": "Zazna",
+    "district": "Ganderbal",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 380,
+    "mandi_name": "HANDWARA",
+    "district": "Handwara",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 381,
+    "mandi_name": "Narwal",
+    "district": "Jammu",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 382,
+    "mandi_name": "KATHUA",
+    "district": "Kathua",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 383,
+    "mandi_name": "KULGAM",
+    "district": "Kulgam",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 384,
+    "mandi_name": "Bumhama",
+    "district": "Kupwara",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 385,
+    "mandi_name": "PULWAMA",
+    "district": "Pulwama",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 386,
+    "mandi_name": "Phayalana",
+    "district": "Rajouri",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 387,
+    "mandi_name": "Batote",
+    "district": "Ramban",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 388,
+    "mandi_name": "SHOPIAN",
+    "district": "Shopian",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 389,
+    "mandi_name": "SOPORE",
+    "district": "Sopore",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 390,
+    "mandi_name": "Parimpora Sgr",
+    "district": "Srinagar",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 391,
+    "mandi_name": "UDHAMPUR",
+    "district": "Udhampur",
+    "state": "Jammu & Kashmir"
+  },
+  {
+    "mandi_id": 392,
+    "mandi_name": "Bokaro",
+    "district": "Bokaro",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 393,
+    "mandi_name": "Deoghar",
+    "district": "Deoghar",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 394,
+    "mandi_name": "Dhanbad",
+    "district": "Dhanbad",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 395,
+    "mandi_name": "Dumka",
+    "district": "Dumka",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 396,
+    "mandi_name": "Chakulia",
+    "district": "East Singhbhum",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 397,
+    "mandi_name": "Jamshedpur",
+    "district": "East Singhbhum",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 398,
+    "mandi_name": "Garhwa",
+    "district": "Garhwa",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 399,
+    "mandi_name": "Giridih",
+    "district": "Giridih",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 400,
+    "mandi_name": "Gumla",
+    "district": "Gumla",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 401,
+    "mandi_name": "Hazaribagh",
+    "district": "Hazaribagh",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 402,
+    "mandi_name": "Koderma",
+    "district": "Koderma",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 403,
+    "mandi_name": "Lohardaga",
+    "district": "Lohardaga",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 404,
+    "mandi_name": "Pakur",
+    "district": "Pakur",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 405,
+    "mandi_name": "Daltonganj",
+    "district": "Palamu",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 406,
+    "mandi_name": "Ramgarh",
+    "district": "Ramgarh",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 407,
+    "mandi_name": "Pandra Ranchi",
+    "district": "Ranchi",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 408,
+    "mandi_name": "Sahebganj",
+    "district": "Sahebganj",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 409,
+    "mandi_name": "Simdega",
+    "district": "Simdega",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 410,
+    "mandi_name": "Chaibasa",
+    "district": "West Singhbhum",
+    "state": "Jharkhand"
+  },
+  {
+    "mandi_id": 411,
+    "mandi_name": "Saundatti",
+    "district": "Belagavi",
+    "state": "Karnataka"
+  },
+  {
+    "mandi_id": 412,
+    "mandi_name": "Channagiri",
+    "district": "Davanagere",
+    "state": "Karnataka"
+  },
+  {
+    "mandi_id": 413,
+    "mandi_name": "Chhincholi",
+    "district": "Kalaburagi",
+    "state": "Karnataka"
+  },
+  {
+    "mandi_id": 414,
+    "mandi_name": "Kalaburagi",
+    "district": "Kalaburagi",
+    "state": "Karnataka"
+  },
+  {
+    "mandi_id": 415,
+    "mandi_name": "Tiptur",
+    "district": "Tumkur",
+    "state": "Karnataka"
+  },
+  {
+    "mandi_id": 416,
+    "mandi_name": "Agricultural Rural Wholesale Market, Muvattupuzha",
+    "district": "Ernakulam",
+    "state": "Kerala"
+  },
+  {
+    "mandi_id": 417,
+    "mandi_name": "Agricultural Urban Wholesale Market, Maradu",
+    "district": "Ernakulam",
+    "state": "Kerala"
+  },
+  {
+    "mandi_id": 418,
+    "mandi_name": "Agricultural Urban Wholesale Market, Vengeri",
+    "district": "Kozhikode",
+    "state": "Kerala"
+  },
+  {
+    "mandi_id": 419,
+    "mandi_name": "Agricultural Urban Wholesale Market, Anayara",
+    "district": "Thiruvananthapuram",
+    "state": "Kerala"
+  },
+  {
+    "mandi_id": 420,
+    "mandi_name": "Rural Agricultural Wholesale Market, Nedumangad",
+    "district": "Thiruvananthapuram",
+    "state": "Kerala"
+  },
+  {
+    "mandi_id": 421,
+    "mandi_name": "Rural Agricultural Wholesale Market, Sulthan Bathery",
+    "district": "Wayanad",
+    "state": "Kerala"
+  },
+  {
+    "mandi_id": 422,
+    "mandi_name": "Agar",
+    "district": "Agar Malwa",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 423,
+    "mandi_name": "Alirajpur",
+    "district": "Alirajpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 424,
+    "mandi_name": "Jobat",
+    "district": "Alirajpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 425,
+    "mandi_name": "Anuppur",
+    "district": "Anuppur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 426,
+    "mandi_name": "Ashok Nagar",
+    "district": "Ashok Nagar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 427,
+    "mandi_name": "Mungaoli",
+    "district": "Ashok Nagar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 428,
+    "mandi_name": "Balaghat",
+    "district": "Balaghat",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 429,
+    "mandi_name": "Katangi",
+    "district": "Balaghat",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 430,
+    "mandi_name": "Barwani",
+    "district": "Barwani",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 431,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Anjad",
+    "district": "Barwani",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 432,
+    "mandi_name": "Sendhwa",
+    "district": "Barwani",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 433,
+    "mandi_name": "Betul",
+    "district": "Betul",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 434,
+    "mandi_name": "Bhind",
+    "district": "Bhind",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 435,
+    "mandi_name": "Berasia",
+    "district": "Bhopal",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 436,
+    "mandi_name": "Karond",
+    "district": "Bhopal",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 437,
+    "mandi_name": "Bina",
+    "district": "Bina",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 438,
+    "mandi_name": "Burhanpur",
+    "district": "Burhanpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 439,
+    "mandi_name": "Bada Malhera",
+    "district": "Chhatarpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 440,
+    "mandi_name": "Chhatarpur",
+    "district": "Chhatarpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 441,
+    "mandi_name": "Harpalpur",
+    "district": "Chhatarpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 442,
+    "mandi_name": "Lavkushnagar",
+    "district": "Chhatarpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 443,
+    "mandi_name": "Rajnagar",
+    "district": "Chhatarpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 444,
+    "mandi_name": "Chaurai",
+    "district": "Chhindwara",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 445,
+    "mandi_name": "Chhindwara",
+    "district": "Chhindwara",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 446,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Pandhurna",
+    "district": "Chhindwara",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 447,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Saunsar",
+    "district": "Chhindwara",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 448,
+    "mandi_name": "Damoh",
+    "district": "Damoh",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 449,
+    "mandi_name": "Jabera",
+    "district": "Damoh",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 450,
+    "mandi_name": "Patharia",
+    "district": "Damoh",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 451,
+    "mandi_name": "Datia",
+    "district": "Datia",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 452,
+    "mandi_name": "Dewas",
+    "district": "Dewas",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 453,
+    "mandi_name": "Khategaon",
+    "district": "Dewas",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 454,
+    "mandi_name": "Sonkatch",
+    "district": "Dewas",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 455,
+    "mandi_name": "Badnawar",
+    "district": "Dhar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 456,
+    "mandi_name": "Dhar",
+    "district": "Dhar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 457,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Dhamnod",
+    "district": "Dhar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 458,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Gandhwani",
+    "district": "Dhar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 459,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Kukshi",
+    "district": "Dhar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 460,
+    "mandi_name": "Manawar",
+    "district": "Dhar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 461,
+    "mandi_name": "Rajgarh",
+    "district": "Dhar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 462,
+    "mandi_name": "Aron",
+    "district": "Guna",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 463,
+    "mandi_name": "Guna",
+    "district": "Guna",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 464,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Kumbhraj",
+    "district": "Guna",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 465,
+    "mandi_name": "Dabra",
+    "district": "Gwalior",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 466,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Lashkar",
+    "district": "Gwalior",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 467,
+    "mandi_name": "Harda",
+    "district": "Harda",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 468,
+    "mandi_name": "Khirkiya",
+    "district": "Harda",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 469,
+    "mandi_name": "Sirali",
+    "district": "Harda",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 470,
+    "mandi_name": "Timarni",
+    "district": "Harda",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 471,
+    "mandi_name": "Bankhedi",
+    "district": "Hoshangabad",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 472,
+    "mandi_name": "Itarsi",
+    "district": "Hoshangabad",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 473,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Banapura",
+    "district": "Hoshangabad",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 474,
+    "mandi_name": "Pipariya",
+    "district": "Hoshangabad",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 475,
+    "mandi_name": "Semri Harchand",
+    "district": "Hoshangabad",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 476,
+    "mandi_name": "Gautampura",
+    "district": "Indore",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 477,
+    "mandi_name": "Indore",
+    "district": "Indore",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 478,
+    "mandi_name": "Mhow",
+    "district": "Indore",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 479,
+    "mandi_name": "Sanwer",
+    "district": "Indore",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 480,
+    "mandi_name": "Jabalpur",
+    "district": "Jabalpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 481,
+    "mandi_name": "Patan",
+    "district": "Jabalpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 482,
+    "mandi_name": "Sehora",
+    "district": "Jabalpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 483,
+    "mandi_name": "Shahpura-Bhitoni",
+    "district": "Jabalpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 484,
+    "mandi_name": "Jhabua",
+    "district": "Jhabua",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 485,
+    "mandi_name": "Petlawad",
+    "district": "Jhabua",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 486,
+    "mandi_name": "Thandla",
+    "district": "Jhabua",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 487,
+    "mandi_name": "Katni",
+    "district": "Katni",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 488,
+    "mandi_name": "Harsud",
+    "district": "Khandwa",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 489,
+    "mandi_name": "Khandwa",
+    "district": "Khandwa",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 490,
+    "mandi_name": "Kasrawad",
+    "district": "Khargone",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 491,
+    "mandi_name": "Khargone",
+    "district": "Khargone",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 492,
+    "mandi_name": "Khetiya",
+    "district": "Khargone",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 493,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Badwaha",
+    "district": "Khargone",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 494,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Bhikangaon",
+    "district": "Khargone",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 495,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Karhi",
+    "district": "Khargone",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 496,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Sanawad",
+    "district": "Khargone",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 497,
+    "mandi_name": "Shegaon",
+    "district": "Khargone",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 498,
+    "mandi_name": "Mandla",
+    "district": "Mandla",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 499,
+    "mandi_name": "Dalauda",
+    "district": "Mandsaur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 500,
+    "mandi_name": "Mandsaur",
+    "district": "Mandsaur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 501,
+    "mandi_name": "Pipaliya",
+    "district": "Mandsaur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 502,
+    "mandi_name": "Morena",
+    "district": "Morena",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 503,
+    "mandi_name": "Gadarwara",
+    "district": "Narsinghpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 504,
+    "mandi_name": "Gotegaon",
+    "district": "Narsinghpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 505,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Kareli",
+    "district": "Narsinghpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 506,
+    "mandi_name": "Narsinghpur",
+    "district": "Narsinghpur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 507,
+    "mandi_name": "Neemuch",
+    "district": "Neemuch",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 508,
+    "mandi_name": "Niwari",
+    "district": "Niwari",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 509,
+    "mandi_name": "Panna",
+    "district": "Panna",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 510,
+    "mandi_name": "Bareli",
+    "district": "Raisen",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 511,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Raisen",
+    "district": "Raisen",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 512,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Udaipura",
+    "district": "Raisen",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 513,
+    "mandi_name": "Obaidullaganj",
+    "district": "Raisen",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 514,
+    "mandi_name": "Silwani",
+    "district": "Raisen",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 515,
+    "mandi_name": "Biaora",
+    "district": "Rajgarh",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 516,
+    "mandi_name": "Kurawar",
+    "district": "Rajgarh",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 517,
+    "mandi_name": "Narsinghgarh",
+    "district": "Rajgarh",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 518,
+    "mandi_name": "Pachore",
+    "district": "Rajgarh",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 519,
+    "mandi_name": "Jaora",
+    "district": "Ratlam",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 520,
+    "mandi_name": "Ratlam",
+    "district": "Ratlam",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 521,
+    "mandi_name": "Sailana",
+    "district": "Ratlam",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 522,
+    "mandi_name": "Baikunthpur",
+    "district": "Rewa",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 523,
+    "mandi_name": "Chakghat",
+    "district": "Rewa",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 524,
+    "mandi_name": "Hanumana",
+    "district": "Rewa",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 525,
+    "mandi_name": "Rewa",
+    "district": "Rewa",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 526,
+    "mandi_name": "Deori",
+    "district": "Sagar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 527,
+    "mandi_name": "Garhakota",
+    "district": "Sagar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 528,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Khurai",
+    "district": "Sagar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 529,
+    "mandi_name": "Rahatgarh",
+    "district": "Sagar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 530,
+    "mandi_name": "Rehli",
+    "district": "Sagar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 531,
+    "mandi_name": "Sagar",
+    "district": "Sagar",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 532,
+    "mandi_name": "Amarpatan",
+    "district": "Satna",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 533,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Nagod",
+    "district": "Satna",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 534,
+    "mandi_name": "Maihar",
+    "district": "Satna",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 535,
+    "mandi_name": "Satna",
+    "district": "Satna",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 536,
+    "mandi_name": "Ashta",
+    "district": "Sehore",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 537,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Nasrullaganj",
+    "district": "Sehore",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 538,
+    "mandi_name": "Sehore",
+    "district": "Sehore",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 539,
+    "mandi_name": "Chhapara",
+    "district": "Seoni",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 540,
+    "mandi_name": "Palari",
+    "district": "Seoni",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 541,
+    "mandi_name": "Seoni",
+    "district": "Seoni",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 542,
+    "mandi_name": "Beohari",
+    "district": "Shahdol",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 543,
+    "mandi_name": "Shahdol",
+    "district": "Shahdol",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 544,
+    "mandi_name": "Shajapur",
+    "district": "Shajapur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 545,
+    "mandi_name": "Shujalpur",
+    "district": "Shajapur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 546,
+    "mandi_name": "Sheopurkalan",
+    "district": "Sheopur",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 547,
+    "mandi_name": "Badarwas",
+    "district": "Shivpuri",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 548,
+    "mandi_name": "Karera",
+    "district": "Shivpuri",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 549,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Kolaras",
+    "district": "Shivpuri",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 550,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Shivpuri",
+    "district": "Shivpuri",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 551,
+    "mandi_name": "Sidhi",
+    "district": "Sidhi",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 552,
+    "mandi_name": "Krishi Upaj Mandi Samiti-Singrauli",
+    "district": "Singrauli",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 553,
+    "mandi_name": "Tikamgarh",
+    "district": "Tikamgarh",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 554,
+    "mandi_name": "Badnagar",
+    "district": "Ujjain",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 555,
+    "mandi_name": "Mahidpur",
+    "district": "Ujjain",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 556,
+    "mandi_name": "Ujjain",
+    "district": "Ujjain",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 557,
+    "mandi_name": "Umaria",
+    "district": "Umaria",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 558,
+    "mandi_name": "Ganj Basoda",
+    "district": "Vidisha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 559,
+    "mandi_name": "Sironj",
+    "district": "Vidisha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 560,
+    "mandi_name": "Vidisha",
+    "district": "Vidisha",
+    "state": "Madhya Pradesh"
+  },
+  {
+    "mandi_id": 561,
+    "mandi_name": "Ahmednagar",
+    "district": "Ahmednagar",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 562,
+    "mandi_name": "Newasa",
+    "district": "Ahmednagar",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 563,
+    "mandi_name": "Parner",
+    "district": "Ahmednagar",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 564,
+    "mandi_name": "Rahata",
+    "district": "Ahmednagar",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 565,
+    "mandi_name": "Rahuri",
+    "district": "Ahmednagar",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 566,
+    "mandi_name": "Sangamner",
+    "district": "Ahmednagar",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 567,
+    "mandi_name": "Shrirampur",
+    "district": "Ahmednagar",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 568,
+    "mandi_name": "Akola",
+    "district": "Akola",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 569,
+    "mandi_name": "Akot",
+    "district": "Akola",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 570,
+    "mandi_name": "Murtizapur",
+    "district": "Akola",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 571,
+    "mandi_name": "Telhara",
+    "district": "Akola",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 572,
+    "mandi_name": "Achalpur",
+    "district": "Amrawati",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 573,
+    "mandi_name": "Amrawati",
+    "district": "Amrawati",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 574,
+    "mandi_name": "Anjangaon Surji",
+    "district": "Amrawati",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 575,
+    "mandi_name": "Chandur Bazar",
+    "district": "Amrawati",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 576,
+    "mandi_name": "Daryapur",
+    "district": "Amrawati",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 577,
+    "mandi_name": "Dhamangaon Railway",
+    "district": "Amrawati",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 578,
+    "mandi_name": "Morshi",
+    "district": "Amrawati",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 579,
+    "mandi_name": "Aurangabad",
+    "district": "Aurangabad",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 580,
+    "mandi_name": "Gangapur",
+    "district": "Aurangabad",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 581,
+    "mandi_name": "Kannad",
+    "district": "Aurangabad",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 582,
+    "mandi_name": "Lasur Station",
+    "district": "Aurangabad",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 583,
+    "mandi_name": "Vaijapur",
+    "district": "Aurangabad",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 584,
+    "mandi_name": "Ambejogai",
+    "district": "Beed",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 585,
+    "mandi_name": "Beed",
+    "district": "Beed",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 586,
+    "mandi_name": "Gevrai",
+    "district": "Beed",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 587,
+    "mandi_name": "Majalgaon",
+    "district": "Beed",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 588,
+    "mandi_name": "Parli Vaijyanath",
+    "district": "Beed",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 589,
+    "mandi_name": "Lakhandur",
+    "district": "Bhandara",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 590,
+    "mandi_name": "Tumsar",
+    "district": "Bhandara",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 591,
+    "mandi_name": "Chikhali",
+    "district": "Buldhana",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 592,
+    "mandi_name": "Khamgaon",
+    "district": "Buldhana",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 593,
+    "mandi_name": "Lonar",
+    "district": "Buldhana",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 594,
+    "mandi_name": "Malkapur",
+    "district": "Buldhana",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 595,
+    "mandi_name": "Mehkar",
+    "district": "Buldhana",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 596,
+    "mandi_name": "Nandura",
+    "district": "Buldhana",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 597,
+    "mandi_name": "Shegaon",
+    "district": "Buldhana",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 598,
+    "mandi_name": "Chandrapur",
+    "district": "Chandrapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 599,
+    "mandi_name": "Mul",
+    "district": "Chandrapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 600,
+    "mandi_name": "Nagbhid",
+    "district": "Chandrapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 601,
+    "mandi_name": "Sindewahi",
+    "district": "Chandrapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 602,
+    "mandi_name": "Varora",
+    "district": "Chandrapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 603,
+    "mandi_name": "Dhule",
+    "district": "Dhule",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 604,
+    "mandi_name": "Dondaicha",
+    "district": "Dhule",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 605,
+    "mandi_name": "Shirpur",
+    "district": "Dhule",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 606,
+    "mandi_name": "Aheri",
+    "district": "Gadchiroli",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 607,
+    "mandi_name": "Armori-Desaiganj",
+    "district": "Gadchiroli",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 608,
+    "mandi_name": "Chamorshi",
+    "district": "Gadchiroli",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 609,
+    "mandi_name": "Amgaon",
+    "district": "Gondiya",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 610,
+    "mandi_name": "Arjuni Morgoan",
+    "district": "Gondiya",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 611,
+    "mandi_name": "Gondiya",
+    "district": "Gondiya",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 612,
+    "mandi_name": "Tiroda",
+    "district": "Gondiya",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 613,
+    "mandi_name": "Basmat",
+    "district": "Hingoli",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 614,
+    "mandi_name": "Hingoli",
+    "district": "Hingoli",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 615,
+    "mandi_name": "Sengoan",
+    "district": "Hingoli",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 616,
+    "mandi_name": "Amalner",
+    "district": "Jalgaon",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 617,
+    "mandi_name": "Chalisgaon",
+    "district": "Jalgaon",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 618,
+    "mandi_name": "Chopda",
+    "district": "Jalgaon",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 619,
+    "mandi_name": "Jalgaon",
+    "district": "Jalgaon",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 620,
+    "mandi_name": "Jalna",
+    "district": "Jalna",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 621,
+    "mandi_name": "Partur",
+    "district": "Jalna",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 622,
+    "mandi_name": "Kolhapur",
+    "district": "Kolhapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 623,
+    "mandi_name": "Ausa",
+    "district": "Latur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 624,
+    "mandi_name": "Latur",
+    "district": "Latur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 625,
+    "mandi_name": "Udgir",
+    "district": "Latur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 626,
+    "mandi_name": "Mumbai",
+    "district": "Mumbai",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 627,
+    "mandi_name": "Bhiwapur",
+    "district": "Nagpur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 628,
+    "mandi_name": "Katol",
+    "district": "Nagpur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 629,
+    "mandi_name": "Nagpur",
+    "district": "Nagpur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 630,
+    "mandi_name": "Saoner",
+    "district": "Nagpur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 631,
+    "mandi_name": "Umred",
+    "district": "Nagpur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 632,
+    "mandi_name": "Bhokar",
+    "district": "Nanded",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 633,
+    "mandi_name": "Dharmabad",
+    "district": "Nanded",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 634,
+    "mandi_name": "Nanded",
+    "district": "Nanded",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 635,
+    "mandi_name": "Nandurbar",
+    "district": "Nandurbar",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 636,
+    "mandi_name": "Shahada",
+    "district": "Nandurbar",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 637,
+    "mandi_name": "Chandvad",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 638,
+    "mandi_name": "Deola",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 639,
+    "mandi_name": "Dindori",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 640,
+    "mandi_name": "Lasalgaon",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 641,
+    "mandi_name": "Malegaon",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 642,
+    "mandi_name": "Nampur",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 643,
+    "mandi_name": "Nandgaon",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 644,
+    "mandi_name": "Nashik",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 645,
+    "mandi_name": "Pimpalgaon Baswant",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 646,
+    "mandi_name": "Satana",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 647,
+    "mandi_name": "Sinnar",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 648,
+    "mandi_name": "Umrane",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 649,
+    "mandi_name": "Yeola",
+    "district": "Nashik",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 650,
+    "mandi_name": "Kalamb",
+    "district": "Osmanabad",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 651,
+    "mandi_name": "Murum",
+    "district": "Osmanabad",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 652,
+    "mandi_name": "Tuljapur",
+    "district": "Osmanabad",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 653,
+    "mandi_name": "Umarga",
+    "district": "Osmanabad",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 654,
+    "mandi_name": "Jintur",
+    "district": "Parbhani",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 655,
+    "mandi_name": "Parbhani",
+    "district": "Parbhani",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 656,
+    "mandi_name": "Selu",
+    "district": "Parbhani",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 657,
+    "mandi_name": "Baramati",
+    "district": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 658,
+    "mandi_name": "Dound",
+    "district": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 659,
+    "mandi_name": "Indapur",
+    "district": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 660,
+    "mandi_name": "Junnar",
+    "district": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 661,
+    "mandi_name": "Khed",
+    "district": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 662,
+    "mandi_name": "Pune",
+    "district": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 663,
+    "mandi_name": "Shirur",
+    "district": "Pune",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 664,
+    "mandi_name": "Aatpadi",
+    "district": "Sangli",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 665,
+    "mandi_name": "Sangli",
+    "district": "Sangli",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 666,
+    "mandi_name": "Karad",
+    "district": "Satara",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 667,
+    "mandi_name": "Lonand",
+    "district": "Satara",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 668,
+    "mandi_name": "Phaltan",
+    "district": "Satara",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 669,
+    "mandi_name": "Wai",
+    "district": "Satara",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 670,
+    "mandi_name": "Akluj",
+    "district": "Solapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 671,
+    "mandi_name": "Barshi",
+    "district": "Solapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 672,
+    "mandi_name": "Dudhani",
+    "district": "Solapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 673,
+    "mandi_name": "Karmala",
+    "district": "Solapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 674,
+    "mandi_name": "Mangalwedha",
+    "district": "Solapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 675,
+    "mandi_name": "Pandharpur",
+    "district": "Solapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 676,
+    "mandi_name": "Sangola",
+    "district": "Solapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 677,
+    "mandi_name": "Solapur",
+    "district": "Solapur",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 678,
+    "mandi_name": "Arvi",
+    "district": "Wardha",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 679,
+    "mandi_name": "Hinganghat",
+    "district": "Wardha",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 680,
+    "mandi_name": "Sindi",
+    "district": "Wardha",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 681,
+    "mandi_name": "Wardha",
+    "district": "Wardha",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 682,
+    "mandi_name": "Karanja",
+    "district": "Washim",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 683,
+    "mandi_name": "Malegaon",
+    "district": "Washim",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 684,
+    "mandi_name": "Mangrulpeer",
+    "district": "Washim",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 685,
+    "mandi_name": "Manora",
+    "district": "Washim",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 686,
+    "mandi_name": "Risod",
+    "district": "Washim",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 687,
+    "mandi_name": "Washim",
+    "district": "Washim",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 688,
+    "mandi_name": "Arni",
+    "district": "Yawatmal",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 689,
+    "mandi_name": "Babhulgaon",
+    "district": "Yawatmal",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 690,
+    "mandi_name": "Digras",
+    "district": "Yawatmal",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 691,
+    "mandi_name": "Ner Parasopant",
+    "district": "Yawatmal",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 692,
+    "mandi_name": "Vani",
+    "district": "Yawatmal",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 693,
+    "mandi_name": "Yawatmal",
+    "district": "Yawatmal",
+    "state": "Maharashtra"
+  },
+  {
+    "mandi_id": 694,
+    "mandi_name": "Dimapur APMC",
+    "district": "Dimapur",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 695,
+    "mandi_name": "Kiphire APMC",
+    "district": "Kiphire",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 696,
+    "mandi_name": "Kohima APMC",
+    "district": "Kohima",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 697,
+    "mandi_name": "Longleng APMC",
+    "district": "Longleng",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 698,
+    "mandi_name": "Mangkolemba APMC",
+    "district": "Mokokchung",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 699,
+    "mandi_name": "Mokokchung APMC",
+    "district": "Mokokchung",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 700,
+    "mandi_name": "Tuli APMC",
+    "district": "Mokokchung",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 701,
+    "mandi_name": "Mon APMC",
+    "district": "Mon",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 702,
+    "mandi_name": "Niuland APMC",
+    "district": "Niuland",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 703,
+    "mandi_name": "Jalukie APMC",
+    "district": "Peren",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 704,
+    "mandi_name": "Tenning APMC",
+    "district": "Peren",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 705,
+    "mandi_name": "Pfutsero APMC",
+    "district": "Pfutsero",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 706,
+    "mandi_name": "Phek APMC",
+    "district": "Phek",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 707,
+    "mandi_name": "Tsemenyu APMC",
+    "district": "Tsemenyu",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 708,
+    "mandi_name": "Tuensang APMC",
+    "district": "Tuensang",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 709,
+    "mandi_name": "Baghty APMC",
+    "district": "Wokha",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 710,
+    "mandi_name": "Wokha APMC",
+    "district": "Wokha",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 711,
+    "mandi_name": "Ghatashi APMC",
+    "district": "Zunheboto",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 712,
+    "mandi_name": "Zunheboto APMC",
+    "district": "Zunheboto",
+    "state": "Nagaland"
+  },
+  {
+    "mandi_id": 713,
+    "mandi_name": "Angul",
+    "district": "Angul",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 714,
+    "mandi_name": "Athmallik",
+    "district": "Angul",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 715,
+    "mandi_name": "Pallahara",
+    "district": "Angul",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 716,
+    "mandi_name": "Talcher",
+    "district": "Angul",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 717,
+    "mandi_name": "Balangir",
+    "district": "Balangir",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 718,
+    "mandi_name": "Kantabanji",
+    "district": "Balangir",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 719,
+    "mandi_name": "Patnagarh",
+    "district": "Balangir",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 720,
+    "mandi_name": "Balasore",
+    "district": "Balasore",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 721,
+    "mandi_name": "Jaleswar",
+    "district": "Balasore",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 722,
+    "mandi_name": "Nilagiri",
+    "district": "Balasore",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 723,
+    "mandi_name": "Attabira",
+    "district": "Bargarh",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 724,
+    "mandi_name": "Bargarh",
+    "district": "Bargarh",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 725,
+    "mandi_name": "Padampur",
+    "district": "Bargarh",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 726,
+    "mandi_name": "Bhadrak",
+    "district": "Bhadrak",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 727,
+    "mandi_name": "Chandbali",
+    "district": "Bhadrak",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 728,
+    "mandi_name": "Boudh",
+    "district": "Boudh",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 729,
+    "mandi_name": "Banki",
+    "district": "Cuttack",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 730,
+    "mandi_name": "Kendupatna",
+    "district": "Cuttack",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 731,
+    "mandi_name": "Narsinghpur",
+    "district": "Cuttack",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 732,
+    "mandi_name": "Deogarh",
+    "district": "Deogarh",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 733,
+    "mandi_name": "Dhenkanal",
+    "district": "Dhenkanal",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 734,
+    "mandi_name": "Hindol",
+    "district": "Dhenkanal",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 735,
+    "mandi_name": "Kamakhyanagar",
+    "district": "Dhenkanal",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 736,
+    "mandi_name": "Paralakhemundi",
+    "district": "Gajapati",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 737,
+    "mandi_name": "Bhanjanagar",
+    "district": "Ganjam",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 738,
+    "mandi_name": "Digapahandi",
+    "district": "Ganjam",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 739,
+    "mandi_name": "Hinjilicut",
+    "district": "Ganjam",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 740,
+    "mandi_name": "Jagatsinghpur",
+    "district": "Jagatsinghpur",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 741,
+    "mandi_name": "Rahama",
+    "district": "Jagatsinghpur",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 742,
+    "mandi_name": "Jajpur",
+    "district": "Jajpur",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 743,
+    "mandi_name": "Jharsuguda",
+    "district": "Jharsuguda",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 744,
+    "mandi_name": "Bhawanipatna",
+    "district": "Kalahandi",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 745,
+    "mandi_name": "Junagarh",
+    "district": "Kalahandi",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 746,
+    "mandi_name": "Kesinga",
+    "district": "Kalahandi",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 747,
+    "mandi_name": "Mukhiguda",
+    "district": "Kalahandi",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 748,
+    "mandi_name": "Kandhamal",
+    "district": "Kandhamal",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 749,
+    "mandi_name": "Tikabali",
+    "district": "Kandhamal",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 750,
+    "mandi_name": "Kendrapara",
+    "district": "Kendrapara",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 751,
+    "mandi_name": "Anandapur",
+    "district": "Keonjhar",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 752,
+    "mandi_name": "Champua",
+    "district": "Keonjhar",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 753,
+    "mandi_name": "Keonjhar",
+    "district": "Keonjhar",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 754,
+    "mandi_name": "Balugaon",
+    "district": "Khorda",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 755,
+    "mandi_name": "Jatni",
+    "district": "Khorda",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 756,
+    "mandi_name": "Jeypore",
+    "district": "Koraput",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 757,
+    "mandi_name": "Koraput",
+    "district": "Koraput",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 758,
+    "mandi_name": "Malkangiri",
+    "district": "Malkangiri",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 759,
+    "mandi_name": "Baripada",
+    "district": "Mayurbhanj",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 760,
+    "mandi_name": "Betnoti",
+    "district": "Mayurbhanj",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 761,
+    "mandi_name": "Karanjia",
+    "district": "Mayurbhanj",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 762,
+    "mandi_name": "Rairangpur",
+    "district": "Mayurbhanj",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 763,
+    "mandi_name": "Udala",
+    "district": "Mayurbhanj",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 764,
+    "mandi_name": "Nabarangapur",
+    "district": "Nabarangapur",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 765,
+    "mandi_name": "Bahadajhola",
+    "district": "Nayagarh",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 766,
+    "mandi_name": "Khariar Road",
+    "district": "Nuapada",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 767,
+    "mandi_name": "Nimapara",
+    "district": "Puri",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 768,
+    "mandi_name": "Sakhigopal",
+    "district": "Puri",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 769,
+    "mandi_name": "Gunupur",
+    "district": "Rayagada",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 770,
+    "mandi_name": "Rayagada",
+    "district": "Rayagada",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 771,
+    "mandi_name": "Kuchinda",
+    "district": "Sambalpur",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 772,
+    "mandi_name": "Rairakhol",
+    "district": "Sambalpur",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 773,
+    "mandi_name": "Sambalpur",
+    "district": "Sambalpur",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 774,
+    "mandi_name": "Biramaharajpur",
+    "district": "Sonepur",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 775,
+    "mandi_name": "Dunguripali",
+    "district": "Sonepur",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 776,
+    "mandi_name": "Bonai",
+    "district": "Sundargarh",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 777,
+    "mandi_name": "Panposh",
+    "district": "Sundargarh",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 778,
+    "mandi_name": "Sargipali",
+    "district": "Sundargarh",
+    "state": "Odisha"
+  },
+  {
+    "mandi_id": 779,
+    "mandi_name": "Karaikal",
+    "district": "Karaikal",
+    "state": "Puducherry"
+  },
+  {
+    "mandi_id": 780,
+    "mandi_name": "Thattanchavadi",
+    "district": "Pondicherry",
+    "state": "Puducherry"
+  },
+  {
+    "mandi_id": 781,
+    "mandi_name": "Ajnala",
+    "district": "Amritsar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 782,
+    "mandi_name": "Amritsar",
+    "district": "Amritsar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 783,
+    "mandi_name": "Atari",
+    "district": "Amritsar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 784,
+    "mandi_name": "Jandiala Guru, Gehri",
+    "district": "Amritsar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 785,
+    "mandi_name": "Mehta",
+    "district": "Amritsar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 786,
+    "mandi_name": "Rayya",
+    "district": "Amritsar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 787,
+    "mandi_name": "Barnala",
+    "district": "Barnala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 788,
+    "mandi_name": "Tappa",
+    "district": "Barnala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 789,
+    "mandi_name": "Bathinda",
+    "district": "Bathinda",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 790,
+    "mandi_name": "Bhucho",
+    "district": "Bathinda",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 791,
+    "mandi_name": "Goniana",
+    "district": "Bathinda",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 792,
+    "mandi_name": "Maur",
+    "district": "Bathinda",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 793,
+    "mandi_name": "Raman",
+    "district": "Bathinda",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 794,
+    "mandi_name": "Rampura Phul",
+    "district": "Bathinda",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 795,
+    "mandi_name": "Faridkot",
+    "district": "Faridkot",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 796,
+    "mandi_name": "Jaito",
+    "district": "Faridkot",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 797,
+    "mandi_name": "Kotkapura",
+    "district": "Faridkot",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 798,
+    "mandi_name": "Sadiq",
+    "district": "Faridkot",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 799,
+    "mandi_name": "Amloh",
+    "district": "Fatehgarh Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 800,
+    "mandi_name": "Fatehgarh Sahib",
+    "district": "Fatehgarh Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 801,
+    "mandi_name": "Abohar",
+    "district": "Fazilka",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 802,
+    "mandi_name": "Fazilka",
+    "district": "Fazilka",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 803,
+    "mandi_name": "Jalalbad",
+    "district": "Fazilka",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 804,
+    "mandi_name": "Ferozpur Cantt",
+    "district": "Ferozpur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 805,
+    "mandi_name": "Ferozpur City",
+    "district": "Ferozpur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 806,
+    "mandi_name": "Guruharsahai",
+    "district": "Ferozpur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 807,
+    "mandi_name": "Makhu",
+    "district": "Ferozpur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 808,
+    "mandi_name": "Talwandi Bhai",
+    "district": "Ferozpur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 809,
+    "mandi_name": "Batala",
+    "district": "Gurdaspur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 810,
+    "mandi_name": "Dera Baba Nanak",
+    "district": "Gurdaspur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 811,
+    "mandi_name": "Dinanagar",
+    "district": "Gurdaspur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 812,
+    "mandi_name": "Fatehgarh Churian",
+    "district": "Gurdaspur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 813,
+    "mandi_name": "Gurdaspur",
+    "district": "Gurdaspur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 814,
+    "mandi_name": "Kalanaur",
+    "district": "Gurdaspur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 815,
+    "mandi_name": "Hoshiarpur",
+    "district": "Hoshiarpur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 816,
+    "mandi_name": "Bhogpur",
+    "district": "Jalandhar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 817,
+    "mandi_name": "Jalandhar",
+    "district": "Jalandhar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 818,
+    "mandi_name": "Nakodar",
+    "district": "Jalandhar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 819,
+    "mandi_name": "Shahkot",
+    "district": "Jalandhar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 820,
+    "mandi_name": "Kapurthala",
+    "district": "Kapurthala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 821,
+    "mandi_name": "Phagwara",
+    "district": "Kapurthala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 822,
+    "mandi_name": "Sultanpur Lodhi",
+    "district": "Kapurthala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 823,
+    "mandi_name": "Jagraon",
+    "district": "Ludhiana",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 824,
+    "mandi_name": "Khanna",
+    "district": "Ludhiana",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 825,
+    "mandi_name": "Ludhiana",
+    "district": "Ludhiana",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 826,
+    "mandi_name": "Machhiwara Sahib",
+    "district": "Ludhiana",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 827,
+    "mandi_name": "Bareta",
+    "district": "Mansa",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 828,
+    "mandi_name": "Bhikhi",
+    "district": "Mansa",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 829,
+    "mandi_name": "Budhlada",
+    "district": "Mansa",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 830,
+    "mandi_name": "Mansa",
+    "district": "Mansa",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 831,
+    "mandi_name": "Sardulgarh",
+    "district": "Mansa",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 832,
+    "mandi_name": "Moga",
+    "district": "Moga",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 833,
+    "mandi_name": "Pathankot",
+    "district": "Pathankot",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 834,
+    "mandi_name": "Dudan Sadhan",
+    "district": "Patiala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 835,
+    "mandi_name": "Nabha",
+    "district": "Patiala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 836,
+    "mandi_name": "Patiala",
+    "district": "Patiala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 837,
+    "mandi_name": "Patran",
+    "district": "Patiala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 838,
+    "mandi_name": "Rajpura",
+    "district": "Patiala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 839,
+    "mandi_name": "Samana",
+    "district": "Patiala",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 840,
+    "mandi_name": "Ropar",
+    "district": "Rupnagar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 841,
+    "mandi_name": "Kharar",
+    "district": "S.A.S Nagar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 842,
+    "mandi_name": "Dhuri",
+    "district": "Sangrur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 843,
+    "mandi_name": "Khanauri",
+    "district": "Sangrur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 844,
+    "mandi_name": "Lehragaga",
+    "district": "Sangrur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 845,
+    "mandi_name": "Malerkotla",
+    "district": "Sangrur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 846,
+    "mandi_name": "Moonak",
+    "district": "Sangrur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 847,
+    "mandi_name": "Sangrur",
+    "district": "Sangrur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 848,
+    "mandi_name": "Sunam",
+    "district": "Sangrur",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 849,
+    "mandi_name": "Balachaur",
+    "district": "Shaheed Bhagat Singh Nagar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 850,
+    "mandi_name": "Banga",
+    "district": "Shaheed Bhagat Singh Nagar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 851,
+    "mandi_name": "Nawanshahr",
+    "district": "Shaheed Bhagat Singh Nagar",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 852,
+    "mandi_name": "Gidderbaha",
+    "district": "Sri Muktsar Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 853,
+    "mandi_name": "Malout",
+    "district": "Sri Muktsar Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 854,
+    "mandi_name": "Muktsar",
+    "district": "Sri Muktsar Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 855,
+    "mandi_name": "Bhikhiwind",
+    "district": "Tarn Taran Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 856,
+    "mandi_name": "Khemkaran",
+    "district": "Tarn Taran Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 857,
+    "mandi_name": "Naushehara Pannuan",
+    "district": "Tarn Taran Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 858,
+    "mandi_name": "Patti",
+    "district": "Tarn Taran Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 859,
+    "mandi_name": "Tarn Taran",
+    "district": "Tarn Taran Sahib",
+    "state": "Punjab"
+  },
+  {
+    "mandi_id": 860,
+    "mandi_name": "Ajmer (F&V)",
+    "district": "Ajmer",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 861,
+    "mandi_name": "Ajmer (Grain)",
+    "district": "Ajmer",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 862,
+    "mandi_name": "Beawar",
+    "district": "Ajmer",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 863,
+    "mandi_name": "Bijaynagar",
+    "district": "Ajmer",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 864,
+    "mandi_name": "Kekri",
+    "district": "Ajmer",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 865,
+    "mandi_name": "Madanganj Kishangarh",
+    "district": "Ajmer",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 866,
+    "mandi_name": "Alwar",
+    "district": "Alwar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 867,
+    "mandi_name": "Barodamev",
+    "district": "Alwar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 868,
+    "mandi_name": "Khairthal",
+    "district": "Alwar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 869,
+    "mandi_name": "Kherli",
+    "district": "Alwar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 870,
+    "mandi_name": "Banswara",
+    "district": "Banswara",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 871,
+    "mandi_name": "Anta",
+    "district": "Baran",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 872,
+    "mandi_name": "Atru",
+    "district": "Baran",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 873,
+    "mandi_name": "Baran",
+    "district": "Baran",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 874,
+    "mandi_name": "Chabra",
+    "district": "Baran",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 875,
+    "mandi_name": "Balotra",
+    "district": "Barmer",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 876,
+    "mandi_name": "Barmer",
+    "district": "Barmer",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 877,
+    "mandi_name": "Bayana",
+    "district": "Bharatpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 878,
+    "mandi_name": "Bharatpur",
+    "district": "Bharatpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 879,
+    "mandi_name": "Deeg",
+    "district": "Bharatpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 880,
+    "mandi_name": "Kaman",
+    "district": "Bharatpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 881,
+    "mandi_name": "Nadbai",
+    "district": "Bharatpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 882,
+    "mandi_name": "Nagar",
+    "district": "Bharatpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 883,
+    "mandi_name": "Bhilwara",
+    "district": "Bhilwara",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 884,
+    "mandi_name": "Bijoliya",
+    "district": "Bhilwara",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 885,
+    "mandi_name": "Gangapur Rj",
+    "district": "Bhilwara",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 886,
+    "mandi_name": "Mandalgarh",
+    "district": "Bhilwara",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 887,
+    "mandi_name": "Shahpura",
+    "district": "Bhilwara",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 888,
+    "mandi_name": "Bajju",
+    "district": "Bikaner",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 889,
+    "mandi_name": "Bikaner (F&V)",
+    "district": "Bikaner",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 890,
+    "mandi_name": "Bikaner (Grain)",
+    "district": "Bikaner",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 891,
+    "mandi_name": "Khajuwala",
+    "district": "Bikaner",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 892,
+    "mandi_name": "Lunkaransar",
+    "district": "Bikaner",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 893,
+    "mandi_name": "Nokha",
+    "district": "Bikaner",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 894,
+    "mandi_name": "Sri Dungargarh",
+    "district": "Bikaner",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 895,
+    "mandi_name": "Bundi",
+    "district": "Bundi",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 896,
+    "mandi_name": "Dei",
+    "district": "Bundi",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 897,
+    "mandi_name": "Keshoraipatan",
+    "district": "Bundi",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 898,
+    "mandi_name": "Sumerganj",
+    "district": "Bundi",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 899,
+    "mandi_name": "Barisadri",
+    "district": "Chittorgarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 900,
+    "mandi_name": "Begu",
+    "district": "Chittorgarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 901,
+    "mandi_name": "Chittorgarh",
+    "district": "Chittorgarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 902,
+    "mandi_name": "Kapasan",
+    "district": "Chittorgarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 903,
+    "mandi_name": "Nimbahera",
+    "district": "Chittorgarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 904,
+    "mandi_name": "Churu",
+    "district": "Churu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 905,
+    "mandi_name": "Ratangarh",
+    "district": "Churu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 906,
+    "mandi_name": "Sadulpur",
+    "district": "Churu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 907,
+    "mandi_name": "Sardar Shahar",
+    "district": "Churu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 908,
+    "mandi_name": "Sujangarh",
+    "district": "Churu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 909,
+    "mandi_name": "Bandikui",
+    "district": "Dausa",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 910,
+    "mandi_name": "Dausa",
+    "district": "Dausa",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 911,
+    "mandi_name": "Lalsot",
+    "district": "Dausa",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 912,
+    "mandi_name": "Mahua",
+    "district": "Dausa",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 913,
+    "mandi_name": "Mahua Mandawar",
+    "district": "Dausa",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 914,
+    "mandi_name": "Mandawari",
+    "district": "Dausa",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 915,
+    "mandi_name": "Dholpur",
+    "district": "Dholpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 916,
+    "mandi_name": "Dungarpur",
+    "district": "Dungarpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 917,
+    "mandi_name": "Bhadra",
+    "district": "Hanumangarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 918,
+    "mandi_name": "Goluwala",
+    "district": "Hanumangarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 919,
+    "mandi_name": "Hanumangarh",
+    "district": "Hanumangarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 920,
+    "mandi_name": "Hanumangarh Town",
+    "district": "Hanumangarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 921,
+    "mandi_name": "Nohar",
+    "district": "Hanumangarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 922,
+    "mandi_name": "Pilibanga",
+    "district": "Hanumangarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 923,
+    "mandi_name": "Rawatsar",
+    "district": "Hanumangarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 924,
+    "mandi_name": "Sangariya",
+    "district": "Hanumangarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 925,
+    "mandi_name": "Bassi",
+    "district": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 926,
+    "mandi_name": "Chaksu",
+    "district": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 927,
+    "mandi_name": "Chomu (F&V)",
+    "district": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 928,
+    "mandi_name": "Chomu Grain",
+    "district": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 929,
+    "mandi_name": "Jaipur (F&V) Muhana",
+    "district": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 930,
+    "mandi_name": "Jaipur (Grain)",
+    "district": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 931,
+    "mandi_name": "Kishangarh Renwal",
+    "district": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 932,
+    "mandi_name": "Kotputli",
+    "district": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 933,
+    "mandi_name": "Rajdhani Mandi Kukerkheda",
+    "district": "Jaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 934,
+    "mandi_name": "Jaisalmer",
+    "district": "Jaisalmer",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 935,
+    "mandi_name": "Bhinmal",
+    "district": "Jalore",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 936,
+    "mandi_name": "Jalore",
+    "district": "Jalore",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 937,
+    "mandi_name": "Raniwara",
+    "district": "Jalore",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 938,
+    "mandi_name": "Sanchore",
+    "district": "Jalore",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 939,
+    "mandi_name": "Bhawani Mandi",
+    "district": "Jhalawar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 940,
+    "mandi_name": "Chomehla",
+    "district": "Jhalawar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 941,
+    "mandi_name": "Iklera",
+    "district": "Jhalawar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 942,
+    "mandi_name": "Jhalrapatan",
+    "district": "Jhalawar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 943,
+    "mandi_name": "Khanpur",
+    "district": "Jhalawar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 944,
+    "mandi_name": "Chirawa",
+    "district": "Jhunjhunu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 945,
+    "mandi_name": "Gudhagorji",
+    "district": "Jhunjhunu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 946,
+    "mandi_name": "Jhunjhunu",
+    "district": "Jhunjhunu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 947,
+    "mandi_name": "Nawalgarh",
+    "district": "Jhunjhunu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 948,
+    "mandi_name": "Surajgarh",
+    "district": "Jhunjhunu",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 949,
+    "mandi_name": "Bhagat Ki Kothi",
+    "district": "Jodhpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 950,
+    "mandi_name": "Bilara",
+    "district": "Jodhpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 951,
+    "mandi_name": "Jodhpur (F&V)",
+    "district": "Jodhpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 952,
+    "mandi_name": "Jodhpur (Grain)",
+    "district": "Jodhpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 953,
+    "mandi_name": "Phalodi",
+    "district": "Jodhpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 954,
+    "mandi_name": "Piparcity",
+    "district": "Jodhpur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 955,
+    "mandi_name": "Hindoun",
+    "district": "Karauli",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 956,
+    "mandi_name": "Itawa",
+    "district": "Kota",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 957,
+    "mandi_name": "Kota (F&V)",
+    "district": "Kota",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 958,
+    "mandi_name": "Kota(Grain)",
+    "district": "Kota",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 959,
+    "mandi_name": "Ramganj Mandi",
+    "district": "Kota",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 960,
+    "mandi_name": "Deedwana",
+    "district": "Nagaur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 961,
+    "mandi_name": "Degana",
+    "district": "Nagaur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 962,
+    "mandi_name": "Kuchaman City",
+    "district": "Nagaur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 963,
+    "mandi_name": "Merta City",
+    "district": "Nagaur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 964,
+    "mandi_name": "Nagaur",
+    "district": "Nagaur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 965,
+    "mandi_name": "Jaitaran",
+    "district": "Pali",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 966,
+    "mandi_name": "Pali",
+    "district": "Pali",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 967,
+    "mandi_name": "Rani",
+    "district": "Pali",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 968,
+    "mandi_name": "Sojat Road",
+    "district": "Pali",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 969,
+    "mandi_name": "Sumerpur",
+    "district": "Pali",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 970,
+    "mandi_name": "Chottisadri",
+    "district": "Pratapgarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 971,
+    "mandi_name": "Pratapgarh",
+    "district": "Pratapgarh",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 972,
+    "mandi_name": "Rajsamand",
+    "district": "Rajsamand",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 973,
+    "mandi_name": "Gangapur City",
+    "district": "Sawai Madhopur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 974,
+    "mandi_name": "Sawai Madhopur",
+    "district": "Sawai Madhopur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 975,
+    "mandi_name": "Fatehpur-Rj",
+    "district": "Sikar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 976,
+    "mandi_name": "Neem Ka Thana",
+    "district": "Sikar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 977,
+    "mandi_name": "Palsana",
+    "district": "Sikar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 978,
+    "mandi_name": "Sikar",
+    "district": "Sikar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 979,
+    "mandi_name": "Srimadhopur",
+    "district": "Sikar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 980,
+    "mandi_name": "Aabu Road",
+    "district": "Sirohi",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 981,
+    "mandi_name": "Anoopgarh",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 982,
+    "mandi_name": "Gajsinghpur",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 983,
+    "mandi_name": "Gharsana",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 984,
+    "mandi_name": "Jaitsar",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 985,
+    "mandi_name": "Kesrisinghpur",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 986,
+    "mandi_name": "Padampur",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 987,
+    "mandi_name": "Raisinghnagar",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 988,
+    "mandi_name": "Rawla",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 989,
+    "mandi_name": "Ridmalsar",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 990,
+    "mandi_name": "Sadulshahar",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 991,
+    "mandi_name": "Sri Ganganagar (F&V)",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 992,
+    "mandi_name": "Sri Ganganagar (Grain)",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 993,
+    "mandi_name": "Sri Karanpur",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 994,
+    "mandi_name": "Sri Vijaynagar",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 995,
+    "mandi_name": "Suratgarh",
+    "district": "Sri Ganganagar",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 996,
+    "mandi_name": "Deoli",
+    "district": "Tonk",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 997,
+    "mandi_name": "Dooni",
+    "district": "Tonk",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 998,
+    "mandi_name": "Malpura",
+    "district": "Tonk",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 999,
+    "mandi_name": "Niwai",
+    "district": "Tonk",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 1000,
+    "mandi_name": "Tonk",
+    "district": "Tonk",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 1001,
+    "mandi_name": "Uniyara",
+    "district": "Tonk",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 1002,
+    "mandi_name": "Fatehnagar",
+    "district": "Udaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 1003,
+    "mandi_name": "Udaipur (F&V)",
+    "district": "Udaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 1004,
+    "mandi_name": "Udaipur (Grain)",
+    "district": "Udaipur",
+    "state": "Rajasthan"
+  },
+  {
+    "mandi_id": 1005,
+    "mandi_name": "Anaimalai",
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1006,
+    "mandi_name": "Annur",
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1007,
+    "mandi_name": "Coimbatore",
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1008,
+    "mandi_name": "Kinathukadavu",
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1009,
+    "mandi_name": "Negamam",
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1010,
+    "mandi_name": "Pollachi",
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1011,
+    "mandi_name": "Senjeri",
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1012,
+    "mandi_name": "Sulur",
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1013,
+    "mandi_name": "Thondamuthur",
+    "district": "Coimbatore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1014,
+    "mandi_name": "Cuddalore O.T.",
+    "district": "Cuddalore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1015,
+    "mandi_name": "Kattumannarkoil",
+    "district": "Cuddalore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1016,
+    "mandi_name": "Kurunjipady",
+    "district": "Cuddalore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1017,
+    "mandi_name": "Panruti",
+    "district": "Cuddalore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1018,
+    "mandi_name": "Sethiathope",
+    "district": "Cuddalore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1019,
+    "mandi_name": "Srimushnam",
+    "district": "Cuddalore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1020,
+    "mandi_name": "Virudhachalam",
+    "district": "Cuddalore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1021,
+    "mandi_name": "Dharmapuri",
+    "district": "Dharmapuri",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1022,
+    "mandi_name": "Harur",
+    "district": "Dharmapuri",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1023,
+    "mandi_name": "Hosur",
+    "district": "Dharmapuri",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1024,
+    "mandi_name": "Krishnagiri",
+    "district": "Dharmapuri",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1025,
+    "mandi_name": "Palacode",
+    "district": "Dharmapuri",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1026,
+    "mandi_name": "Pochampalli",
+    "district": "Dharmapuri",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1027,
+    "mandi_name": "Batlagundu",
+    "district": "Dindigul",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1028,
+    "mandi_name": "Dindigul",
+    "district": "Dindigul",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1029,
+    "mandi_name": "Gopal patti",
+    "district": "Dindigul",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1030,
+    "mandi_name": "Natham",
+    "district": "Dindigul",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1031,
+    "mandi_name": "Oddanchatram",
+    "district": "Dindigul",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1032,
+    "mandi_name": "Palani",
+    "district": "Dindigul",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1033,
+    "mandi_name": "Vadamadurai",
+    "district": "Dindigul",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1034,
+    "mandi_name": "Anthiyur",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1035,
+    "mandi_name": "Avalpoondurai",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1036,
+    "mandi_name": "Bhavani",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1037,
+    "mandi_name": "Boothapadi",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1038,
+    "mandi_name": "Elumathur",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1039,
+    "mandi_name": "Erode",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1040,
+    "mandi_name": "Gobichetipalayam",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1041,
+    "mandi_name": "Kodumudi",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1042,
+    "mandi_name": "Perundurai",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1043,
+    "mandi_name": "Punjai Puliampaddi",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1044,
+    "mandi_name": "Sathyamangalam",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1045,
+    "mandi_name": "Sivagiri",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1046,
+    "mandi_name": "Thalavadi",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1047,
+    "mandi_name": "Vellankoil",
+    "district": "Erode",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1048,
+    "mandi_name": "Chinnasalem",
+    "district": "Kallakurichi",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1049,
+    "mandi_name": "Manalurpet",
+    "district": "Kallakurichi",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1050,
+    "mandi_name": "Kancheepuram",
+    "district": "Kancheepuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1051,
+    "mandi_name": "Maduranathangam",
+    "district": "Kancheepuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1052,
+    "mandi_name": "Redhills",
+    "district": "Kancheepuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1053,
+    "mandi_name": "Thiruvallur",
+    "district": "Kancheepuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1054,
+    "mandi_name": "Tiruttani",
+    "district": "Kancheepuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1055,
+    "mandi_name": "Uthiramerur",
+    "district": "Kancheepuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1056,
+    "mandi_name": "Kulasekharam",
+    "district": "Kanyakumari",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1057,
+    "mandi_name": "Madurai",
+    "district": "Madurai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1058,
+    "mandi_name": "Melur",
+    "district": "Madurai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1059,
+    "mandi_name": "T.Vadipatti",
+    "district": "Madurai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1060,
+    "mandi_name": "Thirumangalam",
+    "district": "Madurai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1061,
+    "mandi_name": "Usilampatti",
+    "district": "Madurai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1062,
+    "mandi_name": "Kuthalam",
+    "district": "Nagapattinam",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1063,
+    "mandi_name": "Mayiladuthurai",
+    "district": "Nagapattinam",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1064,
+    "mandi_name": "Sembanarkoil",
+    "district": "Nagapattinam",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1065,
+    "mandi_name": "Sirkali",
+    "district": "Nagapattinam",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1066,
+    "mandi_name": "Thirupoondi",
+    "district": "Nagapattinam",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1067,
+    "mandi_name": "Namagiripettai",
+    "district": "Namakkal",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1068,
+    "mandi_name": "Paramathi Velur",
+    "district": "Namakkal",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1069,
+    "mandi_name": "Jayankondam",
+    "district": "Perambalur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1070,
+    "mandi_name": "Perambalur",
+    "district": "Perambalur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1071,
+    "mandi_name": "Alangudi",
+    "district": "Pudukkottai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1072,
+    "mandi_name": "Aranthangi",
+    "district": "Pudukkottai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1073,
+    "mandi_name": "Iluppur",
+    "district": "Pudukkottai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1074,
+    "mandi_name": "Kamuthi",
+    "district": "Ramanathapuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1075,
+    "mandi_name": "Mudhukalathur",
+    "district": "Ramanathapuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1076,
+    "mandi_name": "Paramakudi",
+    "district": "Ramanathapuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1077,
+    "mandi_name": "Rajasingamangalam",
+    "district": "Ramanathapuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1078,
+    "mandi_name": "Ramanathapuram",
+    "district": "Ramanathapuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1079,
+    "mandi_name": "Thiruvadanai",
+    "district": "Ramanathapuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1080,
+    "mandi_name": "Arcot",
+    "district": "Ranipet",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1081,
+    "mandi_name": "Atthur",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1082,
+    "mandi_name": "Edappadi",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1083,
+    "mandi_name": "Gangavalli",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1084,
+    "mandi_name": "Karumandurai",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1085,
+    "mandi_name": "Konganapuram",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1086,
+    "mandi_name": "Mecheri",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1087,
+    "mandi_name": "Omalur",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1088,
+    "mandi_name": "Salem",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1089,
+    "mandi_name": "Thammampatti",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1090,
+    "mandi_name": "Vazhappadi",
+    "district": "Salem",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1091,
+    "mandi_name": "Devakottai",
+    "district": "Sivagangai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1092,
+    "mandi_name": "Karaikudi",
+    "district": "Sivagangai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1093,
+    "mandi_name": "Manamadurai",
+    "district": "Sivagangai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1094,
+    "mandi_name": "Singampuneri",
+    "district": "Sivagangai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1095,
+    "mandi_name": "Sivagangai",
+    "district": "Sivagangai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1096,
+    "mandi_name": "Kadayanallur",
+    "district": "Tenkasi",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1097,
+    "mandi_name": "Pavoorchatram",
+    "district": "Tenkasi",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1098,
+    "mandi_name": "Sankarankovil",
+    "district": "Tenkasi",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1099,
+    "mandi_name": "Tenkasi",
+    "district": "Tenkasi",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1100,
+    "mandi_name": "Budalur",
+    "district": "Thanjavur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1101,
+    "mandi_name": "Kumbakonam",
+    "district": "Thanjavur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1102,
+    "mandi_name": "Orathanadu",
+    "district": "Thanjavur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1103,
+    "mandi_name": "Papanasam",
+    "district": "Thanjavur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1104,
+    "mandi_name": "Pattukkottai",
+    "district": "Thanjavur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1105,
+    "mandi_name": "Thanjavur",
+    "district": "Thanjavur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1106,
+    "mandi_name": "Bodinayakanur",
+    "district": "Theni",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1107,
+    "mandi_name": "Chinnamanur",
+    "district": "Theni",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1108,
+    "mandi_name": "Cumbum",
+    "district": "Theni",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1109,
+    "mandi_name": "Theni",
+    "district": "Theni",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1110,
+    "mandi_name": "Mannarkudi",
+    "district": "Thiruvarur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1111,
+    "mandi_name": "Tiruvarur",
+    "district": "Thiruvarur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1112,
+    "mandi_name": "Srivaikundam",
+    "district": "Thoothukudi",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1113,
+    "mandi_name": "Lalgudi",
+    "district": "Tiruchirapalli",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1114,
+    "mandi_name": "Manapparai",
+    "district": "Tiruchirapalli",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1115,
+    "mandi_name": "Thuraiyur",
+    "district": "Tiruchirapalli",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1116,
+    "mandi_name": "Thuvarankurichy",
+    "district": "Tiruchirapalli",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1117,
+    "mandi_name": "Tiruchirapalli",
+    "district": "Tiruchirapalli",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1118,
+    "mandi_name": "Ambasamuthiram",
+    "district": "Tirunelveli",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1119,
+    "mandi_name": "Tirunelveli",
+    "district": "Tirunelveli",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1120,
+    "mandi_name": "Vallioor",
+    "district": "Tirunelveli",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1121,
+    "mandi_name": "KANGEYAM",
+    "district": "Tiruppur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1122,
+    "mandi_name": "Madathukulam",
+    "district": "Tiruppur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1123,
+    "mandi_name": "Moolanur",
+    "district": "Tiruppur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1124,
+    "mandi_name": "Pethappampatti",
+    "district": "Tiruppur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1125,
+    "mandi_name": "Pongalur",
+    "district": "Tiruppur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1126,
+    "mandi_name": "Sevur",
+    "district": "Tiruppur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1127,
+    "mandi_name": "Thiruppur",
+    "district": "Tiruppur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1128,
+    "mandi_name": "Udumalpet",
+    "district": "Tiruppur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1129,
+    "mandi_name": "Vellakoil",
+    "district": "Tiruppur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1130,
+    "mandi_name": "Arani",
+    "district": "Tiruvannamalai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1131,
+    "mandi_name": "Chetpet",
+    "district": "Tiruvannamalai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1132,
+    "mandi_name": "Cheyyar",
+    "district": "Tiruvannamalai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1133,
+    "mandi_name": "Desur",
+    "district": "Tiruvannamalai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1134,
+    "mandi_name": "Kilpennathur",
+    "district": "Tiruvannamalai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1135,
+    "mandi_name": "Polur",
+    "district": "Tiruvannamalai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1136,
+    "mandi_name": "Vandavasi",
+    "district": "Tiruvannamalai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1137,
+    "mandi_name": "Vettavalam",
+    "district": "Tiruvannamalai",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1138,
+    "mandi_name": "Kudavasal",
+    "district": "Tiruvarur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1139,
+    "mandi_name": "Valangaiman",
+    "district": "Tiruvarur",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1140,
+    "mandi_name": "Ammoor",
+    "district": "Vellore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1141,
+    "mandi_name": "Gudiyatham",
+    "district": "Vellore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1142,
+    "mandi_name": "Kalavai",
+    "district": "Vellore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1143,
+    "mandi_name": "Thirupathur",
+    "district": "Vellore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1144,
+    "mandi_name": "Vaniyambadi",
+    "district": "Vellore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1145,
+    "mandi_name": "Vellore",
+    "district": "Vellore",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1146,
+    "mandi_name": "Avalurpet",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1147,
+    "mandi_name": "Gingee",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1148,
+    "mandi_name": "Kallakurichi",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1149,
+    "mandi_name": "Marakkanam",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1150,
+    "mandi_name": "Sankarapuram",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1151,
+    "mandi_name": "Thirukovilur",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1152,
+    "mandi_name": "Thiyagadurgam",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1153,
+    "mandi_name": "Tindivanam",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1154,
+    "mandi_name": "Ulundurpettai",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1155,
+    "mandi_name": "Valathi",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1156,
+    "mandi_name": "Vikiravandi",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1157,
+    "mandi_name": "Villupuram",
+    "district": "Villupuram",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1158,
+    "mandi_name": "Aruppukottai",
+    "district": "Virudhunagar",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1159,
+    "mandi_name": "Rajapalayam",
+    "district": "Virudhunagar",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1160,
+    "mandi_name": "Sattur",
+    "district": "Virudhunagar",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1161,
+    "mandi_name": "Virudhunagar",
+    "district": "Virudhunagar",
+    "state": "Tamil Nadu"
+  },
+  {
+    "mandi_id": 1162,
+    "mandi_name": "Adilabad",
+    "district": "Adilabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1163,
+    "mandi_name": "Echoda",
+    "district": "Adilabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1164,
+    "mandi_name": "Gudimalkapur",
+    "district": "Hyderabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1165,
+    "mandi_name": "Malakpet",
+    "district": "Hyderabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1166,
+    "mandi_name": "Gollapally",
+    "district": "Jagtial",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1167,
+    "mandi_name": "Jagtial",
+    "district": "Jagtial",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1168,
+    "mandi_name": "Metpally",
+    "district": "Jagtial",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1169,
+    "mandi_name": "Jangaon",
+    "district": "Jangaon",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1170,
+    "mandi_name": "Gadwal",
+    "district": "Jogulamba Gadwal",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1171,
+    "mandi_name": "Kamareddy",
+    "district": "Kamareddy",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1172,
+    "mandi_name": "Madnoor",
+    "district": "Kamareddy",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1173,
+    "mandi_name": "Choppadandi",
+    "district": "Karimnagar",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1174,
+    "mandi_name": "Gangadhara",
+    "district": "Karimnagar",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1175,
+    "mandi_name": "Jammikunta",
+    "district": "Karimnagar",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1176,
+    "mandi_name": "Karimnagar",
+    "district": "Karimnagar",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1177,
+    "mandi_name": "Enkoor",
+    "district": "Khammam",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1178,
+    "mandi_name": "Khammam",
+    "district": "Khammam",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1179,
+    "mandi_name": "Kesamudram",
+    "district": "Mahabubabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1180,
+    "mandi_name": "Mahabubabad",
+    "district": "Mahabubabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1181,
+    "mandi_name": "Badepally",
+    "district": "Mahbubnagar",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1182,
+    "mandi_name": "Devarakadra",
+    "district": "Mahbubnagar",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1183,
+    "mandi_name": "Mahbubnagar",
+    "district": "Mahbubnagar",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1184,
+    "mandi_name": "Nawabpet",
+    "district": "Mahbubnagar",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1185,
+    "mandi_name": "Achampet",
+    "district": "Nagarkurnool",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1186,
+    "mandi_name": "Kalwakurthy",
+    "district": "Nagarkurnool",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1187,
+    "mandi_name": "Nagarkurnool",
+    "district": "Nagarkurnool",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1188,
+    "mandi_name": "Deverakonda",
+    "district": "Nalgonda",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1189,
+    "mandi_name": "Miryalaguda",
+    "district": "Nalgonda",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1190,
+    "mandi_name": "Nakrekal",
+    "district": "Nalgonda",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1191,
+    "mandi_name": "Nalgonda",
+    "district": "Nalgonda",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1192,
+    "mandi_name": "Makthal",
+    "district": "Narayanpet",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1193,
+    "mandi_name": "Narayanpet",
+    "district": "Narayanpet",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1194,
+    "mandi_name": "Bhainsa",
+    "district": "Nirmal",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1195,
+    "mandi_name": "Nizamabad",
+    "district": "Nizamabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1196,
+    "mandi_name": "Peddapalli",
+    "district": "Peddapalli",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1197,
+    "mandi_name": "Gaddiannaram",
+    "district": "Rangareddy (Rajendranagar)",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1198,
+    "mandi_name": "Shadnagar",
+    "district": "Rangareddy (Rajendranagar)",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1199,
+    "mandi_name": "Shankarapally",
+    "district": "Rangareddy (Rajendranagar)",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1200,
+    "mandi_name": "Jogipet",
+    "district": "Sanga Reddy",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1201,
+    "mandi_name": "Sadasivpet",
+    "district": "Sanga Reddy",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1202,
+    "mandi_name": "Vatpally",
+    "district": "Sanga Reddy",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1203,
+    "mandi_name": "Zaheerabad",
+    "district": "Sanga Reddy",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1204,
+    "mandi_name": "Bowenpally",
+    "district": "Secundrabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1205,
+    "mandi_name": "Gajwel",
+    "district": "Siddipet",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1206,
+    "mandi_name": "Husnabad",
+    "district": "Siddipet",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1207,
+    "mandi_name": "Siddipet",
+    "district": "Siddipet",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1208,
+    "mandi_name": "Suryapet",
+    "district": "Suryapet",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1209,
+    "mandi_name": "Tirumalgiri",
+    "district": "Suryapet",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1210,
+    "mandi_name": "Pargi",
+    "district": "Vikarabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1211,
+    "mandi_name": "Tandur",
+    "district": "Vikarabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1212,
+    "mandi_name": "Vikarabad",
+    "district": "Vikarabad",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1213,
+    "mandi_name": "Wanaparthy Road",
+    "district": "Wanaparthy",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1214,
+    "mandi_name": "Wanaparthy Town",
+    "district": "Wanaparthy",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1215,
+    "mandi_name": "Athmakur",
+    "district": "Warangal Rural",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1216,
+    "mandi_name": "Narsampet",
+    "district": "Warangal Rural",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1217,
+    "mandi_name": "Parkal",
+    "district": "Warangal Rural",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1218,
+    "mandi_name": "Warangal",
+    "district": "Warangal Urban",
+    "state": "Telangana"
+  },
+  {
+    "mandi_id": 1219,
+    "mandi_name": "Kulai",
+    "district": "Dhalai",
+    "state": "Tripura"
+  },
+  {
+    "mandi_id": 1220,
+    "mandi_name": "Panisagar",
+    "district": "Gomati",
+    "state": "Tripura"
+  },
+  {
+    "mandi_id": 1221,
+    "mandi_name": "Teliamura",
+    "district": "Khowani",
+    "state": "Tripura"
+  },
+  {
+    "mandi_id": 1222,
+    "mandi_name": "Sonamura",
+    "district": "Sepahijala",
+    "state": "Tripura"
+  },
+  {
+    "mandi_id": 1223,
+    "mandi_name": "Santirbazar",
+    "district": "South Tripura",
+    "state": "Tripura"
+  },
+  {
+    "mandi_id": 1224,
+    "mandi_name": "Pabiacherra",
+    "district": "Unakoti",
+    "state": "Tripura"
+  },
+  {
+    "mandi_id": 1225,
+    "mandi_name": "Mohanpur",
+    "district": "West Tripura",
+    "state": "Tripura"
+  },
+  {
+    "mandi_id": 1226,
+    "mandi_name": "Achhnara",
+    "district": "Agra",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1227,
+    "mandi_name": "Agra",
+    "district": "Agra",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1228,
+    "mandi_name": "Fatehpur Sikri",
+    "district": "Agra",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1229,
+    "mandi_name": "Aligarh",
+    "district": "Aligarh",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1230,
+    "mandi_name": "Chharra",
+    "district": "Aligarh",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1231,
+    "mandi_name": "Khair",
+    "district": "Aligarh",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1232,
+    "mandi_name": "Akbarpur",
+    "district": "Ambedkar Nagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1233,
+    "mandi_name": "Jais",
+    "district": "Amethi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1234,
+    "mandi_name": "Amroha",
+    "district": "Amroha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1235,
+    "mandi_name": "Hasanpur",
+    "district": "Amroha",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1236,
+    "mandi_name": "Achhalda",
+    "district": "Auraiya",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1237,
+    "mandi_name": "Auraiya",
+    "district": "Auraiya",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1238,
+    "mandi_name": "Ayodhya",
+    "district": "Ayodhya",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1239,
+    "mandi_name": "Azamgarh",
+    "district": "Azamgarh",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1240,
+    "mandi_name": "Badaun",
+    "district": "Badaun",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1241,
+    "mandi_name": "Bilsi",
+    "district": "Badaun",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1242,
+    "mandi_name": "Ujhani",
+    "district": "Badaun",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1243,
+    "mandi_name": "Wazirganj",
+    "district": "Badaun",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1244,
+    "mandi_name": "Bahraich",
+    "district": "Bahraich",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1245,
+    "mandi_name": "Nanpara",
+    "district": "Bahraich",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1246,
+    "mandi_name": "Ballia",
+    "district": "Ballia",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1247,
+    "mandi_name": "Rasra",
+    "district": "Ballia",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1248,
+    "mandi_name": "Balrampur",
+    "district": "Balrampur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1249,
+    "mandi_name": "Tulsipur",
+    "district": "Balrampur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1250,
+    "mandi_name": "Atarra",
+    "district": "Banda",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1251,
+    "mandi_name": "Banda",
+    "district": "Banda",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1252,
+    "mandi_name": "Barabanki",
+    "district": "Barabanki",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1253,
+    "mandi_name": "Safdarganj",
+    "district": "Barabanki",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1254,
+    "mandi_name": "Bareilly",
+    "district": "Bareilly",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1255,
+    "mandi_name": "Basti",
+    "district": "Basti",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1256,
+    "mandi_name": "Najibabad",
+    "district": "Bijnor",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1257,
+    "mandi_name": "Bulandshahr",
+    "district": "Bulandshahr",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1258,
+    "mandi_name": "Jahangirabad",
+    "district": "Bulandshahr",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1259,
+    "mandi_name": "Khurja",
+    "district": "Bulandshahr",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1260,
+    "mandi_name": "Chandauli",
+    "district": "Chandauli",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1261,
+    "mandi_name": "Karwi",
+    "district": "Chitrakoot",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1262,
+    "mandi_name": "Deoria",
+    "district": "Deoria",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1263,
+    "mandi_name": "Bharthana",
+    "district": "Etawah",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1264,
+    "mandi_name": "Etawah",
+    "district": "Etawah",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1265,
+    "mandi_name": "Farrukhabad",
+    "district": "Farrukhabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1266,
+    "mandi_name": "Kaimganj",
+    "district": "Farrukhabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1267,
+    "mandi_name": "Mohmadabad",
+    "district": "Farrukhabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1268,
+    "mandi_name": "Bindki",
+    "district": "Fatehpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1269,
+    "mandi_name": "Fatehpur-UP",
+    "district": "Fatehpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1270,
+    "mandi_name": "Firozabad",
+    "district": "Firozabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1271,
+    "mandi_name": "Shikohabad",
+    "district": "Firozabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1272,
+    "mandi_name": "Sirsaganj",
+    "district": "Firozabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1273,
+    "mandi_name": "Tundla",
+    "district": "Firozabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1274,
+    "mandi_name": "Dadri",
+    "district": "Gautam Buddh Nagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1275,
+    "mandi_name": "Noida",
+    "district": "Gautam Buddh Nagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1276,
+    "mandi_name": "Ghaziabad",
+    "district": "Ghaziabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1277,
+    "mandi_name": "Jangipura",
+    "district": "Ghazipur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1278,
+    "mandi_name": "Gonda",
+    "district": "Gonda",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1279,
+    "mandi_name": "Nawabganj",
+    "district": "Gonda",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1280,
+    "mandi_name": "Gorakhpur",
+    "district": "Gorakhpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1281,
+    "mandi_name": "Sahjanwa",
+    "district": "Gorakhpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1282,
+    "mandi_name": "Bharuasumerpur",
+    "district": "Hamirpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1283,
+    "mandi_name": "Muskera",
+    "district": "Hamirpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1284,
+    "mandi_name": "Rath",
+    "district": "Hamirpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1285,
+    "mandi_name": "Hapur",
+    "district": "Hapur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1286,
+    "mandi_name": "Hardoi",
+    "district": "Hardoi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1287,
+    "mandi_name": "Madhoganj",
+    "district": "Hardoi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1288,
+    "mandi_name": "Sandila",
+    "district": "Hardoi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1289,
+    "mandi_name": "Shahabad (Hardoi)",
+    "district": "Hardoi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1290,
+    "mandi_name": "Hathras",
+    "district": "Hathras",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1291,
+    "mandi_name": "Sadabad",
+    "district": "Hathras",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1292,
+    "mandi_name": "Jalaun",
+    "district": "Jalaun",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1293,
+    "mandi_name": "Konch",
+    "district": "Jalaun",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1294,
+    "mandi_name": "Urai",
+    "district": "Jalaun",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1295,
+    "mandi_name": "Jaunpur",
+    "district": "Jaunpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1296,
+    "mandi_name": "Shaganj",
+    "district": "Jaunpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1297,
+    "mandi_name": "Jhansi",
+    "district": "Jhansi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1298,
+    "mandi_name": "Mauranipur",
+    "district": "Jhansi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1299,
+    "mandi_name": "Chibramau",
+    "district": "Kannauj",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1300,
+    "mandi_name": "Kannauj",
+    "district": "Kannauj",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1301,
+    "mandi_name": "Chaubepur",
+    "district": "Kanpur Nagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1302,
+    "mandi_name": "Kanpur",
+    "district": "Kanpur Nagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1303,
+    "mandi_name": "Kasganj",
+    "district": "Kasganj",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1304,
+    "mandi_name": "Ajuha",
+    "district": "Kaushambi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1305,
+    "mandi_name": "Golagokarnnath",
+    "district": "Lakhimpur Kheri",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1306,
+    "mandi_name": "Lakhimpur Kheri",
+    "district": "Lakhimpur Kheri",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1307,
+    "mandi_name": "Palia Kalan",
+    "district": "Lakhimpur Kheri",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1308,
+    "mandi_name": "Tikuniya",
+    "district": "Lakhimpur Kheri",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1309,
+    "mandi_name": "Lalitpur",
+    "district": "Lalitpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1310,
+    "mandi_name": "Lucknow",
+    "district": "Lucknow",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1311,
+    "mandi_name": "Anand Nagar",
+    "district": "Maharajganj",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1312,
+    "mandi_name": "Nautanwa",
+    "district": "Maharajganj",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1313,
+    "mandi_name": "Partawal",
+    "district": "Maharajganj",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1314,
+    "mandi_name": "Mahoba",
+    "district": "Mahoba",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1315,
+    "mandi_name": "Etah",
+    "district": "Mainpuri",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1316,
+    "mandi_name": "Ghiror",
+    "district": "Mainpuri",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1317,
+    "mandi_name": "Mainpuri",
+    "district": "Mainpuri",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1318,
+    "mandi_name": "Koshikalan",
+    "district": "Mathura",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1319,
+    "mandi_name": "Mathura",
+    "district": "Mathura",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1320,
+    "mandi_name": "Kopaganj",
+    "district": "Mau",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1321,
+    "mandi_name": "Meerut",
+    "district": "Meerut",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1322,
+    "mandi_name": "Mirzapur",
+    "district": "Mirzapur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1323,
+    "mandi_name": "Chandausi",
+    "district": "Moradabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1324,
+    "mandi_name": "Moradabad",
+    "district": "Moradabad",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1325,
+    "mandi_name": "Muzaffarnagar",
+    "district": "Muzaffarnagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1326,
+    "mandi_name": "Bisalpur",
+    "district": "Pilibhit",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1327,
+    "mandi_name": "Pilibhit",
+    "district": "Pilibhit",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1328,
+    "mandi_name": "Puranpur",
+    "district": "Pilibhit",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1329,
+    "mandi_name": "Pratapgarh",
+    "district": "Pratapgarh",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1330,
+    "mandi_name": "Prayagraj",
+    "district": "Prayagraj",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1331,
+    "mandi_name": "Rae Bareli",
+    "district": "Rae Bareli",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1332,
+    "mandi_name": "Bilaspur",
+    "district": "Rampur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1333,
+    "mandi_name": "Milak",
+    "district": "Rampur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1334,
+    "mandi_name": "Rampur",
+    "district": "Rampur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1335,
+    "mandi_name": "Saharanpur",
+    "district": "Saharanpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1336,
+    "mandi_name": "Sambhal",
+    "district": "Sambhal",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1337,
+    "mandi_name": "Khalilabad",
+    "district": "Sant Kabir Nagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1338,
+    "mandi_name": "Jalalabad",
+    "district": "Shahjahanpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1339,
+    "mandi_name": "Powayan",
+    "district": "Shahjahanpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1340,
+    "mandi_name": "Shahjahanpur",
+    "district": "Shahjahanpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1341,
+    "mandi_name": "Shamli",
+    "district": "Shamli",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1342,
+    "mandi_name": "Naugarh",
+    "district": "Siddharth Nagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1343,
+    "mandi_name": "Sahiyapur",
+    "district": "Siddharth Nagar",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1344,
+    "mandi_name": "Mahmudabad",
+    "district": "Sitapur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1345,
+    "mandi_name": "Sitapur",
+    "district": "Sitapur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1346,
+    "mandi_name": "Robertsganj",
+    "district": "Sonbhadra",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1347,
+    "mandi_name": "Sultanpur",
+    "district": "Sultanpur",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1348,
+    "mandi_name": "Bangarmau",
+    "district": "Unnao",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1349,
+    "mandi_name": "Unnao",
+    "district": "Unnao",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1350,
+    "mandi_name": "Varanasi",
+    "district": "Varanasi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "mandi_id": 1351,
+    "mandi_name": "Dehradun",
+    "district": "Dehradun",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1352,
+    "mandi_name": "Rishikesh",
+    "district": "Dehradun",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1353,
+    "mandi_name": "Vikasnagar",
+    "district": "Dehradun",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1354,
+    "mandi_name": "Bhagwanpur",
+    "district": "Haridwar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1355,
+    "mandi_name": "Haridwar",
+    "district": "Haridwar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1356,
+    "mandi_name": "Laksar",
+    "district": "Haridwar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1357,
+    "mandi_name": "Manglore",
+    "district": "Haridwar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1358,
+    "mandi_name": "Roorkee",
+    "district": "Haridwar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1359,
+    "mandi_name": "Haldwani",
+    "district": "Nainital",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1360,
+    "mandi_name": "Ramnagar",
+    "district": "Nainital",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1361,
+    "mandi_name": "Kotdwar",
+    "district": "Pauri Garhwal",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1362,
+    "mandi_name": "Bazpur",
+    "district": "Udham Singh Nagar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1363,
+    "mandi_name": "Gadarpur",
+    "district": "Udham Singh Nagar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1364,
+    "mandi_name": "Jaspur",
+    "district": "Udham Singh Nagar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1365,
+    "mandi_name": "Kashipur",
+    "district": "Udham Singh Nagar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1366,
+    "mandi_name": "Khatima",
+    "district": "Udham Singh Nagar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1367,
+    "mandi_name": "Kichha",
+    "district": "Udham Singh Nagar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1368,
+    "mandi_name": "Nanakmatta",
+    "district": "Udham Singh Nagar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1369,
+    "mandi_name": "Rudrapur",
+    "district": "Udham Singh Nagar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1370,
+    "mandi_name": "Sitarganj",
+    "district": "Udham Singh Nagar",
+    "state": "Uttarakhand"
+  },
+  {
+    "mandi_id": 1371,
+    "mandi_name": "Falakata Krishak Bazar",
+    "district": "Alipurduar",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1372,
+    "mandi_name": "Simlapal Sub Market Yard",
+    "district": "Bankura",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1373,
+    "mandi_name": "Mohamad Bazar Krishak Bazar",
+    "district": "Birbhum",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1374,
+    "mandi_name": "Gangarampur Krishak Bazar",
+    "district": "Dakshin Dinajpur",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1375,
+    "mandi_name": "Siliguri Regulated Market Comm",
+    "district": "Darjeeling",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1376,
+    "mandi_name": "Sheoraphuli",
+    "district": "Hooghly",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1377,
+    "mandi_name": "Dhupguri Principal Market Yard",
+    "district": "Jalpaiguri",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1378,
+    "mandi_name": "Samsi Sub Market Yard",
+    "district": "Malda",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1379,
+    "mandi_name": "Jiyaganj Krishak Bazar",
+    "district": "Murshidabad",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1380,
+    "mandi_name": "Samsherganj Krishak Bazar",
+    "district": "Murshidabad",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1381,
+    "mandi_name": "Bethuadahari Principal Market Yard",
+    "district": "Nadia",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1382,
+    "mandi_name": "Karimpur Submarket Yard",
+    "district": "Nadia",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1383,
+    "mandi_name": "Nakashipara Krishak Bazar",
+    "district": "Nadia",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1384,
+    "mandi_name": "Bagda Krishak Bazar",
+    "district": "North 24 Parganas",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1385,
+    "mandi_name": "Kalna Sub Market Yard",
+    "district": "Purba Bardhaman",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1386,
+    "mandi_name": "Panskura I Krishak Bazar",
+    "district": "Purba Medinipur",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1387,
+    "mandi_name": "Bishnupur 2  Krishak Bazar",
+    "district": "South 24 Parganas",
+    "state": "West Bengal"
+  },
+  {
+    "mandi_id": 1388,
+    "mandi_name": "Islampur Principal Market Yard",
+    "district": "Uttar Dinajpur",
+    "state": "West Bengal"
+  }
+]

@@ -1,0 +1,1389 @@
+mandi_id,mandi_name,district,state,year_joined_enam,month_joined_enam,adoption_year_confidence,enam_phase
+1,Andaman Hi Tech Kisan Mandi,South Andaman,Andaman & Nicobar Islands,2022,,low,3
+2,Anakapalli,Anakapalle,Andhra Pradesh,2016,4,high,1
+3,Ananthapuramu,Ananthapuramu,Andhra Pradesh,2016,4,high,1
+4,Kalyandurg,Ananthapuramu,Andhra Pradesh,2016,4,high,1
+5,Rayadurg,Ananthapuramu,Andhra Pradesh,2016,4,high,1
+6,Gurramkonda,Annamayya,Andhra Pradesh,2016,4,high,1
+7,Kalikiri,Annamayya,Andhra Pradesh,2016,4,high,1
+8,Madanapalle,Annamayya,Andhra Pradesh,2016,4,high,1
+9,Parchur,Bapatla,Andhra Pradesh,2016,4,high,1
+10,VEMURU BHATTIPROLU,Bapatla,Andhra Pradesh,2016,4,high,1
+11,Palamaner,Chittoor,Andhra Pradesh,2016,4,high,1
+12,Punganur,Chittoor,Andhra Pradesh,2016,4,high,1
+13,Ravulapalem,Dr BR Ambedkar Konaseema ,Andhra Pradesh,2016,4,high,1
+14,Denduluru,Eluru,Andhra Pradesh,2016,4,high,1
+15,Eluru,Eluru,Andhra Pradesh,2016,4,high,1
+16,Duggirala,Guntur,Andhra Pradesh,2016,4,high,1
+17,Guntur,Guntur,Andhra Pradesh,2016,4,high,1
+18,Tadikonda,Guntur,Andhra Pradesh,2016,4,high,1
+19,Tenali,Guntur,Andhra Pradesh,2016,4,high,1
+20,Adoni,Kurnool,Andhra Pradesh,2016,4,high,1
+21,Kurnool,Kurnool,Andhra Pradesh,2016,4,high,1
+22,Pattikonda,Kurnool,Andhra Pradesh,2016,4,high,1
+23,Yemmiganur,Kurnool,Andhra Pradesh,2016,4,high,1
+24,Jaggayyapet,NTR,Andhra Pradesh,2016,4,high,1
+25,Chilakaluripet,Palnadu,Andhra Pradesh,2016,4,high,1
+26,Piduguralla,Palnadu,Andhra Pradesh,2016,4,high,1
+27,Sattenapalle,Palnadu,Andhra Pradesh,2016,4,high,1
+28,Rapur,SPSR Nellore,Andhra Pradesh,2016,4,high,1
+29,Hindupur,Sri Satyasai ,Andhra Pradesh,2016,4,high,1
+30,Ichapuram,Srikakulam,Andhra Pradesh,2016,4,high,1
+31,Bobbili,Vizianagaram,Andhra Pradesh,2016,4,high,1
+32,Vizianagaram,Vizianagaram,Andhra Pradesh,2016,4,high,1
+33,Gopalapuram,West Godavari,Andhra Pradesh,2016,4,high,1
+34,Kadapa,YSR Kadapa,Andhra Pradesh,2016,4,high,1
+35,Kharupetia APMC,Darrang,Assam,2022,,low,3
+36,Gauripur APMC,Dhubri,Assam,2022,,low,3
+37,Dhing APMC,Nagaon,Assam,2022,,low,3
+38,Forbesganj,Araria,Bihar,2022,,low,3
+39,Daudnagar,Aurangabad,Bihar,2022,,low,3
+40,Begusarai,Begusarai,Bihar,2022,,low,3
+41,Ara,Bhojpur,Bihar,2022,,low,3
+42,Buxar,Buxar,Bihar,2022,,low,3
+43,Darbhanga,Darbhanga,Bihar,2022,,low,3
+44,Motihari,East Champaran,Bihar,2022,,low,3
+45,Gaya,Gaya,Bihar,2022,,low,3
+46,Mohaniya,Kaimur,Bihar,2022,,low,3
+47,Katihar,Katihar,Bihar,2022,,low,3
+48,Singheswar,Madhepura,Bihar,2022,,low,3
+49,Muzaffarpur,Muzaffarpur,Bihar,2022,,low,3
+50,Biharsharif,Nalanda,Bihar,2022,,low,3
+51,Musallahpur,Patna,Bihar,2022,,low,3
+52,Gulabbagh,Purnia,Bihar,2022,,low,3
+53,Sasaram,Rohtas,Bihar,2022,,low,3
+54,Samastipur,Samastipur,Bihar,2022,,low,3
+55,Chhapra,Saran,Bihar,2022,,low,3
+56,Sitamarhi,Sitamarhi,Bihar,2022,,low,3
+57,Hajipur,Vaishali,Bihar,2022,,low,3
+58,Chandigarh Grain Market,Chandigarh,Chandigarh,2020,5,high,2
+59,Balod,Balod,Chhattisgarh,2016,,medium,1
+60,Bhatapara,Baloda Bazaar,Chhattisgarh,2016,,medium,1
+61,Jagdalpur,Bastar,Chhattisgarh,2016,,medium,1
+62,Bemetara,Bemetara,Chhattisgarh,2016,,medium,1
+63,Bilaspur,Bilaspur,Chhattisgarh,2016,,medium,1
+64,Dhamtari,Dhamtari,Chhattisgarh,2016,,medium,1
+65,Kurud,Dhamtari,Chhattisgarh,2016,,medium,1
+66,Durg,Durg,Chhattisgarh,2016,,medium,1
+67,Rajim,Gariyaband,Chhattisgarh,2016,,medium,1
+68,Jashpur Nagar,Jashpur,Chhattisgarh,2016,,medium,1
+69,Kawardha,Kabirdham,Chhattisgarh,2016,,medium,1
+70,Kanker,Kanker,Chhattisgarh,2016,,medium,1
+71,Katghora,Korba,Chhattisgarh,2016,,medium,1
+72,Saraipali,Mahasamund,Chhattisgarh,2016,,medium,1
+73,Mungeli,Mungeli,Chhattisgarh,2016,,medium,1
+74,Patelpali (Raigarh),Raigarh,Chhattisgarh,2016,,medium,1
+75,Nawapara,Raipur,Chhattisgarh,2016,,medium,1
+76,Raipur,Raipur,Chhattisgarh,2016,,medium,1
+77,Rajnandgaon,Rajnandgaon,Chhattisgarh,2016,,medium,1
+78,Ambikapur,Sarguja,Chhattisgarh,2016,,medium,1
+79,Mapusa Market Yard,North Goa,Goa,2022,,low,3
+80,Ponda Market Yard,North Goa,Goa,2022,,low,3
+81,Sanquelim Market Yard,North Goa,Goa,2022,,low,3
+82,Valpoi Market Yard.,North Goa,Goa,2022,,low,3
+83,Canacona Market Yard,South Goa,Goa,2022,,low,3
+84,Curchorem Market Yard,South Goa,Goa,2022,,low,3
+85,Margao Main Market Yard,South Goa,Goa,2022,,low,3
+86,Ahmedabad,Ahmedabad,Gujarat,2016,4,high,1
+87,Bavla,Ahmedabad,Gujarat,2016,4,high,1
+88,Dhandhuka,Ahmedabad,Gujarat,2016,4,high,1
+89,Dhoalka,Ahmedabad,Gujarat,2016,4,high,1
+90,Mandal,Ahmedabad,Gujarat,2016,4,high,1
+91,Sanand,Ahmedabad,Gujarat,2016,4,high,1
+92,Viramgam,Ahmedabad,Gujarat,2016,4,high,1
+93,Amreli,Amreli,Gujarat,2016,4,high,1
+94,Babra,Amreli,Gujarat,2016,4,high,1
+95,Bagasara,Amreli,Gujarat,2016,4,high,1
+96,Dhari,Amreli,Gujarat,2016,4,high,1
+97,Rajula,Amreli,Gujarat,2016,4,high,1
+98,Savarkundla,Amreli,Gujarat,2016,4,high,1
+99,Anand,Anand,Gujarat,2016,4,high,1
+100,Borsad,Anand,Gujarat,2016,4,high,1
+101,Khambhat,Anand,Gujarat,2016,4,high,1
+102,Petalad,Anand,Gujarat,2016,4,high,1
+103,Tarapur,Anand,Gujarat,2016,4,high,1
+104,Bayad,Aravalli,Gujarat,2016,4,high,1
+105,Bhiloda,Aravalli,Gujarat,2016,4,high,1
+106,Malpur,Aravalli,Gujarat,2016,4,high,1
+107,Modasa,Aravalli,Gujarat,2016,4,high,1
+108,Bhabhar,Banaskantha,Gujarat,2016,4,high,1
+109,Deesa,Banaskantha,Gujarat,2016,4,high,1
+110,Deodar,Banaskantha,Gujarat,2016,4,high,1
+111,Dhanera,Banaskantha,Gujarat,2016,4,high,1
+112,Lakhni,Banaskantha,Gujarat,2016,4,high,1
+113,Palanpur,Banaskantha,Gujarat,2016,4,high,1
+114,Panthawada,Banaskantha,Gujarat,2016,4,high,1
+115,Thara,Banaskantha,Gujarat,2016,4,high,1
+116,Tharad,Banaskantha,Gujarat,2016,4,high,1
+117,Bharuch,Bharuch,Gujarat,2016,4,high,1
+118,Jhagadiya,Bharuch,Gujarat,2016,4,high,1
+119,Valia,Bharuch,Gujarat,2016,4,high,1
+120,Bhavnagar,Bhavnagar,Gujarat,2016,4,high,1
+121,Gariyadhar,Bhavnagar,Gujarat,2016,4,high,1
+122,Mahuva,Bhavnagar,Gujarat,2016,4,high,1
+123,Palitana,Bhavnagar,Gujarat,2016,4,high,1
+124,Sihor,Bhavnagar,Gujarat,2016,4,high,1
+125,Talaja,Bhavnagar,Gujarat,2016,4,high,1
+126,Umrala,Bhavnagar,Gujarat,2016,4,high,1
+127,Valabhipur,Bhavnagar,Gujarat,2016,4,high,1
+128,Botad,Botad,Gujarat,2016,4,high,1
+129,Gadhada,Botad,Gujarat,2016,4,high,1
+130,Bodeli,Chhota Udaipur,Gujarat,2016,4,high,1
+131,Pavi-Jetpur,Chhota Udaipur,Gujarat,2016,4,high,1
+132,Dahod,Dahod,Gujarat,2016,4,high,1
+133,Devgadbaria,Dahod,Gujarat,2016,4,high,1
+134,Fatehpura,Dahod,Gujarat,2016,4,high,1
+135,Jhalod,Dahod,Gujarat,2016,4,high,1
+136,Limkheda,Dahod,Gujarat,2016,4,high,1
+137,Sanjeli,Dahod,Gujarat,2016,4,high,1
+138,Ahwa,Dang,Gujarat,2016,4,high,1
+139,Jamkhambhaliya,Devbhoomi Dwarka,Gujarat,2016,4,high,1
+140,Dehgam,Gandhinagar,Gujarat,2016,4,high,1
+141,Gandhinagar,Gandhinagar,Gujarat,2016,4,high,1
+142,Kalol,Gandhinagar,Gujarat,2016,4,high,1
+143,Mansa,Gandhinagar,Gujarat,2016,4,high,1
+144,Kodinar,Gir Somnath,Gujarat,2016,4,high,1
+145,Talalagir,Gir Somnath,Gujarat,2016,4,high,1
+146,Una,Gir Somnath,Gujarat,2016,4,high,1
+147,Veraval,Gir Somnath,Gujarat,2016,4,high,1
+148,Bhanvad,Jamnagar,Gujarat,2016,4,high,1
+149,Dhrol,Jamnagar,Gujarat,2016,4,high,1
+150,Jam Jodhpur,Jamnagar,Gujarat,2016,4,high,1
+151,Jamnagar,Jamnagar,Gujarat,2016,4,high,1
+152,Kalavad,Jamnagar,Gujarat,2016,4,high,1
+153,Lalpur,Jamnagar,Gujarat,2016,4,high,1
+154,Bhesan,Junagadh,Gujarat,2016,4,high,1
+155,Junagadh,Junagadh,Gujarat,2016,4,high,1
+156,Keshod,Junagadh,Gujarat,2016,4,high,1
+157,Visavadar,Junagadh,Gujarat,2016,4,high,1
+158,Kapadwanj,Kheda,Gujarat,2016,4,high,1
+159,Kathlal,Kheda,Gujarat,2016,4,high,1
+160,Mahemdavad,Kheda,Gujarat,2016,4,high,1
+161,Matar,Kheda,Gujarat,2016,4,high,1
+162,Nadiad,Kheda,Gujarat,2016,4,high,1
+163,Thasra,Kheda,Gujarat,2016,4,high,1
+164,Anjar,Kutch,Gujarat,2016,4,high,1
+165,Bhuj,Kutch,Gujarat,2016,4,high,1
+166,Mandvi,Kutch,Gujarat,2016,4,high,1
+167,Rapar,Kutch,Gujarat,2016,4,high,1
+168,Lunawada,Mahisagar,Gujarat,2016,4,high,1
+169,Virpur,Mahisagar,Gujarat,2016,4,high,1
+170,Kadi,Mehsana,Gujarat,2016,4,high,1
+171,Mehsana,Mehsana,Gujarat,2016,4,high,1
+172,Unava,Mehsana,Gujarat,2016,4,high,1
+173,Unjha,Mehsana,Gujarat,2016,4,high,1
+174,Vijapur,Mehsana,Gujarat,2016,4,high,1
+175,Visnagar,Mehsana,Gujarat,2016,4,high,1
+176,Halvad,Morbi,Gujarat,2016,4,high,1
+177,Morbi,Morbi,Gujarat,2016,4,high,1
+178,Wankaner,Morbi,Gujarat,2016,4,high,1
+179,Dediyapada,Narmada,Gujarat,2016,4,high,1
+180,Rajpipla,Narmada,Gujarat,2016,4,high,1
+181,Selemba,Narmada,Gujarat,2016,4,high,1
+182,Tilakvada,Narmada,Gujarat,2016,4,high,1
+183,Bilimora,Navsari,Gujarat,2016,4,high,1
+184,Chikhli,Navsari,Gujarat,2016,4,high,1
+185,Navsari,Navsari,Gujarat,2016,4,high,1
+186,Vasda,Navsari,Gujarat,2016,4,high,1
+187,Godhra,Panchamahal,Gujarat,2016,4,high,1
+188,Chanasma,Patan,Gujarat,2016,4,high,1
+189,Patan,Patan,Gujarat,2016,4,high,1
+190,Radhanpur,Patan,Gujarat,2016,4,high,1
+191,Siddhpur,Patan,Gujarat,2016,4,high,1
+192,Porbandar,Porbandar,Gujarat,2016,4,high,1
+193,Dhoraji,Rajkot,Gujarat,2016,4,high,1
+194,Gondal,Rajkot,Gujarat,2016,4,high,1
+195,Jamkandorna,Rajkot,Gujarat,2016,4,high,1
+196,Jasdan,Rajkot,Gujarat,2016,4,high,1
+197,Jetpur,Rajkot,Gujarat,2016,4,high,1
+198,Rajkot,Rajkot,Gujarat,2016,4,high,1
+199,Upleta,Rajkot,Gujarat,2016,4,high,1
+200,Vinchhiya,Rajkot,Gujarat,2016,4,high,1
+201,Himmatnagar,Sabarkantha,Gujarat,2016,4,high,1
+202,Idar,Sabarkantha,Gujarat,2016,4,high,1
+203,Prantij,Sabarkantha,Gujarat,2016,4,high,1
+204,Talod,Sabarkantha,Gujarat,2016,4,high,1
+205,Vadali,Sabarkantha,Gujarat,2016,4,high,1
+206,Bardoli,Surat,Gujarat,2016,4,high,1
+207,Kosamba,Surat,Gujarat,2016,4,high,1
+208,Mahuva,Surat,Gujarat,2016,4,high,1
+209,Mandvi,Surat,Gujarat,2016,4,high,1
+210,Surat,Surat,Gujarat,2016,4,high,1
+211,Chotila,Surendranagar,Gujarat,2016,4,high,1
+212,Dhangadhra,Surendranagar,Gujarat,2016,4,high,1
+213,Patdi,Surendranagar,Gujarat,2016,4,high,1
+214,Wadhwan,Surendranagar,Gujarat,2016,4,high,1
+215,Kukarmunda,Tapi,Gujarat,2016,4,high,1
+216,Nizar,Tapi,Gujarat,2016,4,high,1
+217,Songadh,Tapi,Gujarat,2016,4,high,1
+218,Ucchal,Tapi,Gujarat,2016,4,high,1
+219,Valod,Tapi,Gujarat,2016,4,high,1
+220,Vyara,Tapi,Gujarat,2016,4,high,1
+221,Dabhoi,Vadodara,Gujarat,2016,4,high,1
+222,Desar,Vadodara,Gujarat,2016,4,high,1
+223,Karjan,Vadodara,Gujarat,2016,4,high,1
+224,Padara,Vadodara,Gujarat,2016,4,high,1
+225,Savli,Vadodara,Gujarat,2016,4,high,1
+226,Vadodara,Vadodara,Gujarat,2016,4,high,1
+227,Kaprada,Valsad,Gujarat,2016,4,high,1
+228,Pardi,Valsad,Gujarat,2016,4,high,1
+229,Valsad,Valsad,Gujarat,2016,4,high,1
+230,Ambala,Ambala,Haryana,2016,4,high,1
+231,Ambala Cantt.,Ambala,Haryana,2016,4,high,1
+232,BARARA,Ambala,Haryana,2016,4,high,1
+233,Mullana,Ambala,Haryana,2016,4,high,1
+234,Naraingarh,Ambala,Haryana,2016,4,high,1
+235,Shahzadpur,Ambala,Haryana,2016,4,high,1
+236,BEHAL,Bhiwani,Haryana,2016,4,high,1
+237,Bhiwani,Bhiwani,Haryana,2016,4,high,1
+238,JUI,Bhiwani,Haryana,2016,4,high,1
+239,LOHARU,Bhiwani,Haryana,2016,4,high,1
+240,Siwani,Bhiwani,Haryana,2016,4,high,1
+241,TOSHAM,Bhiwani,Haryana,2016,4,high,1
+242,Charkhi Dadri,Charkhi Dadri,Haryana,2016,4,high,1
+243,BALLABGARH,Faridabad,Haryana,2016,4,high,1
+244,Faridabad,Faridabad,Haryana,2016,4,high,1
+245,MOHNA,Faridabad,Haryana,2016,4,high,1
+246,TIGAON,Faridabad,Haryana,2016,4,high,1
+247,Bhattu Kalan,Fatehabad,Haryana,2016,4,high,1
+248,BHUNA,Fatehabad,Haryana,2016,4,high,1
+249,Fatehabad,Fatehabad,Haryana,2016,4,high,1
+250,Jakhal,Fatehabad,Haryana,2016,4,high,1
+251,Ratia,Fatehabad,Haryana,2016,4,high,1
+252,Tohana,Fatehabad,Haryana,2016,4,high,1
+253,FARRUKHNAGAR,Gurugram,Haryana,2016,4,high,1
+254,Gurugram,Gurugram,Haryana,2016,4,high,1
+255,PATAUDI,Gurugram,Haryana,2016,4,high,1
+256,SOHNA,Gurugram,Haryana,2016,4,high,1
+257,Adampur,Hisar,Haryana,2016,4,high,1
+258,Barwala (Hisar),Hisar,Haryana,2016,4,high,1
+259,BASS,Hisar,Haryana,2016,4,high,1
+260,Hansi,Hisar,Haryana,2016,4,high,1
+261,Hisar,Hisar,Haryana,2016,4,high,1
+262,Narnaund,Hisar,Haryana,2016,4,high,1
+263,Uklana,Hisar,Haryana,2016,4,high,1
+264,BAHADURGARH,Jhajjar,Haryana,2016,4,high,1
+265,BERI,Jhajjar,Haryana,2016,4,high,1
+266,Jhajjar,Jhajjar,Haryana,2016,4,high,1
+267,ALEWA,Jind,Haryana,2016,4,high,1
+268,Jind,Jind,Haryana,2016,4,high,1
+269,Julana,Jind,Haryana,2016,4,high,1
+270,Narwana,Jind,Haryana,2016,4,high,1
+271,Pillukhera,Jind,Haryana,2016,4,high,1
+272,Safidon,Jind,Haryana,2016,4,high,1
+273,Uchana,Jind,Haryana,2016,4,high,1
+274,Cheeka,Kaithal,Haryana,2016,4,high,1
+275,Dhand,Kaithal,Haryana,2016,4,high,1
+276,Kaithal,Kaithal,Haryana,2016,4,high,1
+277,Kalayat,Kaithal,Haryana,2016,4,high,1
+278,Pai,Kaithal,Haryana,2016,4,high,1
+279,Pundri,Kaithal,Haryana,2016,4,high,1
+280,SIWAN,Kaithal,Haryana,2016,4,high,1
+281,Asandh,Karnal,Haryana,2016,4,high,1
+282,Gharaunda,Karnal,Haryana,2016,4,high,1
+283,Indri,Karnal,Haryana,2016,4,high,1
+284,JUNDLA,Karnal,Haryana,2016,4,high,1
+285,Karnal,Karnal,Haryana,2016,4,high,1
+286,Nigdhu,Karnal,Haryana,2016,4,high,1
+287,Nilokheri,Karnal,Haryana,2016,4,high,1
+288,Nissing,Karnal,Haryana,2016,4,high,1
+289,Taraori,Karnal,Haryana,2016,4,high,1
+290,BABAIN,Kurukshetra,Haryana,2016,4,high,1
+291,Ismailabad,Kurukshetra,Haryana,2016,4,high,1
+292,Ladwa,Kurukshetra,Haryana,2016,4,high,1
+293,Pehowa,Kurukshetra,Haryana,2016,4,high,1
+294,Pipli,Kurukshetra,Haryana,2016,4,high,1
+295,Shahbad,Kurukshetra,Haryana,2016,4,high,1
+296,Thanesar,Kurukshetra,Haryana,2016,4,high,1
+297,Ferozpur Jhirka,Mewat (Nuh),Haryana,2016,4,high,1
+298,Nuh,Mewat (Nuh),Haryana,2016,4,high,1
+299,Punhana,Mewat (Nuh),Haryana,2016,4,high,1
+300,Tauru,Mewat (Nuh),Haryana,2016,4,high,1
+301,Ateli,Mohindergarh,Haryana,2016,4,high,1
+302,Kanina,Mohindergarh,Haryana,2016,4,high,1
+303,Mohindergarh,Mohindergarh,Haryana,2016,4,high,1
+304,Narnaul,Mohindergarh,Haryana,2016,4,high,1
+305,HATHIN,Palawal,Haryana,2016,4,high,1
+306,HASSANPUR,Palwal,Haryana,2016,4,high,1
+307,Hodal,Palwal,Haryana,2016,4,high,1
+308,Palwal,Palwal,Haryana,2016,4,high,1
+309,Barwala (Panchkula),Panchkula,Haryana,2016,4,high,1
+310,Panchkula,Panchkula,Haryana,2016,4,high,1
+311,Raipur Rani,Panchkula,Haryana,2016,4,high,1
+312,BAPOLI,Panipat,Haryana,2016,4,high,1
+313,Israna,Panipat,Haryana,2016,4,high,1
+314,Madlauda,Panipat,Haryana,2016,4,high,1
+315,Panipat,Panipat,Haryana,2016,4,high,1
+316,Samalkha,Panipat,Haryana,2016,4,high,1
+317,Kosli,Rewari,Haryana,2016,4,high,1
+318,Rewari,Rewari,Haryana,2016,4,high,1
+319,Meham,Rohtak,Haryana,2016,4,high,1
+320,Rohtak,Rohtak,Haryana,2016,4,high,1
+321,SAMPLA,Rohtak,Haryana,2016,4,high,1
+322,Dabwali,Sirsa,Haryana,2016,4,high,1
+323,DING,Sirsa,Haryana,2016,4,high,1
+324,Ellanabad,Sirsa,Haryana,2016,4,high,1
+325,Kalanwali,Sirsa,Haryana,2016,4,high,1
+326,Rania,Sirsa,Haryana,2016,4,high,1
+327,Sirsa,Sirsa,Haryana,2016,4,high,1
+328,Ganaur,Sonipat,Haryana,2016,4,high,1
+329,Gohana,Sonipat,Haryana,2016,4,high,1
+330,KHARKHODA,Sonipat,Haryana,2016,4,high,1
+331,Sonepat,Sonipat,Haryana,2016,4,high,1
+332,Chhachhrauli,Yamuna Nagar,Haryana,2016,4,high,1
+333,Jagadhari,Yamuna Nagar,Haryana,2016,4,high,1
+334,MUSTAFABAD,Yamuna Nagar,Haryana,2016,4,high,1
+335,RADAUR,Yamuna Nagar,Haryana,2016,4,high,1
+336,Sadhaura,Yamuna Nagar,Haryana,2016,4,high,1
+337,Yamuna Nagar,Yamuna Nagar,Haryana,2016,4,high,1
+338,BILASPUR,Bilaspur,Himachal Pradesh,2016,4,high,1
+339,Chamba,Chamba,Himachal Pradesh,2016,4,high,1
+340,Hamirpur,Hamirpur,Himachal Pradesh,2016,4,high,1
+341,NADAUN,Hamirpur,Himachal Pradesh,2016,4,high,1
+342,Baijnath,Kangra,Himachal Pradesh,2016,4,high,1
+343,Dharmshala,Kangra,Himachal Pradesh,2016,4,high,1
+344,Jassour,Kangra,Himachal Pradesh,2016,4,high,1
+345,Kangra,Kangra,Himachal Pradesh,2016,4,high,1
+346,NAGROTA BAGWAN,Kangra,Himachal Pradesh,2016,4,high,1
+347,Palampur,Kangra,Himachal Pradesh,2016,4,high,1
+348,Bandrol,Kullu,Himachal Pradesh,2016,4,high,1
+349,Bhuntar,Kullu,Himachal Pradesh,2016,4,high,1
+350,CHOURIBIHAL,Kullu,Himachal Pradesh,2016,4,high,1
+351,KULLU,Kullu,Himachal Pradesh,2016,4,high,1
+352,Patlikuhal,Kullu,Himachal Pradesh,2016,4,high,1
+353,SHAAT,Kullu,Himachal Pradesh,2016,4,high,1
+354,Dhanotu,Mandi,Himachal Pradesh,2016,4,high,1
+355,Mandi,Mandi,Himachal Pradesh,2016,4,high,1
+356,SMY Chailchowk,Mandi,Himachal Pradesh,2016,4,high,1
+357,Takoli,Mandi,Himachal Pradesh,2016,4,high,1
+358,Bhattakufar Dhalli,Shimla,Himachal Pradesh,2016,4,high,1
+359,Dhalli Shimla,Shimla,Himachal Pradesh,2016,4,high,1
+360,Khadapathhar,Shimla,Himachal Pradesh,2016,4,high,1
+361,NERWA,Shimla,Himachal Pradesh,2016,4,high,1
+362,Parala,Shimla,Himachal Pradesh,2016,4,high,1
+363,Rohru-Shimla,Shimla,Himachal Pradesh,2016,4,high,1
+364,SMY Mehandli,Shimla,Himachal Pradesh,2016,4,high,1
+365,SMY Tapri,Shimla,Himachal Pradesh,2016,4,high,1
+366,NAHAN,Sirmaur,Himachal Pradesh,2016,4,high,1
+367,Paonta Sahib,Sirmaur,Himachal Pradesh,2016,4,high,1
+368,RAJGARH,Sirmaur,Himachal Pradesh,2016,4,high,1
+369,DHARAMPUR,Solan,Himachal Pradesh,2016,4,high,1
+370,Parwanoo,Solan,Himachal Pradesh,2016,4,high,1
+371,Solan,Solan,Himachal Pradesh,2016,4,high,1
+372,WAKHNAGHAT,Solan,Himachal Pradesh,2016,4,high,1
+373,Santoshgarh,Una,Himachal Pradesh,2016,4,high,1
+374,TAKARLA,Una,Himachal Pradesh,2016,4,high,1
+375,Una,Una,Himachal Pradesh,2016,4,high,1
+376,ANANTNAG,Anantnag,Jammu & Kashmir,2020,5,high,2
+377,Baramulla ,Baramulla,Jammu & Kashmir,2020,5,high,2
+378,CHARARISHARIEF,Chararisharief,Jammu & Kashmir,2020,5,high,2
+379,Zazna,Ganderbal,Jammu & Kashmir,2020,5,high,2
+380,HANDWARA,Handwara,Jammu & Kashmir,2020,5,high,2
+381,Narwal,Jammu,Jammu & Kashmir,2020,5,high,2
+382,KATHUA,Kathua,Jammu & Kashmir,2020,5,high,2
+383,KULGAM,Kulgam,Jammu & Kashmir,2020,5,high,2
+384,Bumhama,Kupwara,Jammu & Kashmir,2020,5,high,2
+385,PULWAMA,Pulwama,Jammu & Kashmir,2020,5,high,2
+386,Phayalana,Rajouri,Jammu & Kashmir,2020,5,high,2
+387,Batote,Ramban,Jammu & Kashmir,2020,5,high,2
+388,SHOPIAN,Shopian,Jammu & Kashmir,2020,5,high,2
+389,SOPORE,Sopore,Jammu & Kashmir,2020,5,high,2
+390,Parimpora Sgr,Srinagar,Jammu & Kashmir,2020,5,high,2
+391,UDHAMPUR,Udhampur,Jammu & Kashmir,2020,5,high,2
+392,Bokaro,Bokaro,Jharkhand,2016,,medium,1
+393,Deoghar,Deoghar,Jharkhand,2016,,medium,1
+394,Dhanbad,Dhanbad,Jharkhand,2016,,medium,1
+395,Dumka,Dumka,Jharkhand,2016,,medium,1
+396,Chakulia,East Singhbhum,Jharkhand,2016,,medium,1
+397,Jamshedpur,East Singhbhum,Jharkhand,2016,,medium,1
+398,Garhwa,Garhwa,Jharkhand,2016,,medium,1
+399,Giridih,Giridih,Jharkhand,2016,,medium,1
+400,Gumla,Gumla,Jharkhand,2016,,medium,1
+401,Hazaribagh,Hazaribagh,Jharkhand,2016,,medium,1
+402,Koderma,Koderma,Jharkhand,2016,,medium,1
+403,Lohardaga,Lohardaga,Jharkhand,2016,,medium,1
+404,Pakur,Pakur,Jharkhand,2016,,medium,1
+405,Daltonganj,Palamu,Jharkhand,2016,,medium,1
+406,Ramgarh,Ramgarh,Jharkhand,2016,,medium,1
+407,Pandra Ranchi,Ranchi,Jharkhand,2016,,medium,1
+408,Sahebganj,Sahebganj,Jharkhand,2016,,medium,1
+409,Simdega,Simdega,Jharkhand,2016,,medium,1
+410,Chaibasa,West Singhbhum,Jharkhand,2016,,medium,1
+411,Saundatti,Belagavi,Karnataka,2020,5,high,2
+412,Channagiri,Davanagere,Karnataka,2020,5,high,2
+413,Chhincholi,Kalaburagi,Karnataka,2020,5,high,2
+414,Kalaburagi,Kalaburagi,Karnataka,2020,5,high,2
+415,Tiptur,Tumkur,Karnataka,2020,5,high,2
+416,"Agricultural Rural Wholesale Market, Muvattupuzha",Ernakulam,Kerala,2020,5,high,2
+417,"Agricultural Urban Wholesale Market, Maradu",Ernakulam,Kerala,2020,5,high,2
+418,"Agricultural Urban Wholesale Market, Vengeri",Kozhikode,Kerala,2020,5,high,2
+419,"Agricultural Urban Wholesale Market, Anayara",Thiruvananthapuram,Kerala,2020,5,high,2
+420,"Rural Agricultural Wholesale Market, Nedumangad",Thiruvananthapuram,Kerala,2020,5,high,2
+421,"Rural Agricultural Wholesale Market, Sulthan Bathery",Wayanad,Kerala,2020,5,high,2
+422,Agar,Agar Malwa,Madhya Pradesh,2016,4,high,1
+423,Alirajpur,Alirajpur,Madhya Pradesh,2016,4,high,1
+424,Jobat,Alirajpur,Madhya Pradesh,2016,4,high,1
+425,Anuppur,Anuppur,Madhya Pradesh,2016,4,high,1
+426,Ashok Nagar,Ashok Nagar,Madhya Pradesh,2016,4,high,1
+427,Mungaoli,Ashok Nagar,Madhya Pradesh,2016,4,high,1
+428,Balaghat,Balaghat,Madhya Pradesh,2016,4,high,1
+429,Katangi,Balaghat,Madhya Pradesh,2016,4,high,1
+430,Barwani,Barwani,Madhya Pradesh,2016,4,high,1
+431,Krishi Upaj Mandi Samiti-Anjad,Barwani,Madhya Pradesh,2016,4,high,1
+432,Sendhwa,Barwani,Madhya Pradesh,2016,4,high,1
+433,Betul,Betul,Madhya Pradesh,2016,4,high,1
+434,Bhind,Bhind,Madhya Pradesh,2016,4,high,1
+435,Berasia,Bhopal,Madhya Pradesh,2016,4,high,1
+436,Karond,Bhopal,Madhya Pradesh,2016,4,high,1
+437,Bina,Bina,Madhya Pradesh,2016,4,high,1
+438,Burhanpur,Burhanpur,Madhya Pradesh,2016,4,high,1
+439,Bada Malhera,Chhatarpur,Madhya Pradesh,2016,4,high,1
+440,Chhatarpur,Chhatarpur,Madhya Pradesh,2016,4,high,1
+441,Harpalpur,Chhatarpur,Madhya Pradesh,2016,4,high,1
+442,Lavkushnagar,Chhatarpur,Madhya Pradesh,2016,4,high,1
+443,Rajnagar,Chhatarpur,Madhya Pradesh,2016,4,high,1
+444,Chaurai,Chhindwara,Madhya Pradesh,2016,4,high,1
+445,Chhindwara,Chhindwara,Madhya Pradesh,2016,4,high,1
+446,Krishi Upaj Mandi Samiti-Pandhurna,Chhindwara,Madhya Pradesh,2016,4,high,1
+447,Krishi Upaj Mandi Samiti-Saunsar,Chhindwara,Madhya Pradesh,2016,4,high,1
+448,Damoh,Damoh,Madhya Pradesh,2016,4,high,1
+449,Jabera,Damoh,Madhya Pradesh,2016,4,high,1
+450,Patharia,Damoh,Madhya Pradesh,2016,4,high,1
+451,Datia,Datia,Madhya Pradesh,2016,4,high,1
+452,Dewas,Dewas,Madhya Pradesh,2016,4,high,1
+453,Khategaon,Dewas,Madhya Pradesh,2016,4,high,1
+454,Sonkatch,Dewas,Madhya Pradesh,2016,4,high,1
+455,Badnawar,Dhar,Madhya Pradesh,2016,4,high,1
+456,Dhar,Dhar,Madhya Pradesh,2016,4,high,1
+457,Krishi Upaj Mandi Samiti-Dhamnod,Dhar,Madhya Pradesh,2016,4,high,1
+458,Krishi Upaj Mandi Samiti-Gandhwani,Dhar,Madhya Pradesh,2016,4,high,1
+459,Krishi Upaj Mandi Samiti-Kukshi,Dhar,Madhya Pradesh,2016,4,high,1
+460,Manawar,Dhar,Madhya Pradesh,2016,4,high,1
+461,Rajgarh,Dhar,Madhya Pradesh,2016,4,high,1
+462,Aron,Guna,Madhya Pradesh,2016,4,high,1
+463,Guna,Guna,Madhya Pradesh,2016,4,high,1
+464,Krishi Upaj Mandi Samiti-Kumbhraj,Guna,Madhya Pradesh,2016,4,high,1
+465,Dabra,Gwalior,Madhya Pradesh,2016,4,high,1
+466,Krishi Upaj Mandi Samiti-Lashkar,Gwalior,Madhya Pradesh,2016,4,high,1
+467,Harda,Harda,Madhya Pradesh,2016,4,high,1
+468,Khirkiya,Harda,Madhya Pradesh,2016,4,high,1
+469,Sirali,Harda,Madhya Pradesh,2016,4,high,1
+470,Timarni,Harda,Madhya Pradesh,2016,4,high,1
+471,Bankhedi,Hoshangabad,Madhya Pradesh,2016,4,high,1
+472,Itarsi,Hoshangabad,Madhya Pradesh,2016,4,high,1
+473,Krishi Upaj Mandi Samiti-Banapura,Hoshangabad,Madhya Pradesh,2016,4,high,1
+474,Pipariya,Hoshangabad,Madhya Pradesh,2016,4,high,1
+475,Semri Harchand,Hoshangabad,Madhya Pradesh,2016,4,high,1
+476,Gautampura,Indore,Madhya Pradesh,2016,4,high,1
+477,Indore,Indore,Madhya Pradesh,2016,4,high,1
+478,Mhow,Indore,Madhya Pradesh,2016,4,high,1
+479,Sanwer,Indore,Madhya Pradesh,2016,4,high,1
+480,Jabalpur,Jabalpur,Madhya Pradesh,2016,4,high,1
+481,Patan,Jabalpur,Madhya Pradesh,2016,4,high,1
+482,Sehora,Jabalpur,Madhya Pradesh,2016,4,high,1
+483,Shahpura-Bhitoni,Jabalpur,Madhya Pradesh,2016,4,high,1
+484,Jhabua,Jhabua,Madhya Pradesh,2016,4,high,1
+485,Petlawad,Jhabua,Madhya Pradesh,2016,4,high,1
+486,Thandla,Jhabua,Madhya Pradesh,2016,4,high,1
+487,Katni,Katni,Madhya Pradesh,2016,4,high,1
+488,Harsud,Khandwa,Madhya Pradesh,2016,4,high,1
+489,Khandwa,Khandwa,Madhya Pradesh,2016,4,high,1
+490,Kasrawad,Khargone,Madhya Pradesh,2016,4,high,1
+491,Khargone,Khargone,Madhya Pradesh,2016,4,high,1
+492,Khetiya,Khargone,Madhya Pradesh,2016,4,high,1
+493,Krishi Upaj Mandi Samiti-Badwaha,Khargone,Madhya Pradesh,2016,4,high,1
+494,Krishi Upaj Mandi Samiti-Bhikangaon,Khargone,Madhya Pradesh,2016,4,high,1
+495,Krishi Upaj Mandi Samiti-Karhi,Khargone,Madhya Pradesh,2016,4,high,1
+496,Krishi Upaj Mandi Samiti-Sanawad,Khargone,Madhya Pradesh,2016,4,high,1
+497,Shegaon,Khargone,Madhya Pradesh,2016,4,high,1
+498,Mandla,Mandla,Madhya Pradesh,2016,4,high,1
+499,Dalauda,Mandsaur,Madhya Pradesh,2016,4,high,1
+500,Mandsaur,Mandsaur,Madhya Pradesh,2016,4,high,1
+501,Pipaliya,Mandsaur,Madhya Pradesh,2016,4,high,1
+502,Morena,Morena,Madhya Pradesh,2016,4,high,1
+503,Gadarwara,Narsinghpur,Madhya Pradesh,2016,4,high,1
+504,Gotegaon,Narsinghpur,Madhya Pradesh,2016,4,high,1
+505,Krishi Upaj Mandi Samiti-Kareli,Narsinghpur,Madhya Pradesh,2016,4,high,1
+506,Narsinghpur,Narsinghpur,Madhya Pradesh,2016,4,high,1
+507,Neemuch,Neemuch,Madhya Pradesh,2016,4,high,1
+508,Niwari,Niwari,Madhya Pradesh,2016,4,high,1
+509,Panna,Panna,Madhya Pradesh,2016,4,high,1
+510,Bareli,Raisen,Madhya Pradesh,2016,4,high,1
+511,Krishi Upaj Mandi Samiti-Raisen,Raisen,Madhya Pradesh,2016,4,high,1
+512,Krishi Upaj Mandi Samiti-Udaipura,Raisen,Madhya Pradesh,2016,4,high,1
+513,Obaidullaganj,Raisen,Madhya Pradesh,2016,4,high,1
+514,Silwani,Raisen,Madhya Pradesh,2016,4,high,1
+515,Biaora,Rajgarh,Madhya Pradesh,2016,4,high,1
+516,Kurawar,Rajgarh,Madhya Pradesh,2016,4,high,1
+517,Narsinghgarh,Rajgarh,Madhya Pradesh,2016,4,high,1
+518,Pachore,Rajgarh,Madhya Pradesh,2016,4,high,1
+519,Jaora,Ratlam,Madhya Pradesh,2016,4,high,1
+520,Ratlam,Ratlam,Madhya Pradesh,2016,4,high,1
+521,Sailana,Ratlam,Madhya Pradesh,2016,4,high,1
+522,Baikunthpur,Rewa,Madhya Pradesh,2016,4,high,1
+523,Chakghat,Rewa,Madhya Pradesh,2016,4,high,1
+524,Hanumana,Rewa,Madhya Pradesh,2016,4,high,1
+525,Rewa,Rewa,Madhya Pradesh,2016,4,high,1
+526,Deori,Sagar,Madhya Pradesh,2016,4,high,1
+527,Garhakota,Sagar,Madhya Pradesh,2016,4,high,1
+528,Krishi Upaj Mandi Samiti-Khurai,Sagar,Madhya Pradesh,2016,4,high,1
+529,Rahatgarh,Sagar,Madhya Pradesh,2016,4,high,1
+530,Rehli,Sagar,Madhya Pradesh,2016,4,high,1
+531,Sagar,Sagar,Madhya Pradesh,2016,4,high,1
+532,Amarpatan,Satna,Madhya Pradesh,2016,4,high,1
+533,Krishi Upaj Mandi Samiti-Nagod,Satna,Madhya Pradesh,2016,4,high,1
+534,Maihar,Satna,Madhya Pradesh,2016,4,high,1
+535,Satna,Satna,Madhya Pradesh,2016,4,high,1
+536,Ashta,Sehore,Madhya Pradesh,2016,4,high,1
+537,Krishi Upaj Mandi Samiti-Nasrullaganj,Sehore,Madhya Pradesh,2016,4,high,1
+538,Sehore,Sehore,Madhya Pradesh,2016,4,high,1
+539,Chhapara,Seoni,Madhya Pradesh,2016,4,high,1
+540,Palari,Seoni,Madhya Pradesh,2016,4,high,1
+541,Seoni,Seoni,Madhya Pradesh,2016,4,high,1
+542,Beohari,Shahdol,Madhya Pradesh,2016,4,high,1
+543,Shahdol,Shahdol,Madhya Pradesh,2016,4,high,1
+544,Shajapur,Shajapur,Madhya Pradesh,2016,4,high,1
+545,Shujalpur,Shajapur,Madhya Pradesh,2016,4,high,1
+546,Sheopurkalan,Sheopur,Madhya Pradesh,2016,4,high,1
+547,Badarwas,Shivpuri,Madhya Pradesh,2016,4,high,1
+548,Karera,Shivpuri,Madhya Pradesh,2016,4,high,1
+549,Krishi Upaj Mandi Samiti-Kolaras,Shivpuri,Madhya Pradesh,2016,4,high,1
+550,Krishi Upaj Mandi Samiti-Shivpuri,Shivpuri,Madhya Pradesh,2016,4,high,1
+551,Sidhi,Sidhi,Madhya Pradesh,2016,4,high,1
+552,Krishi Upaj Mandi Samiti-Singrauli,Singrauli,Madhya Pradesh,2016,4,high,1
+553,Tikamgarh,Tikamgarh,Madhya Pradesh,2016,4,high,1
+554,Badnagar,Ujjain,Madhya Pradesh,2016,4,high,1
+555,Mahidpur,Ujjain,Madhya Pradesh,2016,4,high,1
+556,Ujjain,Ujjain,Madhya Pradesh,2016,4,high,1
+557,Umaria,Umaria,Madhya Pradesh,2016,4,high,1
+558,Ganj Basoda,Vidisha,Madhya Pradesh,2016,4,high,1
+559,Sironj,Vidisha,Madhya Pradesh,2016,4,high,1
+560,Vidisha,Vidisha,Madhya Pradesh,2016,4,high,1
+561,Ahmednagar,Ahmednagar,Maharashtra,2017,,medium,1
+562,Newasa,Ahmednagar,Maharashtra,2017,,medium,1
+563,Parner,Ahmednagar,Maharashtra,2017,,medium,1
+564,Rahata,Ahmednagar,Maharashtra,2017,,medium,1
+565,Rahuri,Ahmednagar,Maharashtra,2017,,medium,1
+566,Sangamner,Ahmednagar,Maharashtra,2017,,medium,1
+567,Shrirampur,Ahmednagar,Maharashtra,2017,,medium,1
+568,Akola,Akola,Maharashtra,2017,,medium,1
+569,Akot,Akola,Maharashtra,2017,,medium,1
+570,Murtizapur,Akola,Maharashtra,2017,,medium,1
+571,Telhara,Akola,Maharashtra,2017,,medium,1
+572,Achalpur,Amrawati,Maharashtra,2017,,medium,1
+573,Amrawati,Amrawati,Maharashtra,2017,,medium,1
+574,Anjangaon Surji,Amrawati,Maharashtra,2017,,medium,1
+575,Chandur Bazar,Amrawati,Maharashtra,2017,,medium,1
+576,Daryapur,Amrawati,Maharashtra,2017,,medium,1
+577,Dhamangaon Railway,Amrawati,Maharashtra,2017,,medium,1
+578,Morshi,Amrawati,Maharashtra,2017,,medium,1
+579,Aurangabad,Aurangabad,Maharashtra,2017,,medium,1
+580,Gangapur,Aurangabad,Maharashtra,2017,,medium,1
+581,Kannad,Aurangabad,Maharashtra,2017,,medium,1
+582,Lasur Station,Aurangabad,Maharashtra,2017,,medium,1
+583,Vaijapur,Aurangabad,Maharashtra,2017,,medium,1
+584,Ambejogai,Beed,Maharashtra,2017,,medium,1
+585,Beed,Beed,Maharashtra,2017,,medium,1
+586,Gevrai,Beed,Maharashtra,2017,,medium,1
+587,Majalgaon,Beed,Maharashtra,2017,,medium,1
+588,Parli Vaijyanath,Beed,Maharashtra,2017,,medium,1
+589,Lakhandur,Bhandara,Maharashtra,2017,,medium,1
+590,Tumsar,Bhandara,Maharashtra,2017,,medium,1
+591,Chikhali,Buldhana,Maharashtra,2017,,medium,1
+592,Khamgaon,Buldhana,Maharashtra,2017,,medium,1
+593,Lonar,Buldhana,Maharashtra,2017,,medium,1
+594,Malkapur,Buldhana,Maharashtra,2017,,medium,1
+595,Mehkar,Buldhana,Maharashtra,2017,,medium,1
+596,Nandura,Buldhana,Maharashtra,2017,,medium,1
+597,Shegaon,Buldhana,Maharashtra,2017,,medium,1
+598,Chandrapur,Chandrapur,Maharashtra,2017,,medium,1
+599,Mul,Chandrapur,Maharashtra,2017,,medium,1
+600,Nagbhid,Chandrapur,Maharashtra,2017,,medium,1
+601,Sindewahi,Chandrapur,Maharashtra,2017,,medium,1
+602,Varora,Chandrapur,Maharashtra,2017,,medium,1
+603,Dhule,Dhule,Maharashtra,2017,,medium,1
+604,Dondaicha,Dhule,Maharashtra,2017,,medium,1
+605,Shirpur,Dhule,Maharashtra,2017,,medium,1
+606,Aheri,Gadchiroli,Maharashtra,2017,,medium,1
+607,Armori-Desaiganj,Gadchiroli,Maharashtra,2017,,medium,1
+608,Chamorshi,Gadchiroli,Maharashtra,2017,,medium,1
+609,Amgaon,Gondiya,Maharashtra,2017,,medium,1
+610,Arjuni Morgoan,Gondiya,Maharashtra,2017,,medium,1
+611,Gondiya,Gondiya,Maharashtra,2017,,medium,1
+612,Tiroda,Gondiya,Maharashtra,2017,,medium,1
+613,Basmat,Hingoli,Maharashtra,2017,,medium,1
+614,Hingoli,Hingoli,Maharashtra,2017,,medium,1
+615,Sengoan,Hingoli,Maharashtra,2017,,medium,1
+616,Amalner,Jalgaon,Maharashtra,2017,,medium,1
+617,Chalisgaon,Jalgaon,Maharashtra,2017,,medium,1
+618,Chopda,Jalgaon,Maharashtra,2017,,medium,1
+619,Jalgaon,Jalgaon,Maharashtra,2017,,medium,1
+620,Jalna,Jalna,Maharashtra,2017,,medium,1
+621,Partur,Jalna,Maharashtra,2017,,medium,1
+622,Kolhapur,Kolhapur,Maharashtra,2017,,medium,1
+623,Ausa,Latur,Maharashtra,2017,,medium,1
+624,Latur,Latur,Maharashtra,2017,,medium,1
+625,Udgir,Latur,Maharashtra,2017,,medium,1
+626,Mumbai,Mumbai,Maharashtra,2017,,medium,1
+627,Bhiwapur,Nagpur,Maharashtra,2017,,medium,1
+628,Katol,Nagpur,Maharashtra,2017,,medium,1
+629,Nagpur,Nagpur,Maharashtra,2017,,medium,1
+630,Saoner,Nagpur,Maharashtra,2017,,medium,1
+631,Umred,Nagpur,Maharashtra,2017,,medium,1
+632,Bhokar,Nanded,Maharashtra,2017,,medium,1
+633,Dharmabad,Nanded,Maharashtra,2017,,medium,1
+634,Nanded,Nanded,Maharashtra,2017,,medium,1
+635,Nandurbar,Nandurbar,Maharashtra,2017,,medium,1
+636,Shahada,Nandurbar,Maharashtra,2017,,medium,1
+637,Chandvad,Nashik,Maharashtra,2017,,medium,1
+638,Deola,Nashik,Maharashtra,2017,,medium,1
+639,Dindori,Nashik,Maharashtra,2017,,medium,1
+640,Lasalgaon,Nashik,Maharashtra,2017,,medium,1
+641,Malegaon,Nashik,Maharashtra,2017,,medium,1
+642,Nampur,Nashik,Maharashtra,2017,,medium,1
+643,Nandgaon,Nashik,Maharashtra,2017,,medium,1
+644,Nashik,Nashik,Maharashtra,2017,,medium,1
+645,Pimpalgaon Baswant,Nashik,Maharashtra,2017,,medium,1
+646,Satana,Nashik,Maharashtra,2017,,medium,1
+647,Sinnar,Nashik,Maharashtra,2017,,medium,1
+648,Umrane,Nashik,Maharashtra,2017,,medium,1
+649,Yeola,Nashik,Maharashtra,2017,,medium,1
+650,Kalamb,Osmanabad,Maharashtra,2017,,medium,1
+651,Murum,Osmanabad,Maharashtra,2017,,medium,1
+652,Tuljapur,Osmanabad,Maharashtra,2017,,medium,1
+653,Umarga,Osmanabad,Maharashtra,2017,,medium,1
+654,Jintur,Parbhani,Maharashtra,2017,,medium,1
+655,Parbhani,Parbhani,Maharashtra,2017,,medium,1
+656,Selu,Parbhani,Maharashtra,2017,,medium,1
+657,Baramati,Pune,Maharashtra,2017,,medium,1
+658,Dound,Pune,Maharashtra,2017,,medium,1
+659,Indapur,Pune,Maharashtra,2017,,medium,1
+660,Junnar,Pune,Maharashtra,2017,,medium,1
+661,Khed,Pune,Maharashtra,2017,,medium,1
+662,Pune,Pune,Maharashtra,2017,,medium,1
+663,Shirur,Pune,Maharashtra,2017,,medium,1
+664,Aatpadi,Sangli,Maharashtra,2017,,medium,1
+665,Sangli,Sangli,Maharashtra,2017,,medium,1
+666,Karad,Satara,Maharashtra,2017,,medium,1
+667,Lonand,Satara,Maharashtra,2017,,medium,1
+668,Phaltan,Satara,Maharashtra,2017,,medium,1
+669,Wai,Satara,Maharashtra,2017,,medium,1
+670,Akluj,Solapur,Maharashtra,2017,,medium,1
+671,Barshi,Solapur,Maharashtra,2017,,medium,1
+672,Dudhani,Solapur,Maharashtra,2017,,medium,1
+673,Karmala,Solapur,Maharashtra,2017,,medium,1
+674,Mangalwedha,Solapur,Maharashtra,2017,,medium,1
+675,Pandharpur,Solapur,Maharashtra,2017,,medium,1
+676,Sangola,Solapur,Maharashtra,2017,,medium,1
+677,Solapur,Solapur,Maharashtra,2017,,medium,1
+678,Arvi,Wardha,Maharashtra,2017,,medium,1
+679,Hinganghat,Wardha,Maharashtra,2017,,medium,1
+680,Sindi,Wardha,Maharashtra,2017,,medium,1
+681,Wardha,Wardha,Maharashtra,2017,,medium,1
+682,Karanja,Washim,Maharashtra,2017,,medium,1
+683,Malegaon,Washim,Maharashtra,2017,,medium,1
+684,Mangrulpeer,Washim,Maharashtra,2017,,medium,1
+685,Manora,Washim,Maharashtra,2017,,medium,1
+686,Risod,Washim,Maharashtra,2017,,medium,1
+687,Washim,Washim,Maharashtra,2017,,medium,1
+688,Arni,Yawatmal,Maharashtra,2017,,medium,1
+689,Babhulgaon,Yawatmal,Maharashtra,2017,,medium,1
+690,Digras,Yawatmal,Maharashtra,2017,,medium,1
+691,Ner Parasopant,Yawatmal,Maharashtra,2017,,medium,1
+692,Vani,Yawatmal,Maharashtra,2017,,medium,1
+693,Yawatmal,Yawatmal,Maharashtra,2017,,medium,1
+694,Dimapur APMC,Dimapur,Nagaland,2022,,low,3
+695,Kiphire APMC,Kiphire,Nagaland,2022,,low,3
+696,Kohima APMC,Kohima,Nagaland,2022,,low,3
+697,Longleng APMC,Longleng,Nagaland,2022,,low,3
+698,Mangkolemba APMC,Mokokchung,Nagaland,2022,,low,3
+699,Mokokchung APMC,Mokokchung,Nagaland,2022,,low,3
+700,Tuli APMC,Mokokchung,Nagaland,2022,,low,3
+701,Mon APMC,Mon,Nagaland,2022,,low,3
+702,Niuland APMC,Niuland,Nagaland,2022,,low,3
+703,Jalukie APMC,Peren,Nagaland,2022,,low,3
+704,Tenning APMC,Peren,Nagaland,2022,,low,3
+705,Pfutsero APMC,Pfutsero,Nagaland,2022,,low,3
+706,Phek APMC,Phek,Nagaland,2022,,low,3
+707,Tsemenyu APMC,Tsemenyu,Nagaland,2022,,low,3
+708,Tuensang APMC,Tuensang,Nagaland,2022,,low,3
+709,Baghty APMC,Wokha,Nagaland,2022,,low,3
+710,Wokha APMC,Wokha,Nagaland,2022,,low,3
+711,Ghatashi APMC,Zunheboto,Nagaland,2022,,low,3
+712,Zunheboto APMC,Zunheboto,Nagaland,2022,,low,3
+713,Angul,Angul,Odisha,2017,,medium,1
+714,Athmallik,Angul,Odisha,2017,,medium,1
+715,Pallahara,Angul,Odisha,2017,,medium,1
+716,Talcher,Angul,Odisha,2017,,medium,1
+717,Balangir,Balangir,Odisha,2017,,medium,1
+718,Kantabanji,Balangir,Odisha,2017,,medium,1
+719,Patnagarh,Balangir,Odisha,2017,,medium,1
+720,Balasore,Balasore,Odisha,2017,,medium,1
+721,Jaleswar,Balasore,Odisha,2017,,medium,1
+722,Nilagiri,Balasore,Odisha,2017,,medium,1
+723,Attabira,Bargarh,Odisha,2017,,medium,1
+724,Bargarh,Bargarh,Odisha,2017,,medium,1
+725,Padampur,Bargarh,Odisha,2017,,medium,1
+726,Bhadrak,Bhadrak,Odisha,2017,,medium,1
+727,Chandbali,Bhadrak,Odisha,2017,,medium,1
+728,Boudh,Boudh,Odisha,2017,,medium,1
+729,Banki,Cuttack,Odisha,2017,,medium,1
+730,Kendupatna,Cuttack,Odisha,2017,,medium,1
+731,Narsinghpur,Cuttack,Odisha,2017,,medium,1
+732,Deogarh,Deogarh,Odisha,2017,,medium,1
+733,Dhenkanal,Dhenkanal,Odisha,2017,,medium,1
+734,Hindol,Dhenkanal,Odisha,2017,,medium,1
+735,Kamakhyanagar,Dhenkanal,Odisha,2017,,medium,1
+736,Paralakhemundi,Gajapati,Odisha,2017,,medium,1
+737,Bhanjanagar,Ganjam,Odisha,2017,,medium,1
+738,Digapahandi,Ganjam,Odisha,2017,,medium,1
+739,Hinjilicut,Ganjam,Odisha,2017,,medium,1
+740,Jagatsinghpur,Jagatsinghpur,Odisha,2017,,medium,1
+741,Rahama,Jagatsinghpur,Odisha,2017,,medium,1
+742,Jajpur,Jajpur,Odisha,2017,,medium,1
+743,Jharsuguda,Jharsuguda,Odisha,2017,,medium,1
+744,Bhawanipatna,Kalahandi,Odisha,2017,,medium,1
+745,Junagarh,Kalahandi,Odisha,2017,,medium,1
+746,Kesinga,Kalahandi,Odisha,2017,,medium,1
+747,Mukhiguda,Kalahandi,Odisha,2017,,medium,1
+748,Kandhamal,Kandhamal,Odisha,2017,,medium,1
+749,Tikabali,Kandhamal,Odisha,2017,,medium,1
+750,Kendrapara,Kendrapara,Odisha,2017,,medium,1
+751,Anandapur,Keonjhar,Odisha,2017,,medium,1
+752,Champua,Keonjhar,Odisha,2017,,medium,1
+753,Keonjhar,Keonjhar,Odisha,2017,,medium,1
+754,Balugaon,Khorda,Odisha,2017,,medium,1
+755,Jatni,Khorda,Odisha,2017,,medium,1
+756,Jeypore,Koraput,Odisha,2017,,medium,1
+757,Koraput,Koraput,Odisha,2017,,medium,1
+758,Malkangiri,Malkangiri,Odisha,2017,,medium,1
+759,Baripada,Mayurbhanj,Odisha,2017,,medium,1
+760,Betnoti,Mayurbhanj,Odisha,2017,,medium,1
+761,Karanjia,Mayurbhanj,Odisha,2017,,medium,1
+762,Rairangpur,Mayurbhanj,Odisha,2017,,medium,1
+763,Udala,Mayurbhanj,Odisha,2017,,medium,1
+764,Nabarangapur,Nabarangapur,Odisha,2017,,medium,1
+765,Bahadajhola,Nayagarh,Odisha,2017,,medium,1
+766,Khariar Road,Nuapada,Odisha,2017,,medium,1
+767,Nimapara,Puri,Odisha,2017,,medium,1
+768,Sakhigopal,Puri,Odisha,2017,,medium,1
+769,Gunupur,Rayagada,Odisha,2017,,medium,1
+770,Rayagada,Rayagada,Odisha,2017,,medium,1
+771,Kuchinda,Sambalpur,Odisha,2017,,medium,1
+772,Rairakhol,Sambalpur,Odisha,2017,,medium,1
+773,Sambalpur,Sambalpur,Odisha,2017,,medium,1
+774,Biramaharajpur,Sonepur,Odisha,2017,,medium,1
+775,Dunguripali,Sonepur,Odisha,2017,,medium,1
+776,Bonai,Sundargarh,Odisha,2017,,medium,1
+777,Panposh,Sundargarh,Odisha,2017,,medium,1
+778,Sargipali,Sundargarh,Odisha,2017,,medium,1
+779,Karaikal,Karaikal,Puducherry,2020,,medium,2
+780,Thattanchavadi,Pondicherry,Puducherry,2020,,medium,2
+781,Ajnala,Amritsar,Punjab,2020,5,high,2
+782,Amritsar,Amritsar,Punjab,2020,5,high,2
+783,Atari,Amritsar,Punjab,2020,5,high,2
+784,"Jandiala Guru, Gehri",Amritsar,Punjab,2020,5,high,2
+785,Mehta,Amritsar,Punjab,2020,5,high,2
+786,Rayya,Amritsar,Punjab,2020,5,high,2
+787,Barnala,Barnala,Punjab,2020,5,high,2
+788,Tappa,Barnala,Punjab,2020,5,high,2
+789,Bathinda,Bathinda,Punjab,2020,5,high,2
+790,Bhucho,Bathinda,Punjab,2020,5,high,2
+791,Goniana,Bathinda,Punjab,2020,5,high,2
+792,Maur,Bathinda,Punjab,2020,5,high,2
+793,Raman,Bathinda,Punjab,2020,5,high,2
+794,Rampura Phul,Bathinda,Punjab,2020,5,high,2
+795,Faridkot,Faridkot,Punjab,2020,5,high,2
+796,Jaito,Faridkot,Punjab,2020,5,high,2
+797,Kotkapura,Faridkot,Punjab,2020,5,high,2
+798,Sadiq,Faridkot,Punjab,2020,5,high,2
+799,Amloh,Fatehgarh Sahib,Punjab,2020,5,high,2
+800,Fatehgarh Sahib,Fatehgarh Sahib,Punjab,2020,5,high,2
+801,Abohar,Fazilka,Punjab,2020,5,high,2
+802,Fazilka,Fazilka,Punjab,2020,5,high,2
+803,Jalalbad,Fazilka,Punjab,2020,5,high,2
+804,Ferozpur Cantt,Ferozpur,Punjab,2020,5,high,2
+805,Ferozpur City,Ferozpur,Punjab,2020,5,high,2
+806,Guruharsahai,Ferozpur,Punjab,2020,5,high,2
+807,Makhu,Ferozpur,Punjab,2020,5,high,2
+808,Talwandi Bhai,Ferozpur,Punjab,2020,5,high,2
+809,Batala,Gurdaspur,Punjab,2020,5,high,2
+810,Dera Baba Nanak,Gurdaspur,Punjab,2020,5,high,2
+811,Dinanagar,Gurdaspur,Punjab,2020,5,high,2
+812,Fatehgarh Churian,Gurdaspur,Punjab,2020,5,high,2
+813,Gurdaspur,Gurdaspur,Punjab,2020,5,high,2
+814,Kalanaur,Gurdaspur,Punjab,2020,5,high,2
+815,Hoshiarpur,Hoshiarpur,Punjab,2020,5,high,2
+816,Bhogpur,Jalandhar,Punjab,2020,5,high,2
+817,Jalandhar,Jalandhar,Punjab,2020,5,high,2
+818,Nakodar,Jalandhar,Punjab,2020,5,high,2
+819,Shahkot,Jalandhar,Punjab,2020,5,high,2
+820,Kapurthala,Kapurthala,Punjab,2020,5,high,2
+821,Phagwara,Kapurthala,Punjab,2020,5,high,2
+822,Sultanpur Lodhi,Kapurthala,Punjab,2020,5,high,2
+823,Jagraon,Ludhiana,Punjab,2020,5,high,2
+824,Khanna,Ludhiana,Punjab,2020,5,high,2
+825,Ludhiana,Ludhiana,Punjab,2020,5,high,2
+826,Machhiwara Sahib,Ludhiana,Punjab,2020,5,high,2
+827,Bareta,Mansa,Punjab,2020,5,high,2
+828,Bhikhi,Mansa,Punjab,2020,5,high,2
+829,Budhlada,Mansa,Punjab,2020,5,high,2
+830,Mansa,Mansa,Punjab,2020,5,high,2
+831,Sardulgarh,Mansa,Punjab,2020,5,high,2
+832,Moga,Moga,Punjab,2020,5,high,2
+833,Pathankot,Pathankot,Punjab,2020,5,high,2
+834,Dudan Sadhan,Patiala,Punjab,2020,5,high,2
+835,Nabha,Patiala,Punjab,2020,5,high,2
+836,Patiala,Patiala,Punjab,2020,5,high,2
+837,Patran,Patiala,Punjab,2020,5,high,2
+838,Rajpura,Patiala,Punjab,2020,5,high,2
+839,Samana,Patiala,Punjab,2020,5,high,2
+840,Ropar,Rupnagar,Punjab,2020,5,high,2
+841,Kharar,S.A.S Nagar,Punjab,2020,5,high,2
+842,Dhuri,Sangrur,Punjab,2020,5,high,2
+843,Khanauri,Sangrur,Punjab,2020,5,high,2
+844,Lehragaga,Sangrur,Punjab,2020,5,high,2
+845,Malerkotla,Sangrur,Punjab,2020,5,high,2
+846,Moonak,Sangrur,Punjab,2020,5,high,2
+847,Sangrur,Sangrur,Punjab,2020,5,high,2
+848,Sunam,Sangrur,Punjab,2020,5,high,2
+849,Balachaur,Shaheed Bhagat Singh Nagar,Punjab,2020,5,high,2
+850,Banga,Shaheed Bhagat Singh Nagar,Punjab,2020,5,high,2
+851,Nawanshahr,Shaheed Bhagat Singh Nagar,Punjab,2020,5,high,2
+852,Gidderbaha,Sri Muktsar Sahib,Punjab,2020,5,high,2
+853,Malout,Sri Muktsar Sahib,Punjab,2020,5,high,2
+854,Muktsar,Sri Muktsar Sahib,Punjab,2020,5,high,2
+855,Bhikhiwind,Tarn Taran Sahib,Punjab,2020,5,high,2
+856,Khemkaran,Tarn Taran Sahib,Punjab,2020,5,high,2
+857,Naushehara Pannuan,Tarn Taran Sahib,Punjab,2020,5,high,2
+858,Patti,Tarn Taran Sahib,Punjab,2020,5,high,2
+859,Tarn Taran,Tarn Taran Sahib,Punjab,2020,5,high,2
+860,Ajmer (F&V),Ajmer,Rajasthan,2016,4,high,1
+861,Ajmer (Grain),Ajmer,Rajasthan,2016,4,high,1
+862,Beawar,Ajmer,Rajasthan,2016,4,high,1
+863,Bijaynagar,Ajmer,Rajasthan,2016,4,high,1
+864,Kekri,Ajmer,Rajasthan,2016,4,high,1
+865,Madanganj Kishangarh,Ajmer,Rajasthan,2016,4,high,1
+866,Alwar,Alwar,Rajasthan,2016,4,high,1
+867,Barodamev,Alwar,Rajasthan,2016,4,high,1
+868,Khairthal,Alwar,Rajasthan,2016,4,high,1
+869,Kherli,Alwar,Rajasthan,2016,4,high,1
+870,Banswara,Banswara,Rajasthan,2016,4,high,1
+871,Anta,Baran,Rajasthan,2016,4,high,1
+872,Atru,Baran,Rajasthan,2016,4,high,1
+873,Baran,Baran,Rajasthan,2016,4,high,1
+874,Chabra,Baran,Rajasthan,2016,4,high,1
+875,Balotra,Barmer,Rajasthan,2016,4,high,1
+876,Barmer,Barmer,Rajasthan,2016,4,high,1
+877,Bayana,Bharatpur,Rajasthan,2016,4,high,1
+878,Bharatpur,Bharatpur,Rajasthan,2016,4,high,1
+879,Deeg,Bharatpur,Rajasthan,2016,4,high,1
+880,Kaman,Bharatpur,Rajasthan,2016,4,high,1
+881,Nadbai,Bharatpur,Rajasthan,2016,4,high,1
+882,Nagar,Bharatpur,Rajasthan,2016,4,high,1
+883,Bhilwara,Bhilwara,Rajasthan,2016,4,high,1
+884,Bijoliya,Bhilwara,Rajasthan,2016,4,high,1
+885,Gangapur Rj,Bhilwara,Rajasthan,2016,4,high,1
+886,Mandalgarh,Bhilwara,Rajasthan,2016,4,high,1
+887,Shahpura,Bhilwara,Rajasthan,2016,4,high,1
+888,Bajju,Bikaner,Rajasthan,2016,4,high,1
+889,Bikaner (F&V),Bikaner,Rajasthan,2016,4,high,1
+890,Bikaner (Grain),Bikaner,Rajasthan,2016,4,high,1
+891,Khajuwala,Bikaner,Rajasthan,2016,4,high,1
+892,Lunkaransar,Bikaner,Rajasthan,2016,4,high,1
+893,Nokha,Bikaner,Rajasthan,2016,4,high,1
+894,Sri Dungargarh,Bikaner,Rajasthan,2016,4,high,1
+895,Bundi,Bundi,Rajasthan,2016,4,high,1
+896,Dei,Bundi,Rajasthan,2016,4,high,1
+897,Keshoraipatan,Bundi,Rajasthan,2016,4,high,1
+898,Sumerganj,Bundi,Rajasthan,2016,4,high,1
+899,Barisadri,Chittorgarh,Rajasthan,2016,4,high,1
+900,Begu,Chittorgarh,Rajasthan,2016,4,high,1
+901,Chittorgarh,Chittorgarh,Rajasthan,2016,4,high,1
+902,Kapasan,Chittorgarh,Rajasthan,2016,4,high,1
+903,Nimbahera,Chittorgarh,Rajasthan,2016,4,high,1
+904,Churu,Churu,Rajasthan,2016,4,high,1
+905,Ratangarh,Churu,Rajasthan,2016,4,high,1
+906,Sadulpur,Churu,Rajasthan,2016,4,high,1
+907,Sardar Shahar,Churu,Rajasthan,2016,4,high,1
+908,Sujangarh,Churu,Rajasthan,2016,4,high,1
+909,Bandikui,Dausa,Rajasthan,2016,4,high,1
+910,Dausa,Dausa,Rajasthan,2016,4,high,1
+911,Lalsot,Dausa,Rajasthan,2016,4,high,1
+912,Mahua,Dausa,Rajasthan,2016,4,high,1
+913,Mahua Mandawar,Dausa,Rajasthan,2016,4,high,1
+914,Mandawari,Dausa,Rajasthan,2016,4,high,1
+915,Dholpur,Dholpur,Rajasthan,2016,4,high,1
+916,Dungarpur,Dungarpur,Rajasthan,2016,4,high,1
+917,Bhadra,Hanumangarh,Rajasthan,2016,4,high,1
+918,Goluwala,Hanumangarh,Rajasthan,2016,4,high,1
+919,Hanumangarh,Hanumangarh,Rajasthan,2016,4,high,1
+920,Hanumangarh Town,Hanumangarh,Rajasthan,2016,4,high,1
+921,Nohar,Hanumangarh,Rajasthan,2016,4,high,1
+922,Pilibanga,Hanumangarh,Rajasthan,2016,4,high,1
+923,Rawatsar,Hanumangarh,Rajasthan,2016,4,high,1
+924,Sangariya,Hanumangarh,Rajasthan,2016,4,high,1
+925,Bassi,Jaipur,Rajasthan,2016,4,high,1
+926,Chaksu,Jaipur,Rajasthan,2016,4,high,1
+927,Chomu (F&V),Jaipur,Rajasthan,2016,4,high,1
+928,Chomu Grain,Jaipur,Rajasthan,2016,4,high,1
+929,Jaipur (F&V) Muhana,Jaipur,Rajasthan,2016,4,high,1
+930,Jaipur (Grain),Jaipur,Rajasthan,2016,4,high,1
+931,Kishangarh Renwal,Jaipur,Rajasthan,2016,4,high,1
+932,Kotputli,Jaipur,Rajasthan,2016,4,high,1
+933,Rajdhani Mandi Kukerkheda,Jaipur,Rajasthan,2016,4,high,1
+934,Jaisalmer,Jaisalmer,Rajasthan,2016,4,high,1
+935,Bhinmal,Jalore,Rajasthan,2016,4,high,1
+936,Jalore,Jalore,Rajasthan,2016,4,high,1
+937,Raniwara,Jalore,Rajasthan,2016,4,high,1
+938,Sanchore,Jalore,Rajasthan,2016,4,high,1
+939,Bhawani Mandi,Jhalawar,Rajasthan,2016,4,high,1
+940,Chomehla,Jhalawar,Rajasthan,2016,4,high,1
+941,Iklera,Jhalawar,Rajasthan,2016,4,high,1
+942,Jhalrapatan,Jhalawar,Rajasthan,2016,4,high,1
+943,Khanpur,Jhalawar,Rajasthan,2016,4,high,1
+944,Chirawa,Jhunjhunu,Rajasthan,2016,4,high,1
+945,Gudhagorji,Jhunjhunu,Rajasthan,2016,4,high,1
+946,Jhunjhunu,Jhunjhunu,Rajasthan,2016,4,high,1
+947,Nawalgarh,Jhunjhunu,Rajasthan,2016,4,high,1
+948,Surajgarh,Jhunjhunu,Rajasthan,2016,4,high,1
+949,Bhagat Ki Kothi,Jodhpur,Rajasthan,2016,4,high,1
+950,Bilara,Jodhpur,Rajasthan,2016,4,high,1
+951,Jodhpur (F&V),Jodhpur,Rajasthan,2016,4,high,1
+952,Jodhpur (Grain),Jodhpur,Rajasthan,2016,4,high,1
+953,Phalodi,Jodhpur,Rajasthan,2016,4,high,1
+954,Piparcity,Jodhpur,Rajasthan,2016,4,high,1
+955,Hindoun,Karauli,Rajasthan,2016,4,high,1
+956,Itawa,Kota,Rajasthan,2016,4,high,1
+957,Kota (F&V),Kota,Rajasthan,2016,4,high,1
+958,Kota(Grain),Kota,Rajasthan,2016,4,high,1
+959,Ramganj Mandi,Kota,Rajasthan,2016,4,high,1
+960,Deedwana,Nagaur,Rajasthan,2016,4,high,1
+961,Degana,Nagaur,Rajasthan,2016,4,high,1
+962,Kuchaman City,Nagaur,Rajasthan,2016,4,high,1
+963,Merta City,Nagaur,Rajasthan,2016,4,high,1
+964,Nagaur,Nagaur,Rajasthan,2016,4,high,1
+965,Jaitaran,Pali,Rajasthan,2016,4,high,1
+966,Pali,Pali,Rajasthan,2016,4,high,1
+967,Rani,Pali,Rajasthan,2016,4,high,1
+968,Sojat Road,Pali,Rajasthan,2016,4,high,1
+969,Sumerpur,Pali,Rajasthan,2016,4,high,1
+970,Chottisadri,Pratapgarh,Rajasthan,2016,4,high,1
+971,Pratapgarh,Pratapgarh,Rajasthan,2016,4,high,1
+972,Rajsamand,Rajsamand,Rajasthan,2016,4,high,1
+973,Gangapur City,Sawai Madhopur,Rajasthan,2016,4,high,1
+974,Sawai Madhopur,Sawai Madhopur,Rajasthan,2016,4,high,1
+975,Fatehpur-Rj,Sikar,Rajasthan,2016,4,high,1
+976,Neem Ka Thana,Sikar,Rajasthan,2016,4,high,1
+977,Palsana,Sikar,Rajasthan,2016,4,high,1
+978,Sikar,Sikar,Rajasthan,2016,4,high,1
+979,Srimadhopur,Sikar,Rajasthan,2016,4,high,1
+980,Aabu Road,Sirohi,Rajasthan,2016,4,high,1
+981,Anoopgarh,Sri Ganganagar,Rajasthan,2016,4,high,1
+982,Gajsinghpur,Sri Ganganagar,Rajasthan,2016,4,high,1
+983,Gharsana,Sri Ganganagar,Rajasthan,2016,4,high,1
+984,Jaitsar,Sri Ganganagar,Rajasthan,2016,4,high,1
+985,Kesrisinghpur,Sri Ganganagar,Rajasthan,2016,4,high,1
+986,Padampur,Sri Ganganagar,Rajasthan,2016,4,high,1
+987,Raisinghnagar,Sri Ganganagar,Rajasthan,2016,4,high,1
+988,Rawla,Sri Ganganagar,Rajasthan,2016,4,high,1
+989,Ridmalsar,Sri Ganganagar,Rajasthan,2016,4,high,1
+990,Sadulshahar,Sri Ganganagar,Rajasthan,2016,4,high,1
+991,Sri Ganganagar (F&V),Sri Ganganagar,Rajasthan,2016,4,high,1
+992,Sri Ganganagar (Grain),Sri Ganganagar,Rajasthan,2016,4,high,1
+993,Sri Karanpur,Sri Ganganagar,Rajasthan,2016,4,high,1
+994,Sri Vijaynagar,Sri Ganganagar,Rajasthan,2016,4,high,1
+995,Suratgarh,Sri Ganganagar,Rajasthan,2016,4,high,1
+996,Deoli,Tonk,Rajasthan,2016,4,high,1
+997,Dooni,Tonk,Rajasthan,2016,4,high,1
+998,Malpura,Tonk,Rajasthan,2016,4,high,1
+999,Niwai,Tonk,Rajasthan,2016,4,high,1
+1000,Tonk,Tonk,Rajasthan,2016,4,high,1
+1001,Uniyara,Tonk,Rajasthan,2016,4,high,1
+1002,Fatehnagar,Udaipur,Rajasthan,2016,4,high,1
+1003,Udaipur (F&V),Udaipur,Rajasthan,2016,4,high,1
+1004,Udaipur (Grain),Udaipur,Rajasthan,2016,4,high,1
+1005,Anaimalai,Coimbatore,Tamil Nadu,2017,10,high,1
+1006,Annur,Coimbatore,Tamil Nadu,2017,10,high,1
+1007,Coimbatore,Coimbatore,Tamil Nadu,2017,10,high,1
+1008,Kinathukadavu,Coimbatore,Tamil Nadu,2017,10,high,1
+1009,Negamam,Coimbatore,Tamil Nadu,2017,10,high,1
+1010,Pollachi,Coimbatore,Tamil Nadu,2017,10,high,1
+1011,Senjeri,Coimbatore,Tamil Nadu,2017,10,high,1
+1012,Sulur,Coimbatore,Tamil Nadu,2017,10,high,1
+1013,Thondamuthur,Coimbatore,Tamil Nadu,2017,10,high,1
+1014,Cuddalore O.T.,Cuddalore,Tamil Nadu,2017,10,high,1
+1015,Kattumannarkoil,Cuddalore,Tamil Nadu,2017,10,high,1
+1016,Kurunjipady,Cuddalore,Tamil Nadu,2017,10,high,1
+1017,Panruti,Cuddalore,Tamil Nadu,2017,10,high,1
+1018,Sethiathope,Cuddalore,Tamil Nadu,2017,10,high,1
+1019,Srimushnam,Cuddalore,Tamil Nadu,2017,10,high,1
+1020,Virudhachalam,Cuddalore,Tamil Nadu,2017,10,high,1
+1021,Dharmapuri,Dharmapuri,Tamil Nadu,2017,10,high,1
+1022,Harur,Dharmapuri,Tamil Nadu,2017,10,high,1
+1023,Hosur,Dharmapuri,Tamil Nadu,2017,10,high,1
+1024,Krishnagiri,Dharmapuri,Tamil Nadu,2017,10,high,1
+1025,Palacode,Dharmapuri,Tamil Nadu,2017,10,high,1
+1026,Pochampalli,Dharmapuri,Tamil Nadu,2017,10,high,1
+1027,Batlagundu,Dindigul,Tamil Nadu,2017,10,high,1
+1028,Dindigul,Dindigul,Tamil Nadu,2017,10,high,1
+1029,Gopal patti,Dindigul,Tamil Nadu,2017,10,high,1
+1030,Natham,Dindigul,Tamil Nadu,2017,10,high,1
+1031,Oddanchatram,Dindigul,Tamil Nadu,2017,10,high,1
+1032,Palani,Dindigul,Tamil Nadu,2017,10,high,1
+1033,Vadamadurai,Dindigul,Tamil Nadu,2017,10,high,1
+1034,Anthiyur,Erode,Tamil Nadu,2017,10,high,1
+1035,Avalpoondurai,Erode,Tamil Nadu,2017,10,high,1
+1036,Bhavani,Erode,Tamil Nadu,2017,10,high,1
+1037,Boothapadi,Erode,Tamil Nadu,2017,10,high,1
+1038,Elumathur,Erode,Tamil Nadu,2017,10,high,1
+1039,Erode,Erode,Tamil Nadu,2017,10,high,1
+1040,Gobichetipalayam,Erode,Tamil Nadu,2017,10,high,1
+1041,Kodumudi,Erode,Tamil Nadu,2017,10,high,1
+1042,Perundurai,Erode,Tamil Nadu,2017,10,high,1
+1043,Punjai Puliampaddi,Erode,Tamil Nadu,2017,10,high,1
+1044,Sathyamangalam,Erode,Tamil Nadu,2017,10,high,1
+1045,Sivagiri,Erode,Tamil Nadu,2017,10,high,1
+1046,Thalavadi,Erode,Tamil Nadu,2017,10,high,1
+1047,Vellankoil,Erode,Tamil Nadu,2017,10,high,1
+1048,Chinnasalem,Kallakurichi,Tamil Nadu,2017,10,high,1
+1049,Manalurpet,Kallakurichi,Tamil Nadu,2017,10,high,1
+1050,Kancheepuram,Kancheepuram,Tamil Nadu,2017,10,high,1
+1051,Maduranathangam,Kancheepuram,Tamil Nadu,2017,10,high,1
+1052,Redhills,Kancheepuram,Tamil Nadu,2017,10,high,1
+1053,Thiruvallur,Kancheepuram,Tamil Nadu,2017,10,high,1
+1054,Tiruttani,Kancheepuram,Tamil Nadu,2017,10,high,1
+1055,Uthiramerur,Kancheepuram,Tamil Nadu,2017,10,high,1
+1056,Kulasekharam,Kanyakumari,Tamil Nadu,2017,10,high,1
+1057,Madurai,Madurai,Tamil Nadu,2017,10,high,1
+1058,Melur,Madurai,Tamil Nadu,2017,10,high,1
+1059,T.Vadipatti,Madurai,Tamil Nadu,2017,10,high,1
+1060,Thirumangalam,Madurai,Tamil Nadu,2017,10,high,1
+1061,Usilampatti,Madurai,Tamil Nadu,2017,10,high,1
+1062,Kuthalam,Nagapattinam,Tamil Nadu,2017,10,high,1
+1063,Mayiladuthurai,Nagapattinam,Tamil Nadu,2017,10,high,1
+1064,Sembanarkoil,Nagapattinam,Tamil Nadu,2017,10,high,1
+1065,Sirkali,Nagapattinam,Tamil Nadu,2017,10,high,1
+1066,Thirupoondi,Nagapattinam,Tamil Nadu,2017,10,high,1
+1067,Namagiripettai,Namakkal,Tamil Nadu,2017,10,high,1
+1068,Paramathi Velur,Namakkal,Tamil Nadu,2017,10,high,1
+1069,Jayankondam,Perambalur,Tamil Nadu,2017,10,high,1
+1070,Perambalur,Perambalur,Tamil Nadu,2017,10,high,1
+1071,Alangudi,Pudukkottai,Tamil Nadu,2017,10,high,1
+1072,Aranthangi,Pudukkottai,Tamil Nadu,2017,10,high,1
+1073,Iluppur,Pudukkottai,Tamil Nadu,2017,10,high,1
+1074,Kamuthi,Ramanathapuram,Tamil Nadu,2017,10,high,1
+1075,Mudhukalathur,Ramanathapuram,Tamil Nadu,2017,10,high,1
+1076,Paramakudi,Ramanathapuram,Tamil Nadu,2017,10,high,1
+1077,Rajasingamangalam,Ramanathapuram,Tamil Nadu,2017,10,high,1
+1078,Ramanathapuram,Ramanathapuram,Tamil Nadu,2017,10,high,1
+1079,Thiruvadanai,Ramanathapuram,Tamil Nadu,2017,10,high,1
+1080,Arcot,Ranipet,Tamil Nadu,2017,10,high,1
+1081,Atthur,Salem,Tamil Nadu,2017,10,high,1
+1082,Edappadi,Salem,Tamil Nadu,2017,10,high,1
+1083,Gangavalli,Salem,Tamil Nadu,2017,10,high,1
+1084,Karumandurai,Salem,Tamil Nadu,2017,10,high,1
+1085,Konganapuram,Salem,Tamil Nadu,2017,10,high,1
+1086,Mecheri,Salem,Tamil Nadu,2017,10,high,1
+1087,Omalur,Salem,Tamil Nadu,2017,10,high,1
+1088,Salem,Salem,Tamil Nadu,2017,10,high,1
+1089,Thammampatti,Salem,Tamil Nadu,2017,10,high,1
+1090,Vazhappadi,Salem,Tamil Nadu,2017,10,high,1
+1091,Devakottai,Sivagangai,Tamil Nadu,2017,10,high,1
+1092,Karaikudi,Sivagangai,Tamil Nadu,2017,10,high,1
+1093,Manamadurai,Sivagangai,Tamil Nadu,2017,10,high,1
+1094,Singampuneri,Sivagangai,Tamil Nadu,2017,10,high,1
+1095,Sivagangai,Sivagangai,Tamil Nadu,2017,10,high,1
+1096,Kadayanallur,Tenkasi,Tamil Nadu,2017,10,high,1
+1097,Pavoorchatram,Tenkasi,Tamil Nadu,2017,10,high,1
+1098,Sankarankovil,Tenkasi,Tamil Nadu,2017,10,high,1
+1099,Tenkasi,Tenkasi,Tamil Nadu,2017,10,high,1
+1100,Budalur,Thanjavur,Tamil Nadu,2017,10,high,1
+1101,Kumbakonam,Thanjavur,Tamil Nadu,2017,10,high,1
+1102,Orathanadu,Thanjavur,Tamil Nadu,2017,10,high,1
+1103,Papanasam,Thanjavur,Tamil Nadu,2017,10,high,1
+1104,Pattukkottai,Thanjavur,Tamil Nadu,2017,10,high,1
+1105,Thanjavur,Thanjavur,Tamil Nadu,2017,10,high,1
+1106,Bodinayakanur,Theni,Tamil Nadu,2017,10,high,1
+1107,Chinnamanur,Theni,Tamil Nadu,2017,10,high,1
+1108,Cumbum,Theni,Tamil Nadu,2017,10,high,1
+1109,Theni,Theni,Tamil Nadu,2017,10,high,1
+1110,Mannarkudi,Thiruvarur,Tamil Nadu,2017,10,high,1
+1111,Tiruvarur,Thiruvarur,Tamil Nadu,2017,10,high,1
+1112,Srivaikundam,Thoothukudi,Tamil Nadu,2017,10,high,1
+1113,Lalgudi,Tiruchirapalli,Tamil Nadu,2017,10,high,1
+1114,Manapparai,Tiruchirapalli,Tamil Nadu,2017,10,high,1
+1115,Thuraiyur,Tiruchirapalli,Tamil Nadu,2017,10,high,1
+1116,Thuvarankurichy,Tiruchirapalli,Tamil Nadu,2017,10,high,1
+1117,Tiruchirapalli,Tiruchirapalli,Tamil Nadu,2017,10,high,1
+1118,Ambasamuthiram,Tirunelveli,Tamil Nadu,2017,10,high,1
+1119,Tirunelveli,Tirunelveli,Tamil Nadu,2017,10,high,1
+1120,Vallioor,Tirunelveli,Tamil Nadu,2017,10,high,1
+1121,KANGEYAM,Tiruppur,Tamil Nadu,2017,10,high,1
+1122,Madathukulam,Tiruppur,Tamil Nadu,2017,10,high,1
+1123,Moolanur,Tiruppur,Tamil Nadu,2017,10,high,1
+1124,Pethappampatti,Tiruppur,Tamil Nadu,2017,10,high,1
+1125,Pongalur,Tiruppur,Tamil Nadu,2017,10,high,1
+1126,Sevur,Tiruppur,Tamil Nadu,2017,10,high,1
+1127,Thiruppur,Tiruppur,Tamil Nadu,2017,10,high,1
+1128,Udumalpet,Tiruppur,Tamil Nadu,2017,10,high,1
+1129,Vellakoil,Tiruppur,Tamil Nadu,2017,10,high,1
+1130,Arani,Tiruvannamalai,Tamil Nadu,2017,10,high,1
+1131,Chetpet,Tiruvannamalai,Tamil Nadu,2017,10,high,1
+1132,Cheyyar,Tiruvannamalai,Tamil Nadu,2017,10,high,1
+1133,Desur,Tiruvannamalai,Tamil Nadu,2017,10,high,1
+1134,Kilpennathur,Tiruvannamalai,Tamil Nadu,2017,10,high,1
+1135,Polur,Tiruvannamalai,Tamil Nadu,2017,10,high,1
+1136,Vandavasi,Tiruvannamalai,Tamil Nadu,2017,10,high,1
+1137,Vettavalam,Tiruvannamalai,Tamil Nadu,2017,10,high,1
+1138,Kudavasal,Tiruvarur,Tamil Nadu,2017,10,high,1
+1139,Valangaiman,Tiruvarur,Tamil Nadu,2017,10,high,1
+1140,Ammoor,Vellore,Tamil Nadu,2017,10,high,1
+1141,Gudiyatham,Vellore,Tamil Nadu,2017,10,high,1
+1142,Kalavai,Vellore,Tamil Nadu,2017,10,high,1
+1143,Thirupathur,Vellore,Tamil Nadu,2017,10,high,1
+1144,Vaniyambadi,Vellore,Tamil Nadu,2017,10,high,1
+1145,Vellore,Vellore,Tamil Nadu,2017,10,high,1
+1146,Avalurpet,Villupuram,Tamil Nadu,2017,10,high,1
+1147,Gingee,Villupuram,Tamil Nadu,2017,10,high,1
+1148,Kallakurichi,Villupuram,Tamil Nadu,2017,10,high,1
+1149,Marakkanam,Villupuram,Tamil Nadu,2017,10,high,1
+1150,Sankarapuram,Villupuram,Tamil Nadu,2017,10,high,1
+1151,Thirukovilur,Villupuram,Tamil Nadu,2017,10,high,1
+1152,Thiyagadurgam,Villupuram,Tamil Nadu,2017,10,high,1
+1153,Tindivanam,Villupuram,Tamil Nadu,2017,10,high,1
+1154,Ulundurpettai,Villupuram,Tamil Nadu,2017,10,high,1
+1155,Valathi,Villupuram,Tamil Nadu,2017,10,high,1
+1156,Vikiravandi,Villupuram,Tamil Nadu,2017,10,high,1
+1157,Villupuram,Villupuram,Tamil Nadu,2017,10,high,1
+1158,Aruppukottai,Virudhunagar,Tamil Nadu,2017,10,high,1
+1159,Rajapalayam,Virudhunagar,Tamil Nadu,2017,10,high,1
+1160,Sattur,Virudhunagar,Tamil Nadu,2017,10,high,1
+1161,Virudhunagar,Virudhunagar,Tamil Nadu,2017,10,high,1
+1162,Adilabad,Adilabad,Telangana,2016,4,high,1
+1163,Echoda,Adilabad,Telangana,2016,4,high,1
+1164,Gudimalkapur,Hyderabad,Telangana,2016,4,high,1
+1165,Malakpet,Hyderabad,Telangana,2016,4,high,1
+1166,Gollapally,Jagtial,Telangana,2016,4,high,1
+1167,Jagtial,Jagtial,Telangana,2016,4,high,1
+1168,Metpally,Jagtial,Telangana,2016,4,high,1
+1169,Jangaon,Jangaon,Telangana,2016,4,high,1
+1170,Gadwal,Jogulamba Gadwal,Telangana,2016,4,high,1
+1171,Kamareddy,Kamareddy,Telangana,2016,4,high,1
+1172,Madnoor,Kamareddy,Telangana,2016,4,high,1
+1173,Choppadandi,Karimnagar,Telangana,2016,4,high,1
+1174,Gangadhara,Karimnagar,Telangana,2016,4,high,1
+1175,Jammikunta,Karimnagar,Telangana,2016,4,high,1
+1176,Karimnagar,Karimnagar,Telangana,2016,4,high,1
+1177,Enkoor,Khammam,Telangana,2016,4,high,1
+1178,Khammam,Khammam,Telangana,2016,4,high,1
+1179,Kesamudram,Mahabubabad,Telangana,2016,4,high,1
+1180,Mahabubabad,Mahabubabad,Telangana,2016,4,high,1
+1181,Badepally,Mahbubnagar,Telangana,2016,4,high,1
+1182,Devarakadra,Mahbubnagar,Telangana,2016,4,high,1
+1183,Mahbubnagar,Mahbubnagar,Telangana,2016,4,high,1
+1184,Nawabpet,Mahbubnagar,Telangana,2016,4,high,1
+1185,Achampet,Nagarkurnool,Telangana,2016,4,high,1
+1186,Kalwakurthy,Nagarkurnool,Telangana,2016,4,high,1
+1187,Nagarkurnool,Nagarkurnool,Telangana,2016,4,high,1
+1188,Deverakonda,Nalgonda,Telangana,2016,4,high,1
+1189,Miryalaguda,Nalgonda,Telangana,2016,4,high,1
+1190,Nakrekal,Nalgonda,Telangana,2016,4,high,1
+1191,Nalgonda,Nalgonda,Telangana,2016,4,high,1
+1192,Makthal,Narayanpet,Telangana,2016,4,high,1
+1193,Narayanpet,Narayanpet,Telangana,2016,4,high,1
+1194,Bhainsa,Nirmal,Telangana,2016,4,high,1
+1195,Nizamabad,Nizamabad,Telangana,2016,4,high,1
+1196,Peddapalli,Peddapalli,Telangana,2016,4,high,1
+1197,Gaddiannaram,Rangareddy (Rajendranagar),Telangana,2016,4,high,1
+1198,Shadnagar,Rangareddy (Rajendranagar),Telangana,2016,4,high,1
+1199,Shankarapally,Rangareddy (Rajendranagar),Telangana,2016,4,high,1
+1200,Jogipet,Sanga Reddy,Telangana,2016,4,high,1
+1201,Sadasivpet,Sanga Reddy,Telangana,2016,4,high,1
+1202,Vatpally,Sanga Reddy,Telangana,2016,4,high,1
+1203,Zaheerabad,Sanga Reddy,Telangana,2016,4,high,1
+1204,Bowenpally,Secundrabad,Telangana,2016,4,high,1
+1205,Gajwel,Siddipet,Telangana,2016,4,high,1
+1206,Husnabad,Siddipet,Telangana,2016,4,high,1
+1207,Siddipet,Siddipet,Telangana,2016,4,high,1
+1208,Suryapet,Suryapet,Telangana,2016,4,high,1
+1209,Tirumalgiri,Suryapet,Telangana,2016,4,high,1
+1210,Pargi,Vikarabad,Telangana,2016,4,high,1
+1211,Tandur,Vikarabad,Telangana,2016,4,high,1
+1212,Vikarabad,Vikarabad,Telangana,2016,4,high,1
+1213,Wanaparthy Road,Wanaparthy,Telangana,2016,4,high,1
+1214,Wanaparthy Town,Wanaparthy,Telangana,2016,4,high,1
+1215,Athmakur,Warangal Rural,Telangana,2016,4,high,1
+1216,Narsampet,Warangal Rural,Telangana,2016,4,high,1
+1217,Parkal,Warangal Rural,Telangana,2016,4,high,1
+1218,Warangal,Warangal Urban,Telangana,2016,4,high,1
+1219,Kulai,Dhalai,Tripura,2022,,low,3
+1220,Panisagar,Gomati,Tripura,2022,,low,3
+1221,Teliamura,Khowani,Tripura,2022,,low,3
+1222,Sonamura,Sepahijala,Tripura,2022,,low,3
+1223,Santirbazar,South Tripura,Tripura,2022,,low,3
+1224,Pabiacherra,Unakoti,Tripura,2022,,low,3
+1225,Mohanpur,West Tripura,Tripura,2022,,low,3
+1226,Achhnara,Agra,Uttar Pradesh,2016,4,high,1
+1227,Agra,Agra,Uttar Pradesh,2016,4,high,1
+1228,Fatehpur Sikri,Agra,Uttar Pradesh,2016,4,high,1
+1229,Aligarh,Aligarh,Uttar Pradesh,2016,4,high,1
+1230,Chharra,Aligarh,Uttar Pradesh,2016,4,high,1
+1231,Khair,Aligarh,Uttar Pradesh,2016,4,high,1
+1232,Akbarpur,Ambedkar Nagar,Uttar Pradesh,2016,4,high,1
+1233,Jais,Amethi,Uttar Pradesh,2016,4,high,1
+1234,Amroha,Amroha,Uttar Pradesh,2016,4,high,1
+1235,Hasanpur,Amroha,Uttar Pradesh,2016,4,high,1
+1236,Achhalda,Auraiya,Uttar Pradesh,2016,4,high,1
+1237,Auraiya,Auraiya,Uttar Pradesh,2016,4,high,1
+1238,Ayodhya,Ayodhya,Uttar Pradesh,2016,4,high,1
+1239,Azamgarh,Azamgarh,Uttar Pradesh,2016,4,high,1
+1240,Badaun,Badaun,Uttar Pradesh,2016,4,high,1
+1241,Bilsi,Badaun,Uttar Pradesh,2016,4,high,1
+1242,Ujhani,Badaun,Uttar Pradesh,2016,4,high,1
+1243,Wazirganj,Badaun,Uttar Pradesh,2016,4,high,1
+1244,Bahraich,Bahraich,Uttar Pradesh,2016,4,high,1
+1245,Nanpara,Bahraich,Uttar Pradesh,2016,4,high,1
+1246,Ballia,Ballia,Uttar Pradesh,2016,4,high,1
+1247,Rasra,Ballia,Uttar Pradesh,2016,4,high,1
+1248,Balrampur,Balrampur,Uttar Pradesh,2016,4,high,1
+1249,Tulsipur,Balrampur,Uttar Pradesh,2016,4,high,1
+1250,Atarra,Banda,Uttar Pradesh,2016,4,high,1
+1251,Banda,Banda,Uttar Pradesh,2016,4,high,1
+1252,Barabanki,Barabanki,Uttar Pradesh,2016,4,high,1
+1253,Safdarganj,Barabanki,Uttar Pradesh,2016,4,high,1
+1254,Bareilly,Bareilly,Uttar Pradesh,2016,4,high,1
+1255,Basti,Basti,Uttar Pradesh,2016,4,high,1
+1256,Najibabad,Bijnor,Uttar Pradesh,2016,4,high,1
+1257,Bulandshahr,Bulandshahr,Uttar Pradesh,2016,4,high,1
+1258,Jahangirabad,Bulandshahr,Uttar Pradesh,2016,4,high,1
+1259,Khurja,Bulandshahr,Uttar Pradesh,2016,4,high,1
+1260,Chandauli,Chandauli,Uttar Pradesh,2016,4,high,1
+1261,Karwi,Chitrakoot,Uttar Pradesh,2016,4,high,1
+1262,Deoria,Deoria,Uttar Pradesh,2016,4,high,1
+1263,Bharthana,Etawah,Uttar Pradesh,2016,4,high,1
+1264,Etawah,Etawah,Uttar Pradesh,2016,4,high,1
+1265,Farrukhabad,Farrukhabad,Uttar Pradesh,2016,4,high,1
+1266,Kaimganj,Farrukhabad,Uttar Pradesh,2016,4,high,1
+1267,Mohmadabad,Farrukhabad,Uttar Pradesh,2016,4,high,1
+1268,Bindki,Fatehpur,Uttar Pradesh,2016,4,high,1
+1269,Fatehpur-UP,Fatehpur,Uttar Pradesh,2016,4,high,1
+1270,Firozabad,Firozabad,Uttar Pradesh,2016,4,high,1
+1271,Shikohabad,Firozabad,Uttar Pradesh,2016,4,high,1
+1272,Sirsaganj,Firozabad,Uttar Pradesh,2016,4,high,1
+1273,Tundla,Firozabad,Uttar Pradesh,2016,4,high,1
+1274,Dadri,Gautam Buddh Nagar,Uttar Pradesh,2016,4,high,1
+1275,Noida,Gautam Buddh Nagar,Uttar Pradesh,2016,4,high,1
+1276,Ghaziabad,Ghaziabad,Uttar Pradesh,2016,4,high,1
+1277,Jangipura,Ghazipur,Uttar Pradesh,2016,4,high,1
+1278,Gonda,Gonda,Uttar Pradesh,2016,4,high,1
+1279,Nawabganj,Gonda,Uttar Pradesh,2016,4,high,1
+1280,Gorakhpur,Gorakhpur,Uttar Pradesh,2016,4,high,1
+1281,Sahjanwa,Gorakhpur,Uttar Pradesh,2016,4,high,1
+1282,Bharuasumerpur,Hamirpur,Uttar Pradesh,2016,4,high,1
+1283,Muskera,Hamirpur,Uttar Pradesh,2016,4,high,1
+1284,Rath,Hamirpur,Uttar Pradesh,2016,4,high,1
+1285,Hapur,Hapur,Uttar Pradesh,2016,4,high,1
+1286,Hardoi,Hardoi,Uttar Pradesh,2016,4,high,1
+1287,Madhoganj,Hardoi,Uttar Pradesh,2016,4,high,1
+1288,Sandila,Hardoi,Uttar Pradesh,2016,4,high,1
+1289,Shahabad (Hardoi),Hardoi,Uttar Pradesh,2016,4,high,1
+1290,Hathras,Hathras,Uttar Pradesh,2016,4,high,1
+1291,Sadabad,Hathras,Uttar Pradesh,2016,4,high,1
+1292,Jalaun,Jalaun,Uttar Pradesh,2016,4,high,1
+1293,Konch,Jalaun,Uttar Pradesh,2016,4,high,1
+1294,Urai,Jalaun,Uttar Pradesh,2016,4,high,1
+1295,Jaunpur,Jaunpur,Uttar Pradesh,2016,4,high,1
+1296,Shaganj,Jaunpur,Uttar Pradesh,2016,4,high,1
+1297,Jhansi,Jhansi,Uttar Pradesh,2016,4,high,1
+1298,Mauranipur,Jhansi,Uttar Pradesh,2016,4,high,1
+1299,Chibramau,Kannauj,Uttar Pradesh,2016,4,high,1
+1300,Kannauj,Kannauj,Uttar Pradesh,2016,4,high,1
+1301,Chaubepur,Kanpur Nagar,Uttar Pradesh,2016,4,high,1
+1302,Kanpur,Kanpur Nagar,Uttar Pradesh,2016,4,high,1
+1303,Kasganj,Kasganj,Uttar Pradesh,2016,4,high,1
+1304,Ajuha,Kaushambi,Uttar Pradesh,2016,4,high,1
+1305,Golagokarnnath,Lakhimpur Kheri,Uttar Pradesh,2016,4,high,1
+1306,Lakhimpur Kheri,Lakhimpur Kheri,Uttar Pradesh,2016,4,high,1
+1307,Palia Kalan,Lakhimpur Kheri,Uttar Pradesh,2016,4,high,1
+1308,Tikuniya,Lakhimpur Kheri,Uttar Pradesh,2016,4,high,1
+1309,Lalitpur,Lalitpur,Uttar Pradesh,2016,4,high,1
+1310,Lucknow,Lucknow,Uttar Pradesh,2016,4,high,1
+1311,Anand Nagar,Maharajganj,Uttar Pradesh,2016,4,high,1
+1312,Nautanwa,Maharajganj,Uttar Pradesh,2016,4,high,1
+1313,Partawal,Maharajganj,Uttar Pradesh,2016,4,high,1
+1314,Mahoba,Mahoba,Uttar Pradesh,2016,4,high,1
+1315,Etah,Mainpuri,Uttar Pradesh,2016,4,high,1
+1316,Ghiror,Mainpuri,Uttar Pradesh,2016,4,high,1
+1317,Mainpuri,Mainpuri,Uttar Pradesh,2016,4,high,1
+1318,Koshikalan,Mathura,Uttar Pradesh,2016,4,high,1
+1319,Mathura,Mathura,Uttar Pradesh,2016,4,high,1
+1320,Kopaganj,Mau,Uttar Pradesh,2016,4,high,1
+1321,Meerut,Meerut,Uttar Pradesh,2016,4,high,1
+1322,Mirzapur,Mirzapur,Uttar Pradesh,2016,4,high,1
+1323,Chandausi,Moradabad,Uttar Pradesh,2016,4,high,1
+1324,Moradabad,Moradabad,Uttar Pradesh,2016,4,high,1
+1325,Muzaffarnagar,Muzaffarnagar,Uttar Pradesh,2016,4,high,1
+1326,Bisalpur,Pilibhit,Uttar Pradesh,2016,4,high,1
+1327,Pilibhit,Pilibhit,Uttar Pradesh,2016,4,high,1
+1328,Puranpur,Pilibhit,Uttar Pradesh,2016,4,high,1
+1329,Pratapgarh,Pratapgarh,Uttar Pradesh,2016,4,high,1
+1330,Prayagraj,Prayagraj,Uttar Pradesh,2016,4,high,1
+1331,Rae Bareli,Rae Bareli,Uttar Pradesh,2016,4,high,1
+1332,Bilaspur,Rampur,Uttar Pradesh,2016,4,high,1
+1333,Milak,Rampur,Uttar Pradesh,2016,4,high,1
+1334,Rampur,Rampur,Uttar Pradesh,2016,4,high,1
+1335,Saharanpur,Saharanpur,Uttar Pradesh,2016,4,high,1
+1336,Sambhal,Sambhal,Uttar Pradesh,2016,4,high,1
+1337,Khalilabad,Sant Kabir Nagar,Uttar Pradesh,2016,4,high,1
+1338,Jalalabad,Shahjahanpur,Uttar Pradesh,2016,4,high,1
+1339,Powayan,Shahjahanpur,Uttar Pradesh,2016,4,high,1
+1340,Shahjahanpur,Shahjahanpur,Uttar Pradesh,2016,4,high,1
+1341,Shamli,Shamli,Uttar Pradesh,2016,4,high,1
+1342,Naugarh,Siddharth Nagar,Uttar Pradesh,2016,4,high,1
+1343,Sahiyapur,Siddharth Nagar,Uttar Pradesh,2016,4,high,1
+1344,Mahmudabad,Sitapur,Uttar Pradesh,2016,4,high,1
+1345,Sitapur,Sitapur,Uttar Pradesh,2016,4,high,1
+1346,Robertsganj,Sonbhadra,Uttar Pradesh,2016,4,high,1
+1347,Sultanpur,Sultanpur,Uttar Pradesh,2016,4,high,1
+1348,Bangarmau,Unnao,Uttar Pradesh,2016,4,high,1
+1349,Unnao,Unnao,Uttar Pradesh,2016,4,high,1
+1350,Varanasi,Varanasi,Uttar Pradesh,2016,4,high,1
+1351,Dehradun,Dehradun,Uttarakhand,2017,,medium,1
+1352,Rishikesh,Dehradun,Uttarakhand,2017,,medium,1
+1353,Vikasnagar,Dehradun,Uttarakhand,2017,,medium,1
+1354,Bhagwanpur,Haridwar,Uttarakhand,2017,,medium,1
+1355,Haridwar,Haridwar,Uttarakhand,2017,,medium,1
+1356,Laksar,Haridwar,Uttarakhand,2017,,medium,1
+1357,Manglore,Haridwar,Uttarakhand,2017,,medium,1
+1358,Roorkee,Haridwar,Uttarakhand,2017,,medium,1
+1359,Haldwani,Nainital,Uttarakhand,2017,,medium,1
+1360,Ramnagar,Nainital,Uttarakhand,2017,,medium,1
+1361,Kotdwar,Pauri Garhwal,Uttarakhand,2017,,medium,1
+1362,Bazpur,Udham Singh Nagar,Uttarakhand,2017,,medium,1
+1363,Gadarpur,Udham Singh Nagar,Uttarakhand,2017,,medium,1
+1364,Jaspur,Udham Singh Nagar,Uttarakhand,2017,,medium,1
+1365,Kashipur,Udham Singh Nagar,Uttarakhand,2017,,medium,1
+1366,Khatima,Udham Singh Nagar,Uttarakhand,2017,,medium,1
+1367,Kichha,Udham Singh Nagar,Uttarakhand,2017,,medium,1
+1368,Nanakmatta,Udham Singh Nagar,Uttarakhand,2017,,medium,1
+1369,Rudrapur,Udham Singh Nagar,Uttarakhand,2017,,medium,1
+1370,Sitarganj,Udham Singh Nagar,Uttarakhand,2017,,medium,1
+1371,Falakata Krishak Bazar,Alipurduar,West Bengal,2020,5,high,2
+1372,Simlapal Sub Market Yard,Bankura,West Bengal,2020,5,high,2
+1373,Mohamad Bazar Krishak Bazar,Birbhum,West Bengal,2020,5,high,2
+1374,Gangarampur Krishak Bazar,Dakshin Dinajpur,West Bengal,2020,5,high,2
+1375,Siliguri Regulated Market Comm,Darjeeling,West Bengal,2020,5,high,2
+1376,Sheoraphuli,Hooghly,West Bengal,2020,5,high,2
+1377,Dhupguri Principal Market Yard,Jalpaiguri,West Bengal,2020,5,high,2
+1378,Samsi Sub Market Yard,Malda,West Bengal,2020,5,high,2
+1379,Jiyaganj Krishak Bazar,Murshidabad,West Bengal,2020,5,high,2
+1380,Samsherganj Krishak Bazar,Murshidabad,West Bengal,2020,5,high,2
+1381,Bethuadahari Principal Market Yard,Nadia,West Bengal,2020,5,high,2
+1382,Karimpur Submarket Yard,Nadia,West Bengal,2020,5,high,2
+1383,Nakashipara Krishak Bazar,Nadia,West Bengal,2020,5,high,2
+1384,Bagda Krishak Bazar,North 24 Parganas,West Bengal,2020,5,high,2
+1385,Kalna Sub Market Yard,Purba Bardhaman,West Bengal,2020,5,high,2
+1386,Panskura I Krishak Bazar,Purba Medinipur,West Bengal,2020,5,high,2
+1387,Bishnupur 2  Krishak Bazar,South 24 Parganas,West Bengal,2020,5,high,2
+1388,Islampur Principal Market Yard,Uttar Dinajpur,West Bengal,2020,5,high,2
