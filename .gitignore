@@ -1,5 +1,4 @@
-# Large raw data files (PDFs > GitHub's 100MB limit)
-data/raw/*.pdf
+# Large raw data files (> 100MB hard limit)
 data/raw/*.xlsx
 data/raw/*.xls
 
