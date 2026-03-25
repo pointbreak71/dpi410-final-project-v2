@@ -1,6 +1,9 @@
 # Large raw data files (> 100MB hard limit)
 data/raw/*.xlsx
 data/raw/*.xls
+data/raw/prices/
+data/clean/prices/
+data/clean/match_report.csv
 
 # Python
 __pycache__/
