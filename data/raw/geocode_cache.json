@@ -1,0 +1,1988 @@
+{
+  "South Andaman|Andaman & Nicobar Islands": [
+    10.7056905,
+    92.4874679
+  ],
+  "Anakapalle|Andhra Pradesh": [
+    17.68897,
+    83.003476
+  ],
+  "Ananthapuramu|Andhra Pradesh": [
+    14.0126989,
+    78.4180222
+  ],
+  "Annamayya|Andhra Pradesh": [
+    13.7883575,
+    78.6346286
+  ],
+  "Bapatla|Andhra Pradesh": [
+    15.9344304,
+    80.4505522
+  ],
+  "Chittoor|Andhra Pradesh": [
+    13.325036,
+    79.6480611
+  ],
+  "Dr BR Ambedkar Konaseema |Andhra Pradesh": [
+    16.5856273,
+    82.0185565
+  ],
+  "Eluru|Andhra Pradesh": [
+    16.7104257,
+    81.1153816
+  ],
+  "Guntur|Andhra Pradesh": [
+    16.2915189,
+    80.4541588
+  ],
+  "Kurnool|Andhra Pradesh": [
+    15.8309251,
+    78.0425373
+  ],
+  "NTR|Andhra Pradesh": [
+    16.8169118,
+    80.2502299
+  ],
+  "Palnadu|Andhra Pradesh": [
+    16.3231038,
+    79.6975049
+  ],
+  "SPSR Nellore|Andhra Pradesh": [
+    14.557001,
+    79.7234781
+  ],
+  "Sri Satyasai |Andhra Pradesh": [
+    16.3267577,
+    80.6276823
+  ],
+  "Srikakulam|Andhra Pradesh": [
+    18.2949307,
+    83.8938844
+  ],
+  "Vizianagaram|Andhra Pradesh": [
+    18.1141255,
+    83.4114389
+  ],
+  "West Godavari|Andhra Pradesh": [
+    16.6443029,
+    81.5885247
+  ],
+  "YSR Kadapa|Andhra Pradesh": [
+    14.5395752,
+    78.6582332
+  ],
+  "Darrang|Assam": [
+    26.4373482,
+    92.0047145
+  ],
+  "Dhubri|Assam": [
+    26.132275,
+    90.1249962
+  ],
+  "Nagaon|Assam": [
+    26.3313646,
+    92.7524763
+  ],
+  "Araria|Bihar": [
+    26.1346459,
+    87.4654062
+  ],
+  "Aurangabad|Bihar": [
+    24.8033201,
+    84.4110198
+  ],
+  "Begusarai|Bihar": [
+    25.5125411,
+    86.0883392
+  ],
+  "Bhojpur|Bihar": [
+    25.4501182,
+    84.5635193
+  ],
+  "Buxar|Bihar": [
+    25.5044834,
+    84.1097525
+  ],
+  "Darbhanga|Bihar": [
+    26.08299,
+    86.0324951
+  ],
+  "East Champaran|Bihar": [
+    26.6393261,
+    84.8990136
+  ],
+  "Gaya|Bihar": [
+    24.7964355,
+    85.0079563
+  ],
+  "Kaimur|Bihar": [
+    24.975466,
+    83.5768379
+  ],
+  "Katihar|Bihar": [
+    25.5586421,
+    87.6457196
+  ],
+  "Madhepura|Bihar": [
+    25.7806118,
+    86.9364753
+  ],
+  "Muzaffarpur|Bihar": [
+    26.1482548,
+    85.3316097
+  ],
+  "Nalanda|Bihar": [
+    25.1364914,
+    85.4436546
+  ],
+  "Patna|Bihar": [
+    25.6093239,
+    85.1235252
+  ],
+  "Purnia|Bihar": [
+    25.7758723,
+    87.4087667
+  ],
+  "Rohtas|Bihar": [
+    24.9394143,
+    84.0197031
+  ],
+  "Samastipur|Bihar": [
+    25.7747885,
+    85.8672314
+  ],
+  "Saran|Bihar": [
+    25.9214451,
+    84.7759731
+  ],
+  "Sitamarhi|Bihar": [
+    26.5942841,
+    85.500428
+  ],
+  "Vaishali|Bihar": [
+    25.7491703,
+    85.3972164
+  ],
+  "Chandigarh|Chandigarh": [
+    30.7334421,
+    76.7797143
+  ],
+  "Balod|Chhattisgarh": [
+    20.7277192,
+    81.1446948
+  ],
+  "Baloda Bazaar|Chhattisgarh": [
+    21.3188992,
+    81.7457624
+  ],
+  "Bastar|Chhattisgarh": [
+    19.1191283,
+    81.8291865
+  ],
+  "Bemetara|Chhattisgarh": [
+    21.6783867,
+    81.4412578
+  ],
+  "Bilaspur|Chhattisgarh": [
+    22.1638486,
+    82.1365923
+  ],
+  "Dhamtari|Chhattisgarh": [
+    20.5326259,
+    81.7155987
+  ],
+  "Durg|Chhattisgarh": [
+    21.1982964,
+    81.4007922
+  ],
+  "Gariyaband|Chhattisgarh": [
+    20.5267561,
+    82.1917217
+  ],
+  "Jashpur|Chhattisgarh": [
+    22.770251,
+    83.9708013
+  ],
+  "Kabirdham|Chhattisgarh": [
+    22.1150085,
+    81.2446944
+  ],
+  "Kanker|Chhattisgarh": [
+    20.2692747,
+    81.4932111
+  ],
+  "Korba|Chhattisgarh": [
+    22.5198217,
+    82.6350029
+  ],
+  "Mahasamund|Chhattisgarh": [
+    21.1922846,
+    82.4890263
+  ],
+  "Mungeli|Chhattisgarh": [
+    22.0661098,
+    81.6874282
+  ],
+  "Raigarh|Chhattisgarh": [
+    22.2361795,
+    83.3529534
+  ],
+  "Raipur|Chhattisgarh": [
+    21.2380912,
+    81.6336993
+  ],
+  "Rajnandgaon|Chhattisgarh": [
+    21.0684425,
+    80.7970779
+  ],
+  "Sarguja|Chhattisgarh": null,
+  "North Goa|Goa": [
+    15.6038925,
+    73.9967006
+  ],
+  "South Goa|Goa": [
+    15.2197327,
+    74.1147213
+  ],
+  "Ahmedabad|Gujarat": [
+    23.0215374,
+    72.5800568
+  ],
+  "Amreli|Gujarat": [
+    21.4176122,
+    71.249609
+  ],
+  "Anand|Gujarat": [
+    22.5586555,
+    72.9627227
+  ],
+  "Aravalli|Gujarat": [
+    23.4843217,
+    73.3986096
+  ],
+  "Banaskantha|Gujarat": [
+    24.269387,
+    72.5367513
+  ],
+  "Bharuch|Gujarat": [
+    21.7080427,
+    72.9956936
+  ],
+  "Bhavnagar|Gujarat": [
+    21.7718836,
+    72.1416449
+  ],
+  "Botad|Gujarat": [
+    22.0467098,
+    71.6689617
+  ],
+  "Chhota Udaipur|Gujarat": [
+    22.2224345,
+    73.7778749
+  ],
+  "Dahod|Gujarat": [
+    22.9194099,
+    74.1342725
+  ],
+  "Dang|Gujarat": [
+    20.7881719,
+    73.7092033
+  ],
+  "Devbhoomi Dwarka|Gujarat": [
+    22.2360156,
+    68.9658698
+  ],
+  "Gandhinagar|Gujarat": [
+    23.2232877,
+    72.6492267
+  ],
+  "Gir Somnath|Gujarat": [
+    20.9298181,
+    70.7627578
+  ],
+  "Jamnagar|Gujarat": [
+    22.4732415,
+    70.0552102
+  ],
+  "Junagadh|Gujarat": [
+    21.5220416,
+    70.4582458
+  ],
+  "Kheda|Gujarat": [
+    22.8532503,
+    72.9953586
+  ],
+  "Kutch|Gujarat": [
+    23.583333,
+    70.0
+  ],
+  "Mahisagar|Gujarat": [
+    23.1912195,
+    73.6644398
+  ],
+  "Mehsana|Gujarat": [
+    23.6012628,
+    72.3741516
+  ],
+  "Morbi|Gujarat": [
+    22.8003959,
+    70.886232
+  ],
+  "Narmada|Gujarat": [
+    21.7392625,
+    73.6262458
+  ],
+  "Navsari|Gujarat": [
+    20.952407,
+    72.9323831
+  ],
+  "Panchamahal|Gujarat": null,
+  "Patan|Gujarat": [
+    23.773753,
+    71.6798581
+  ],
+  "Porbandar|Gujarat": [
+    21.6029751,
+    69.8538067
+  ],
+  "Rajkot|Gujarat": [
+    22.3053263,
+    70.8028377
+  ],
+  "Sabarkantha|Gujarat": [
+    23.8688506,
+    73.013784
+  ],
+  "Surat|Gujarat": [
+    21.2094892,
+    72.8317058
+  ],
+  "Surendranagar|Gujarat": [
+    22.8251395,
+    71.6209736
+  ],
+  "Tapi|Gujarat": [
+    21.1916567,
+    73.5560631
+  ],
+  "Vadodara|Gujarat": [
+    22.2973142,
+    73.1942567
+  ],
+  "Valsad|Gujarat": [
+    20.4321957,
+    73.1409893
+  ],
+  "Ambala|Haryana": [
+    30.3843674,
+    76.770421
+  ],
+  "Bhiwani|Haryana": [
+    28.7931703,
+    76.1391283
+  ],
+  "Charkhi Dadri|Haryana": [
+    28.6000997,
+    76.1123707
+  ],
+  "Faridabad|Haryana": [
+    28.4031478,
+    77.3105561
+  ],
+  "Fatehabad|Haryana": [
+    29.5359209,
+    75.5752901
+  ],
+  "Gurugram|Haryana": [
+    28.4646148,
+    77.0299194
+  ],
+  "Hisar|Haryana": [
+    29.2396596,
+    75.8174505
+  ],
+  "Jhajjar|Haryana": [
+    28.5964461,
+    76.6505366
+  ],
+  "Jind|Haryana": [
+    29.3152073,
+    76.314082
+  ],
+  "Kaithal|Haryana": [
+    29.7996588,
+    76.3989903
+  ],
+  "Karnal|Haryana": [
+    29.7255766,
+    76.9106924
+  ],
+  "Kurukshetra|Haryana": [
+    29.9693747,
+    76.8482787
+  ],
+  "Mewat (Nuh)|Haryana": [
+    28.2088016,
+    77.0576632
+  ],
+  "Mohindergarh|Haryana": null,
+  "Palawal|Haryana": null,
+  "Palwal|Haryana": [
+    28.0599426,
+    77.3223422
+  ],
+  "Panchkula|Haryana": [
+    30.6975401,
+    76.8551066
+  ],
+  "Panipat|Haryana": [
+    29.3912753,
+    76.9771675
+  ],
+  "Rewari|Haryana": [
+    28.1956468,
+    76.6165179
+  ],
+  "Rohtak|Haryana": [
+    28.9010899,
+    76.5801935
+  ],
+  "Sirsa|Haryana": [
+    29.6063041,
+    74.9036568
+  ],
+  "Sonipat|Haryana": [
+    28.9953758,
+    77.0233627
+  ],
+  "Yamuna Nagar|Haryana": [
+    30.1389108,
+    77.301064
+  ],
+  "Bilaspur|Himachal Pradesh": [
+    31.3380959,
+    76.7611631
+  ],
+  "Chamba|Himachal Pradesh": [
+    32.6923316,
+    76.1631552
+  ],
+  "Hamirpur|Himachal Pradesh": [
+    31.6539866,
+    76.5403633
+  ],
+  "Kangra|Himachal Pradesh": [
+    32.0768665,
+    76.2985872
+  ],
+  "Kullu|Himachal Pradesh": [
+    31.9578974,
+    77.1089232
+  ],
+  "Mandi|Himachal Pradesh": [
+    31.6516617,
+    77.0092542
+  ],
+  "Shimla|Himachal Pradesh": [
+    31.1040393,
+    77.1707923
+  ],
+  "Sirmaur|Himachal Pradesh": [
+    30.6991321,
+    77.4465304
+  ],
+  "Solan|Himachal Pradesh": [
+    30.9077569,
+    77.1023645
+  ],
+  "Una|Himachal Pradesh": [
+    31.5834642,
+    76.2351452
+  ],
+  "Anantnag|Jammu & Kashmir": [
+    33.74611,
+    75.1854475
+  ],
+  "Baramulla|Jammu & Kashmir": [
+    34.2086903,
+    74.343498
+  ],
+  "Chararisharief|Jammu & Kashmir": null,
+  "Ganderbal|Jammu & Kashmir": [
+    34.2889322,
+    75.0407983
+  ],
+  "Handwara|Jammu & Kashmir": [
+    34.3993139,
+    74.2827396
+  ],
+  "Jammu|Jammu & Kashmir": [
+    32.7185614,
+    74.8580917
+  ],
+  "Kathua|Jammu & Kashmir": [
+    32.3901836,
+    75.5251452
+  ],
+  "Kulgam|Jammu & Kashmir": [
+    33.6446899,
+    75.0188432
+  ],
+  "Kupwara|Jammu & Kashmir": [
+    34.5140696,
+    74.191367
+  ],
+  "Pulwama|Jammu & Kashmir": [
+    33.839844,
+    74.9365143
+  ],
+  "Rajouri|Jammu & Kashmir": [
+    33.3772495,
+    74.3132332
+  ],
+  "Ramban|Jammu & Kashmir": [
+    33.2116371,
+    75.2050989
+  ],
+  "Shopian|Jammu & Kashmir": [
+    33.718807,
+    74.8333311
+  ],
+  "Sopore|Jammu & Kashmir": [
+    34.2929452,
+    74.4550203
+  ],
+  "Srinagar|Jammu & Kashmir": [
+    34.0747444,
+    74.8204443
+  ],
+  "Udhampur|Jammu & Kashmir": [
+    32.9219726,
+    75.1331482
+  ],
+  "Bokaro|Jharkhand": [
+    23.699128,
+    85.9910689
+  ],
+  "Deoghar|Jharkhand": [
+    24.4898318,
+    86.6990182
+  ],
+  "Dhanbad|Jharkhand": [
+    23.7952809,
+    86.4309638
+  ],
+  "Dumka|Jharkhand": [
+    24.2677937,
+    87.2485495
+  ],
+  "East Singhbhum|Jharkhand": [
+    22.613184,
+    86.3819399
+  ],
+  "Garhwa|Jharkhand": [
+    24.053577,
+    83.6526818
+  ],
+  "Giridih|Jharkhand": [
+    24.3314547,
+    86.1548117
+  ],
+  "Gumla|Jharkhand": [
+    23.1603759,
+    84.4599565
+  ],
+  "Hazaribagh|Jharkhand": [
+    24.0866962,
+    85.4912231
+  ],
+  "Koderma|Jharkhand": [
+    24.4931239,
+    85.5560811
+  ],
+  "Lohardaga|Jharkhand": [
+    23.4770044,
+    84.6986684
+  ],
+  "Pakur|Jharkhand": [
+    24.5325909,
+    87.593232
+  ],
+  "Palamu|Jharkhand": [
+    24.2212983,
+    84.1725565
+  ],
+  "Ramgarh|Jharkhand": [
+    23.693479,
+    85.5215989
+  ],
+  "Ranchi|Jharkhand": [
+    23.3700501,
+    85.3250387
+  ],
+  "Sahebganj|Jharkhand": [
+    25.0320437,
+    87.691764
+  ],
+  "Simdega|Jharkhand": [
+    22.5904573,
+    84.5464805
+  ],
+  "West Singhbhum|Jharkhand": [
+    22.4282857,
+    85.5317483
+  ],
+  "Belagavi|Karnataka": [
+    16.1587846,
+    74.888862
+  ],
+  "Davanagere|Karnataka": [
+    14.2558835,
+    75.8303421
+  ],
+  "Kalaburagi|Karnataka": [
+    17.2408957,
+    76.7697439
+  ],
+  "Tumkur|Karnataka": [
+    13.3400771,
+    77.1006208
+  ],
+  "Ernakulam|Kerala": [
+    10.0383947,
+    76.5074145
+  ],
+  "Kozhikode|Kerala": [
+    11.2450558,
+    75.7754716
+  ],
+  "Thiruvananthapuram|Kerala": [
+    8.4882267,
+    76.947551
+  ],
+  "Wayanad|Kerala": [
+    11.7151292,
+    76.1271185
+  ],
+  "Agar Malwa|Madhya Pradesh": [
+    23.935092,
+    76.1449595
+  ],
+  "Alirajpur|Madhya Pradesh": [
+    22.2859525,
+    74.3545628
+  ],
+  "Anuppur|Madhya Pradesh": [
+    23.0346179,
+    81.7510255
+  ],
+  "Ashok Nagar|Madhya Pradesh": [
+    24.5792434,
+    77.7279725
+  ],
+  "Balaghat|Madhya Pradesh": [
+    21.8611589,
+    80.3237105
+  ],
+  "Barwani|Madhya Pradesh": [
+    21.7514248,
+    74.8915957
+  ],
+  "Betul|Madhya Pradesh": [
+    21.8797472,
+    77.8753651
+  ],
+  "Bhind|Madhya Pradesh": [
+    26.3518828,
+    78.6863189
+  ],
+  "Bhopal|Madhya Pradesh": [
+    23.2584857,
+    77.401989
+  ],
+  "Bina|Madhya Pradesh": [
+    24.1712328,
+    78.1851809
+  ],
+  "Burhanpur|Madhya Pradesh": [
+    21.334867,
+    76.3708803
+  ],
+  "Chhatarpur|Madhya Pradesh": [
+    24.760609,
+    79.6781776
+  ],
+  "Chhindwara|Madhya Pradesh": [
+    22.2071897,
+    78.798833
+  ],
+  "Damoh|Madhya Pradesh": [
+    23.7981005,
+    79.5419356
+  ],
+  "Datia|Madhya Pradesh": [
+    25.9182947,
+    78.6644962
+  ],
+  "Dewas|Madhya Pradesh": [
+    22.8057498,
+    76.2940408
+  ],
+  "Dhar|Madhya Pradesh": [
+    22.5786572,
+    75.2258637
+  ],
+  "Guna|Madhya Pradesh": [
+    24.5001772,
+    77.2600959
+  ],
+  "Gwalior|Madhya Pradesh": [
+    26.2037247,
+    78.1573628
+  ],
+  "Harda|Madhya Pradesh": [
+    22.2427973,
+    77.1179173
+  ],
+  "Hoshangabad|Madhya Pradesh": [
+    22.7545538,
+    77.7198249
+  ],
+  "Indore|Madhya Pradesh": [
+    22.7203616,
+    75.8681996
+  ],
+  "Jabalpur|Madhya Pradesh": [
+    23.1701522,
+    79.9324505
+  ],
+  "Jhabua|Madhya Pradesh": [
+    22.8869652,
+    74.7243249
+  ],
+  "Katni|Madhya Pradesh": [
+    23.7176393,
+    80.2610181
+  ],
+  "Khandwa|Madhya Pradesh": [
+    21.9769779,
+    76.5675344
+  ],
+  "Khargone|Madhya Pradesh": [
+    21.9544729,
+    75.7521248
+  ],
+  "Mandla|Madhya Pradesh": [
+    22.6871074,
+    80.5816341
+  ],
+  "Mandsaur|Madhya Pradesh": [
+    24.2628148,
+    75.385692
+  ],
+  "Morena|Madhya Pradesh": [
+    26.3849794,
+    77.8612721
+  ],
+  "Narsinghpur|Madhya Pradesh": [
+    22.934556,
+    79.0867849
+  ],
+  "Neemuch|Madhya Pradesh": [
+    24.6305517,
+    75.1829
+  ],
+  "Niwari|Madhya Pradesh": [
+    25.3123152,
+    78.667564
+  ],
+  "Panna|Madhya Pradesh": [
+    24.4498931,
+    80.1462723
+  ],
+  "Raisen|Madhya Pradesh": [
+    23.2675909,
+    78.1727134
+  ],
+  "Rajgarh|Madhya Pradesh": [
+    23.8716707,
+    76.7744703
+  ],
+  "Ratlam|Madhya Pradesh": [
+    23.5022201,
+    74.9551534
+  ],
+  "Rewa|Madhya Pradesh": [
+    24.7560846,
+    81.3810574
+  ],
+  "Sagar|Madhya Pradesh": [
+    23.8083076,
+    78.758254
+  ],
+  "Satna|Madhya Pradesh": [
+    24.6954445,
+    80.7770348
+  ],
+  "Sehore|Madhya Pradesh": [
+    23.1150041,
+    77.0665356
+  ],
+  "Seoni|Madhya Pradesh": [
+    22.2748109,
+    79.7202522
+  ],
+  "Shahdol|Madhya Pradesh": [
+    23.3002343,
+    81.364771
+  ],
+  "Shajapur|Madhya Pradesh": [
+    23.4171002,
+    76.6074794
+  ],
+  "Sheopur|Madhya Pradesh": [
+    25.7499267,
+    76.9212945
+  ],
+  "Shivpuri|Madhya Pradesh": [
+    25.3741216,
+    77.8278866
+  ],
+  "Sidhi|Madhya Pradesh": [
+    24.2112687,
+    81.7000415
+  ],
+  "Singrauli|Madhya Pradesh": [
+    24.2431343,
+    82.3827672
+  ],
+  "Tikamgarh|Madhya Pradesh": [
+    24.8552105,
+    79.0472546
+  ],
+  "Ujjain|Madhya Pradesh": [
+    23.1885131,
+    75.7716562
+  ],
+  "Umaria|Madhya Pradesh": [
+    23.6431837,
+    80.9419078
+  ],
+  "Vidisha|Madhya Pradesh": [
+    23.8463004,
+    77.8370209
+  ],
+  "Ahmednagar|Maharashtra": [
+    19.1627725,
+    74.8580243
+  ],
+  "Akola|Maharashtra": [
+    20.7618123,
+    77.1921157
+  ],
+  "Amrawati|Maharashtra": [
+    25.3005017,
+    82.9752326
+  ],
+  "Aurangabad|Maharashtra": [
+    19.877263,
+    75.3390241
+  ],
+  "Beed|Maharashtra": [
+    18.9918442,
+    75.909784
+  ],
+  "Bhandara|Maharashtra": [
+    21.1225869,
+    79.794509
+  ],
+  "Buldhana|Maharashtra": [
+    20.562845,
+    76.4086986
+  ],
+  "Chandrapur|Maharashtra": [
+    20.0967555,
+    79.5045475
+  ],
+  "Dhule|Maharashtra": [
+    21.1305215,
+    74.4900614
+  ],
+  "Gadchiroli|Maharashtra": [
+    19.7590704,
+    80.1622807
+  ],
+  "Gondiya|Maharashtra": [
+    21.1456285,
+    80.2683867
+  ],
+  "Hingoli|Maharashtra": [
+    19.5431164,
+    77.1739432
+  ],
+  "Jalgaon|Maharashtra": [
+    20.8428827,
+    75.5261246
+  ],
+  "Jalna|Maharashtra": [
+    19.918833,
+    75.8708599
+  ],
+  "Kolhapur|Maharashtra": [
+    16.7028412,
+    74.2405329
+  ],
+  "Latur|Maharashtra": [
+    18.3553347,
+    76.7548997
+  ],
+  "Mumbai|Maharashtra": [
+    19.054999,
+    72.8692035
+  ],
+  "Nagpur|Maharashtra": [
+    21.1498134,
+    79.0820556
+  ],
+  "Nanded|Maharashtra": [
+    19.0942729,
+    77.4832628
+  ],
+  "Nandurbar|Maharashtra": [
+    21.5141622,
+    74.5405513
+  ],
+  "Nashik|Maharashtra": [
+    20.0112475,
+    73.7902364
+  ],
+  "Osmanabad|Maharashtra": [
+    18.2822454,
+    76.0588166
+  ],
+  "Parbhani|Maharashtra": [
+    19.2901981,
+    76.6026443
+  ],
+  "Pune|Maharashtra": [
+    18.5213738,
+    73.8545071
+  ],
+  "Sangli|Maharashtra": [
+    17.1726928,
+    74.5867654
+  ],
+  "Satara|Maharashtra": [
+    17.6361289,
+    74.2982781
+  ],
+  "Solapur|Maharashtra": [
+    17.8499067,
+    75.2763203
+  ],
+  "Wardha|Maharashtra": [
+    20.8256232,
+    78.6131455
+  ],
+  "Washim|Maharashtra": [
+    20.2874178,
+    77.2369655
+  ],
+  "Yawatmal|Maharashtra": [
+    20.6826593,
+    77.8277935
+  ],
+  "Dimapur|Nagaland": [
+    25.9041379,
+    93.7177609
+  ],
+  "Kiphire|Nagaland": [
+    25.8117088,
+    94.8474036
+  ],
+  "Kohima|Nagaland": [
+    25.6618755,
+    94.1019156
+  ],
+  "Longleng|Nagaland": [
+    26.5839315,
+    94.8045481
+  ],
+  "Mokokchung|Nagaland": [
+    26.4795861,
+    94.5105275
+  ],
+  "Mon|Nagaland": [
+    26.666667,
+    95.0
+  ],
+  "Niuland|Nagaland": [
+    25.8504956,
+    93.9180019
+  ],
+  "Peren|Nagaland": [
+    25.4499691,
+    93.6001738
+  ],
+  "Pfutsero|Nagaland": [
+    25.5629426,
+    94.2795085
+  ],
+  "Phek|Nagaland": [
+    25.6700924,
+    94.3843925
+  ],
+  "Tsemenyu|Nagaland": null,
+  "Tuensang|Nagaland": [
+    26.2342107,
+    94.741553
+  ],
+  "Wokha|Nagaland": [
+    26.242251,
+    94.1921153
+  ],
+  "Zunheboto|Nagaland": [
+    26.0123803,
+    94.5123719
+  ],
+  "Angul|Odisha": [
+    21.102538,
+    84.9536825
+  ],
+  "Balangir|Odisha": [
+    20.6095183,
+    83.1673029
+  ],
+  "Balasore|Odisha": [
+    21.5006421,
+    86.919884
+  ],
+  "Bargarh|Odisha": [
+    21.2319922,
+    83.5652737
+  ],
+  "Bhadrak|Odisha": [
+    20.9854052,
+    86.5934226
+  ],
+  "Boudh|Odisha": [
+    20.6407463,
+    83.9969704
+  ],
+  "Cuttack|Odisha": [
+    20.4686,
+    85.8792
+  ],
+  "Deogarh|Odisha": [
+    21.5370786,
+    84.7301184
+  ],
+  "Dhenkanal|Odisha": [
+    20.8351494,
+    85.6022305
+  ],
+  "Gajapati|Odisha": [
+    19.1966026,
+    84.1930634
+  ],
+  "Ganjam|Odisha": [
+    19.6090068,
+    84.7080633
+  ],
+  "Jagatsinghpur|Odisha": [
+    20.2593872,
+    86.1660878
+  ],
+  "Jajpur|Odisha": [
+    20.8746788,
+    86.1215393
+  ],
+  "Jharsuguda|Odisha": [
+    21.8019368,
+    83.9713964
+  ],
+  "Kalahandi|Odisha": [
+    19.8265757,
+    83.0408702
+  ],
+  "Kandhamal|Odisha": [
+    20.1306939,
+    84.0790476
+  ],
+  "Kendrapara|Odisha": [
+    20.5475164,
+    86.5296168
+  ],
+  "Keonjhar|Odisha": [
+    21.5,
+    85.5
+  ],
+  "Khorda|Odisha": [
+    20.1651311,
+    85.6206598
+  ],
+  "Koraput|Odisha": [
+    18.7232023,
+    82.6100596
+  ],
+  "Malkangiri|Odisha": [
+    18.2744685,
+    81.9520316
+  ],
+  "Mayurbhanj|Odisha": [
+    21.9156338,
+    86.3961824
+  ],
+  "Nabarangapur|Odisha": [
+    19.6096233,
+    82.2987685
+  ],
+  "Nayagarh|Odisha": [
+    20.2393683,
+    85.050728
+  ],
+  "Nuapada|Odisha": [
+    20.5412657,
+    82.5292352
+  ],
+  "Puri|Odisha": [
+    19.8076083,
+    85.8252538
+  ],
+  "Rayagada|Odisha": [
+    19.4426698,
+    83.5873053
+  ],
+  "Sambalpur|Odisha": [
+    21.5570606,
+    84.1528515
+  ],
+  "Sonepur|Odisha": [
+    20.8453864,
+    83.909083
+  ],
+  "Sundargarh|Odisha": [
+    22.0605153,
+    83.9359154
+  ],
+  "Karaikal|Puducherry": [
+    10.91571,
+    79.8375761
+  ],
+  "Pondicherry|Puducherry": [
+    11.9340568,
+    79.8306447
+  ],
+  "Amritsar|Punjab": [
+    31.6356659,
+    74.8787496
+  ],
+  "Barnala|Punjab": [
+    30.3716802,
+    75.5039887
+  ],
+  "Bathinda|Punjab": [
+    30.1794814,
+    75.0471098
+  ],
+  "Faridkot|Punjab": [
+    30.6014507,
+    74.7950176
+  ],
+  "Fatehgarh Sahib|Punjab": [
+    30.6634042,
+    76.3803
+  ],
+  "Fazilka|Punjab": [
+    30.3198406,
+    74.1217943
+  ],
+  "Ferozpur|Punjab": [
+    30.4002579,
+    74.0327747
+  ],
+  "Gurdaspur|Punjab": [
+    31.9037264,
+    75.2275587
+  ],
+  "Hoshiarpur|Punjab": [
+    31.6092942,
+    75.8459754
+  ],
+  "Jalandhar|Punjab": [
+    31.2922312,
+    75.5678878
+  ],
+  "Kapurthala|Punjab": [
+    31.3856476,
+    75.3053304
+  ],
+  "Ludhiana|Punjab": [
+    30.9090157,
+    75.851601
+  ],
+  "Mansa|Punjab": [
+    29.8764133,
+    75.4889564
+  ],
+  "Moga|Punjab": [
+    30.7877554,
+    75.159359
+  ],
+  "Pathankot|Punjab": [
+    32.3021899,
+    75.6589406
+  ],
+  "Patiala|Punjab": [
+    30.2092778,
+    76.3397231
+  ],
+  "Rupnagar|Punjab": [
+    31.0917102,
+    76.5289701
+  ],
+  "S.A.S Nagar|Punjab": [
+    30.676694,
+    76.7084883
+  ],
+  "Sangrur|Punjab": [
+    30.135717,
+    75.8533326
+  ],
+  "Shaheed Bhagat Singh Nagar|Punjab": [
+    31.126969,
+    76.1598988
+  ],
+  "Sri Muktsar Sahib|Punjab": [
+    30.2867162,
+    74.5262234
+  ],
+  "Tarn Taran Sahib|Punjab": [
+    31.4555254,
+    74.9269621
+  ],
+  "Ajmer|Rajasthan": [
+    26.4691,
+    74.639
+  ],
+  "Alwar|Rajasthan": [
+    27.4140049,
+    76.6170387
+  ],
+  "Banswara|Rajasthan": [
+    23.4915047,
+    74.3502172
+  ],
+  "Baran|Rajasthan": [
+    24.9208165,
+    76.6821985
+  ],
+  "Barmer|Rajasthan": [
+    25.5814853,
+    71.1924922
+  ],
+  "Bharatpur|Rajasthan": [
+    27.0246959,
+    77.2920116
+  ],
+  "Bhilwara|Rajasthan": [
+    25.470994,
+    74.6961316
+  ],
+  "Bikaner|Rajasthan": [
+    28.0159286,
+    73.3171367
+  ],
+  "Bundi|Rajasthan": [
+    25.4367659,
+    75.7361471
+  ],
+  "Chittorgarh|Rajasthan": [
+    24.7171578,
+    74.4718129
+  ],
+  "Churu|Rajasthan": [
+    28.2047781,
+    74.6912996
+  ],
+  "Dausa|Rajasthan": [
+    26.8048659,
+    76.4437457
+  ],
+  "Dholpur|Rajasthan": [
+    26.7010642,
+    77.896749
+  ],
+  "Dungarpur|Rajasthan": [
+    23.8538893,
+    73.7087177
+  ],
+  "Hanumangarh|Rajasthan": [
+    29.3659533,
+    74.298429
+  ],
+  "Jaipur|Rajasthan": [
+    26.9154576,
+    75.8189817
+  ],
+  "Jaisalmer|Rajasthan": [
+    26.9116615,
+    70.9124888
+  ],
+  "Jalore|Rajasthan": [
+    25.2093483,
+    72.3178889
+  ],
+  "Jhalawar|Rajasthan": [
+    24.3132368,
+    76.5221078
+  ],
+  "Jhunjhunu|Rajasthan": [
+    28.0798944,
+    75.5424211
+  ],
+  "Jodhpur|Rajasthan": [
+    26.2967719,
+    73.0351433
+  ],
+  "Karauli|Rajasthan": [
+    26.5158329,
+    77.0565965
+  ],
+  "Kota|Rajasthan": [
+    25.1737019,
+    75.8574194
+  ],
+  "Nagaur|Rajasthan": [
+    26.9873443,
+    73.7389011
+  ],
+  "Pali|Rajasthan": [
+    25.4552211,
+    73.419389
+  ],
+  "Pratapgarh|Rajasthan": [
+    24.0232221,
+    74.6250275
+  ],
+  "Rajsamand|Rajasthan": [
+    25.2892459,
+    73.8241077
+  ],
+  "Sawai Madhopur|Rajasthan": [
+    26.2290186,
+    76.3043561
+  ],
+  "Sikar|Rajasthan": [
+    27.6624156,
+    75.0279971
+  ],
+  "Sirohi|Rajasthan": [
+    24.8114047,
+    72.8300257
+  ],
+  "Sri Ganganagar|Rajasthan": [
+    29.4605539,
+    73.5850528
+  ],
+  "Tonk|Rajasthan": [
+    26.1223198,
+    75.6632235
+  ],
+  "Udaipur|Rajasthan": [
+    24.578721,
+    73.6862571
+  ],
+  "Coimbatore|Tamil Nadu": [
+    11.0018115,
+    76.9628425
+  ],
+  "Cuddalore|Tamil Nadu": [
+    11.5202071,
+    79.3396356
+  ],
+  "Dharmapuri|Tamil Nadu": [
+    12.1456131,
+    78.1132217
+  ],
+  "Dindigul|Tamil Nadu": [
+    10.4256897,
+    77.815664
+  ],
+  "Erode|Tamil Nadu": [
+    11.4905282,
+    77.3505274
+  ],
+  "Kallakurichi|Tamil Nadu": [
+    11.7946847,
+    79.0388211
+  ],
+  "Kancheepuram|Tamil Nadu": [
+    12.8796052,
+    79.7042762
+  ],
+  "Kanyakumari|Tamil Nadu": [
+    8.079252,
+    77.5499338
+  ],
+  "Madurai|Tamil Nadu": [
+    9.9261153,
+    78.1140983
+  ],
+  "Nagapattinam|Tamil Nadu": [
+    10.6026203,
+    79.7619348
+  ],
+  "Namakkal|Tamil Nadu": [
+    11.3033889,
+    78.118604
+  ],
+  "Perambalur|Tamil Nadu": [
+    11.2902641,
+    78.9300404
+  ],
+  "Pudukkottai|Tamil Nadu": [
+    10.2903072,
+    78.8173617
+  ],
+  "Ramanathapuram|Tamil Nadu": [
+    9.5205576,
+    78.5184635
+  ],
+  "Ranipet|Tamil Nadu": [
+    12.9186243,
+    79.4081921
+  ],
+  "Salem|Tamil Nadu": [
+    11.6469616,
+    78.2106958
+  ],
+  "Sivagangai|Tamil Nadu": [
+    9.9650599,
+    78.7204283
+  ],
+  "Tenkasi|Tamil Nadu": [
+    9.0933908,
+    77.4758373
+  ],
+  "Thanjavur|Tamil Nadu": [
+    10.659037,
+    79.2014278
+  ],
+  "Theni|Tamil Nadu": [
+    9.8692558,
+    77.4222974
+  ],
+  "Thiruvarur|Tamil Nadu": [
+    10.6878621,
+    79.4979437
+  ],
+  "Thoothukudi|Tamil Nadu": [
+    8.8457035,
+    77.9938178
+  ],
+  "Tiruchirapalli|Tamil Nadu": [
+    10.7631651,
+    78.7132601
+  ],
+  "Tirunelveli|Tamil Nadu": [
+    8.5495014,
+    77.5805178
+  ],
+  "Tiruppur|Tamil Nadu": [
+    10.7915267,
+    77.5325466
+  ],
+  "Tiruvannamalai|Tamil Nadu": [
+    12.4289282,
+    78.99915
+  ],
+  "Tiruvarur|Tamil Nadu": [
+    10.9380609,
+    79.4130425
+  ],
+  "Vellore|Tamil Nadu": [
+    12.9021849,
+    79.061104
+  ],
+  "Villupuram|Tamil Nadu": [
+    11.9398285,
+    79.4945645
+  ],
+  "Virudhunagar|Tamil Nadu": [
+    9.4926289,
+    77.8631831
+  ],
+  "Adilabad|Telangana": [
+    19.6759452,
+    78.5339895
+  ],
+  "Hyderabad|Telangana": [
+    17.360589,
+    78.4740613
+  ],
+  "Jagtial|Telangana": [
+    18.821359,
+    78.9150663
+  ],
+  "Jangaon|Telangana": [
+    17.7465843,
+    79.2407218
+  ],
+  "Jogulamba Gadwal|Telangana": [
+    16.0999202,
+    77.7341584
+  ],
+  "Kamareddy|Telangana": [
+    18.316551,
+    78.0539381
+  ],
+  "Karimnagar|Telangana": [
+    18.4348122,
+    79.1328042
+  ],
+  "Khammam|Telangana": [
+    17.2465351,
+    80.1500326
+  ],
+  "Mahabubabad|Telangana": [
+    17.7138983,
+    80.0413425
+  ],
+  "Mahbubnagar|Telangana": [
+    16.7434538,
+    77.9923191
+  ],
+  "Nagarkurnool|Telangana": [
+    16.4157627,
+    78.6830433
+  ],
+  "Nalgonda|Telangana": [
+    17.0504406,
+    79.2669235
+  ],
+  "Narayanpet|Telangana": [
+    16.7005518,
+    77.6164845
+  ],
+  "Nirmal|Telangana": [
+    19.091521,
+    78.396609
+  ],
+  "Nizamabad|Telangana": [
+    18.6732693,
+    78.0978477
+  ],
+  "Peddapalli|Telangana": [
+    18.6206531,
+    79.4950171
+  ],
+  "Rangareddy (Rajendranagar)|Telangana": null,
+  "Sanga Reddy|Telangana": null,
+  "Secundrabad|Telangana": [
+    17.4020163,
+    78.5597253
+  ],
+  "Siddipet|Telangana": [
+    18.0055851,
+    78.896113
+  ],
+  "Suryapet|Telangana": [
+    17.0800139,
+    79.792533
+  ],
+  "Vikarabad|Telangana": [
+    17.2702855,
+    77.745297
+  ],
+  "Wanaparthy|Telangana": [
+    16.2852944,
+    77.9864473
+  ],
+  "Warangal Rural|Telangana": [
+    17.9688766,
+    79.5940883
+  ],
+  "Warangal Urban|Telangana": [
+    18.0458479,
+    79.6115471
+  ],
+  "Dhalai|Tripura": [
+    23.8253158,
+    91.9732227
+  ],
+  "Gomati|Tripura": [
+    23.4987407,
+    91.2999111
+  ],
+  "Khowani|Tripura": null,
+  "Sepahijala|Tripura": [
+    23.6658005,
+    91.3200275
+  ],
+  "South Tripura|Tripura": [
+    23.1708278,
+    91.638817
+  ],
+  "Unakoti|Tripura": [
+    24.1909849,
+    92.0460483
+  ],
+  "West Tripura|Tripura": [
+    23.9153329,
+    91.3879341
+  ],
+  "Agra|Uttar Pradesh": [
+    27.1752554,
+    78.0098161
+  ],
+  "Aligarh|Uttar Pradesh": [
+    27.8761073,
+    78.1358153
+  ],
+  "Ambedkar Nagar|Uttar Pradesh": [
+    26.4045941,
+    82.6065154
+  ],
+  "Amethi|Uttar Pradesh": [
+    26.3462741,
+    81.6252039
+  ],
+  "Amroha|Uttar Pradesh": [
+    28.7952632,
+    78.3436244
+  ],
+  "Auraiya|Uttar Pradesh": [
+    26.6558215,
+    79.5160757
+  ],
+  "Ayodhya|Uttar Pradesh": [
+    26.7990707,
+    82.2052321
+  ],
+  "Azamgarh|Uttar Pradesh": [
+    26.023639,
+    83.0293105
+  ],
+  "Badaun|Uttar Pradesh": [
+    28.0649367,
+    79.043832
+  ],
+  "Bahraich|Uttar Pradesh": [
+    27.7343823,
+    81.47654
+  ],
+  "Ballia|Uttar Pradesh": [
+    25.8749595,
+    84.1210329
+  ],
+  "Balrampur|Uttar Pradesh": [
+    27.4476988,
+    82.3956245
+  ],
+  "Banda|Uttar Pradesh": [
+    25.4438537,
+    80.5595237
+  ],
+  "Barabanki|Uttar Pradesh": [
+    26.9421406,
+    81.3856087
+  ],
+  "Bareilly|Uttar Pradesh": [
+    28.4582345,
+    79.4047452
+  ],
+  "Basti|Uttar Pradesh": [
+    26.8387084,
+    82.5350919
+  ],
+  "Bijnor|Uttar Pradesh": [
+    29.4074203,
+    78.4821406
+  ],
+  "Bulandshahr|Uttar Pradesh": [
+    28.3874073,
+    77.9743805
+  ],
+  "Chandauli|Uttar Pradesh": [
+    25.125695,
+    83.2494601
+  ],
+  "Chitrakoot|Uttar Pradesh": [
+    25.217139,
+    81.1045927
+  ],
+  "Deoria|Uttar Pradesh": [
+    26.4239911,
+    83.7638578
+  ],
+  "Etawah|Uttar Pradesh": [
+    26.7155629,
+    79.0917098
+  ],
+  "Farrukhabad|Uttar Pradesh": [
+    27.4362003,
+    79.4894778
+  ],
+  "Fatehpur|Uttar Pradesh": [
+    25.8348023,
+    80.9154547
+  ],
+  "Firozabad|Uttar Pradesh": [
+    27.1941954,
+    78.4604956
+  ],
+  "Gautam Buddh Nagar|Uttar Pradesh": null,
+  "Ghaziabad|Uttar Pradesh": [
+    28.7749966,
+    77.4586967
+  ],
+  "Ghazipur|Uttar Pradesh": [
+    25.6034863,
+    83.5075888
+  ],
+  "Gonda|Uttar Pradesh": [
+    27.1103723,
+    81.9238906
+  ],
+  "Gorakhpur|Uttar Pradesh": [
+    26.6677977,
+    83.3642334
+  ],
+  "Hamirpur|Uttar Pradesh": [
+    25.75,
+    80.0
+  ],
+  "Hapur|Uttar Pradesh": [
+    28.7166767,
+    77.890433
+  ],
+  "Hardoi|Uttar Pradesh": [
+    27.3369978,
+    80.0998232
+  ],
+  "Hathras|Uttar Pradesh": [
+    27.5724324,
+    78.1116209
+  ],
+  "Jalaun|Uttar Pradesh": [
+    26.1048633,
+    79.3919136
+  ],
+  "Jaunpur|Uttar Pradesh": [
+    25.7967065,
+    82.4888992
+  ],
+  "Jhansi|Uttar Pradesh": [
+    25.529855,
+    78.6527802
+  ],
+  "Kannauj|Uttar Pradesh": [
+    26.9986675,
+    79.6927946
+  ],
+  "Kanpur Nagar|Uttar Pradesh": [
+    26.4410107,
+    80.2652803
+  ],
+  "Kasganj|Uttar Pradesh": [
+    27.7888528,
+    78.8229701
+  ],
+  "Kaushambi|Uttar Pradesh": [
+    25.5342456,
+    81.4493567
+  ],
+  "Lakhimpur Kheri|Uttar Pradesh": [
+    28.1834229,
+    80.7131272
+  ],
+  "Lalitpur|Uttar Pradesh": [
+    24.6999688,
+    78.51862
+  ],
+  "Lucknow|Uttar Pradesh": [
+    26.8381,
+    80.9346001
+  ],
+  "Maharajganj|Uttar Pradesh": [
+    26.4710847,
+    81.1807046
+  ],
+  "Mahoba|Uttar Pradesh": [
+    25.3615939,
+    79.706011
+  ],
+  "Mainpuri|Uttar Pradesh": [
+    27.2093072,
+    79.0625369
+  ],
+  "Mathura|Uttar Pradesh": [
+    27.4955539,
+    77.6855554
+  ],
+  "Mau|Uttar Pradesh": [
+    26.0390905,
+    83.4985846
+  ],
+  "Meerut|Uttar Pradesh": [
+    29.0018557,
+    77.7679671
+  ],
+  "Mirzapur|Uttar Pradesh": [
+    24.9316896,
+    82.6280163
+  ],
+  "Moradabad|Uttar Pradesh": [
+    28.8796553,
+    78.8095335
+  ],
+  "Muzaffarnagar|Uttar Pradesh": [
+    29.4496979,
+    77.7429333
+  ],
+  "Pilibhit|Uttar Pradesh": [
+    28.4947158,
+    80.1076122
+  ],
+  "Pratapgarh|Uttar Pradesh": [
+    25.75,
+    81.75
+  ],
+  "Prayagraj|Uttar Pradesh": [
+    25.4381302,
+    81.8338005
+  ],
+  "Rae Bareli|Uttar Pradesh": [
+    26.25,
+    81.25
+  ],
+  "Rampur|Uttar Pradesh": [
+    28.7934728,
+    79.1845806
+  ],
+  "Saharanpur|Uttar Pradesh": [
+    29.9856799,
+    77.5040646
+  ],
+  "Sambhal|Uttar Pradesh": [
+    28.4271928,
+    78.5564546
+  ],
+  "Sant Kabir Nagar|Uttar Pradesh": [
+    26.755082,
+    83.0398545
+  ],
+  "Shahjahanpur|Uttar Pradesh": [
+    27.9128583,
+    79.7476254
+  ],
+  "Shamli|Uttar Pradesh": [
+    29.4811508,
+    77.2901344
+  ],
+  "Siddharth Nagar|Uttar Pradesh": [
+    27.27547,
+    83.0880597
+  ],
+  "Sitapur|Uttar Pradesh": [
+    27.5026748,
+    80.8335139
+  ],
+  "Sonbhadra|Uttar Pradesh": [
+    24.4148159,
+    83.0637517
+  ],
+  "Sultanpur|Uttar Pradesh": [
+    26.2604732,
+    82.2380532
+  ],
+  "Unnao|Uttar Pradesh": [
+    26.5673264,
+    80.6198193
+  ],
+  "Varanasi|Uttar Pradesh": [
+    25.3356491,
+    83.0076292
+  ],
+  "Dehradun|Uttarakhand": [
+    30.3255646,
+    78.0436813
+  ],
+  "Haridwar|Uttarakhand": [
+    29.9123514,
+    78.0087178
+  ],
+  "Nainital|Uttarakhand": [
+    29.294995,
+    79.4162511
+  ],
+  "Pauri Garhwal|Uttarakhand": [
+    29.8473168,
+    78.7070479
+  ],
+  "Udham Singh Nagar|Uttarakhand": [
+    29.0478314,
+    79.4326164
+  ],
+  "Alipurduar|West Bengal": [
+    26.4851573,
+    89.5246926
+  ],
+  "Bankura|West Bengal": [
+    23.132377,
+    87.2081925
+  ],
+  "Birbhum|West Bengal": [
+    24.0621532,
+    87.6982823
+  ],
+  "Dakshin Dinajpur|West Bengal": [
+    25.385807,
+    88.5063362
+  ],
+  "Darjeeling|West Bengal": [
+    27.0377554,
+    88.263176
+  ],
+  "Hooghly|West Bengal": [
+    22.9099403,
+    88.0120825
+  ],
+  "Jalpaiguri|West Bengal": [
+    26.6262805,
+    88.7334485
+  ],
+  "Malda|West Bengal": [
+    25.0057449,
+    88.1398483
+  ],
+  "Murshidabad|West Bengal": [
+    24.1745993,
+    88.2721335
+  ],
+  "Nadia|West Bengal": [
+    23.4847374,
+    88.5567067
+  ],
+  "North 24 Parganas|West Bengal": [
+    22.6926815,
+    88.6625795
+  ],
+  "Purba Bardhaman|West Bengal": [
+    23.3884089,
+    87.9606763
+  ],
+  "Purba Medinipur|West Bengal": [
+    22.0648451,
+    87.8377586
+  ],
+  "South 24 Parganas|West Bengal": [
+    22.1776733,
+    88.5307853
+  ],
+  "Uttar Dinajpur|West Bengal": [
+    25.8721428,
+    87.961986
+  ]
+}

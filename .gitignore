@@ -5,6 +5,13 @@ data/raw/prices/
 data/clean/prices/
 data/clean/match_report.csv
 
+# OS
+.DS_Store
+data/**/.DS_Store
+
+# Temp/intermediate
+data/raw/ne_states_tmp/
+
 # Python
 __pycache__/
 *.pyc
