@@ -1,0 +1,6 @@
+Metric,sample_A_full/spec1_within_mandi,sample_A_full/spec2_across_district,sample_A_full/spec3_across_state,sample_B_balanced/spec1_within_mandi,sample_B_balanced/spec2_across_district,sample_B_balanced/spec3_across_state
+ATT,+0.1566***,+0.0175,-0.0975,+0.1327***,-0.0391,-0.0746
+SE,0.0156,0.0418,0.1884,0.0160,0.0564,0.1672
+95% CI lower,0.1259,-0.0644,-0.4892,0.1014,-0.1497,-0.4223
+95% CI upper,0.1872,0.0993,0.2942,0.1640,0.0715,0.2730
+N obs,"58,033","21,138","22,278","54,517","14,763","16,848"

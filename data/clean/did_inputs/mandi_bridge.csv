@@ -1,0 +1,1140 @@
+market_name,state_id,state_name,mandi_id,meta_mandi_id,district,state_clean,adopt_period
+Ambikapur APMC,7,Chhattisgarh,78,78.0,Sarguja,Chhattisgarh,24279.0
+Bhatapara APMC,7,Chhattisgarh,60,60.0,Baloda Bazaar,Chhattisgarh,24226.0
+Jagdalpur APMC,7,Chhattisgarh,61,61.0,Bastar,Chhattisgarh,24226.0
+Katghora APMC,7,Chhattisgarh,71,71.0,Korba,Chhattisgarh,24279.0
+Kawardha APMC,7,Chhattisgarh,69,,,,
+Munguli APMC,7,Chhattisgarh,73,73.0,Mungeli,Chhattisgarh,24226.0
+Rajnandgaon APMC,7,Chhattisgarh,77,77.0,Rajnandgaon,Chhattisgarh,24226.0
+Bemetara APMC,7,Chhattisgarh,62,62.0,Bemetara,Chhattisgarh,24279.0
+Durg APMC,7,Chhattisgarh,66,66.0,Durg,Chhattisgarh,24226.0
+Raipur APMC,7,Chhattisgarh,76,76.0,Raipur,Chhattisgarh,24226.0
+Bilaspur APMC,7,Chhattisgarh,63,63.0,Bilaspur,Chhattisgarh,24227.0
+Kurud APMC,7,Chhattisgarh,65,65.0,Dhamtari,Chhattisgarh,24226.0
+Amreli APMC,11,Gujarat,93,93.0,Amreli,Gujarat,24226.0
+Bhanvad APMC,11,Gujarat,148,148.0,Jamnagar,Gujarat,24279.0
+Bhiloda APMC,11,Gujarat,105,105.0,Aravalli,Gujarat,24226.0
+Botad APMC,11,Gujarat,128,128.0,Botad,Gujarat,24226.0
+Chotila APMC,11,Gujarat,211,211.0,Surendranagar,Gujarat,24244.0
+Dahod APMC,11,Gujarat,132,132.0,Dahod,Gujarat,24226.0
+Deesa APMC,11,Gujarat,109,109.0,Banaskantha,Gujarat,24226.0
+Dehgam APMC,11,Gujarat,140,140.0,Gandhinagar,Gujarat,24226.0
+Devgadhbaria APMC,11,Gujarat,133,,,,
+Dhanera APMC,11,Gujarat,111,111.0,Banaskantha,Gujarat,24238.0
+Dhoraji APMC,11,Gujarat,193,193.0,Rajkot,Gujarat,24235.0
+Dhrol APMC,11,Gujarat,149,149.0,Jamnagar,Gujarat,24226.0
+Gondal APMC,11,Gujarat,194,194.0,Rajkot,Gujarat,24226.0
+Jamnagar APMC,11,Gujarat,151,151.0,Jamnagar,Gujarat,24233.0
+Kalol APMC,11,Gujarat,142,142.0,Gandhinagar,Gujarat,24235.0
+Kapadvanj APMC,11,Gujarat,158,158.0,Kheda,Gujarat,24226.0
+Lakhani APMC,11,Gujarat,112,,,,
+Mandvi APMC,11,Gujarat,166,166.0,Kutch,Gujarat,24244.0
+Mandvi APMC,11,Gujarat,166,166.0,Kutch,Gujarat,24279.0
+Matar APMC,11,Gujarat,161,161.0,Kheda,Gujarat,24244.0
+Mehsana APMC,11,Gujarat,171,171.0,Mehsana,Gujarat,24226.0
+Nizar APMC,11,Gujarat,216,216.0,Tapi,Gujarat,24226.0
+Palanpur APMC,11,Gujarat,113,113.0,Banaskantha,Gujarat,24229.0
+Palitana APMC,11,Gujarat,123,123.0,Bhavnagar,Gujarat,24244.0
+Patan APMC,11,Gujarat,189,189.0,Patan,Gujarat,24226.0
+Porbandar APMC,11,Gujarat,192,192.0,Porbandar,Gujarat,24226.0
+Rajkot APMC,11,Gujarat,198,198.0,Rajkot,Gujarat,24226.0
+Rajula APMC,11,Gujarat,97,97.0,Amreli,Gujarat,24226.0
+S.Mandvi APMC,11,Gujarat,166,166.0,Kutch,Gujarat,24244.0
+S.Mandvi APMC,11,Gujarat,166,166.0,Kutch,Gujarat,24279.0
+Savarkundla APMC,11,Gujarat,98,98.0,Amreli,Gujarat,24228.0
+Siddhpur APMC,11,Gujarat,191,191.0,Patan,Gujarat,24226.0
+Songadh APMC,11,Gujarat,217,217.0,Tapi,Gujarat,24245.0
+Talod APMC,11,Gujarat,204,204.0,Sabarkantha,Gujarat,24226.0
+Tarapur APMC,11,Gujarat,103,103.0,Anand,Gujarat,24226.0
+Thara APMC,11,Gujarat,115,115.0,Banaskantha,Gujarat,24226.0
+Vankaner APMC,11,Gujarat,178,178.0,Morbi,Gujarat,24244.0
+Vijapur APMC,11,Gujarat,174,174.0,Mehsana,Gujarat,24226.0
+Visnagar APMC,11,Gujarat,175,175.0,Mehsana,Gujarat,24226.0
+Vyra APMC,11,Gujarat,220,220.0,Tapi,Gujarat,24235.0
+Anand APMC,11,Gujarat,99,99.0,Anand,Gujarat,24261.0
+Bagasara APMC,11,Gujarat,95,95.0,Amreli,Gujarat,24266.0
+Bhesan APMC,11,Gujarat,154,154.0,Junagadh,Gujarat,24226.0
+Godhra APMC,11,Gujarat,187,187.0,Panchamahal,Gujarat,24226.0
+Himatnagar APMC,11,Gujarat,201,201.0,Sabarkantha,Gujarat,24226.0
+Junagadh APMC,11,Gujarat,155,155.0,Junagadh,Gujarat,24226.0
+Kadi APMC,11,Gujarat,170,170.0,Mehsana,Gujarat,24244.0
+Kalawad APMC,11,Gujarat,152,152.0,Jamnagar,Gujarat,24267.0
+Mansa APMC,11,Gujarat,143,,,,
+Modasa APMC,11,Gujarat,107,107.0,Aravalli,Gujarat,24226.0
+Panthawada APMC,11,Gujarat,114,114.0,Banaskantha,Gujarat,24226.0
+Sanad APMC,11,Gujarat,91,91.0,Ahmedabad,Gujarat,24233.0
+Thasara APMC,11,Gujarat,163,163.0,Kheda,Gujarat,24244.0
+Vadodara APMC,11,Gujarat,226,226.0,Vadodara,Gujarat,24227.0
+Visavadar APMC,11,Gujarat,157,157.0,Junagadh,Gujarat,24226.0
+Bhavnagar APMC,11,Gujarat,120,120.0,Bhavnagar,Gujarat,24226.0
+Borsad APMC,11,Gujarat,100,100.0,Anand,Gujarat,24227.0
+Mandal APMC,11,Gujarat,90,,,,
+Morbi APMC,11,Gujarat,177,177.0,Morbi,Gujarat,24229.0
+Upleta APMC,11,Gujarat,199,199.0,Rajkot,Gujarat,24235.0
+Kathlal APMC,11,Gujarat,159,159.0,Kheda,Gujarat,24244.0
+Tharad APMC,11,Gujarat,116,116.0,Banaskantha,Gujarat,24226.0
+Khambha APMC,11,Gujarat,101,101.0,Anand,Gujarat,24226.0
+Vadali APMC,11,Gujarat,205,205.0,Sabarkantha,Gujarat,24244.0
+Ballabhgarh APMC,12,Haryana,243,243.0,Faridabad,Haryana,24270.0
+Barara APMC,12,Haryana,232,232.0,Ambala,Haryana,24270.0
+Bhattu Kalan APMC,12,Haryana,247,247.0,Fatehabad,Haryana,24245.0
+Dhand APMC,12,Haryana,275,275.0,Kaithal,Haryana,24226.0
+Ding APMC,12,Haryana,323,323.0,Sirsa,Haryana,24270.0
+Ganaur APMC,12,Haryana,328,328.0,Sonipat,Haryana,24226.0
+Gharaunda APMC,12,Haryana,282,282.0,Karnal,Haryana,24226.0
+Jakhal APMC,12,Haryana,250,250.0,Fatehabad,Haryana,24226.0
+Ladwa APMC,12,Haryana,292,292.0,Kurukshetra,Haryana,24226.0
+Mullana APMC,12,Haryana,233,233.0,Ambala,Haryana,24227.0
+Naraingarh APMC,12,Haryana,234,234.0,Ambala,Haryana,24245.0
+Narnaund APMC,12,Haryana,262,262.0,Hisar,Haryana,24226.0
+Palwal APMC,12,Haryana,308,308.0,Palwal,Haryana,24226.0
+Pillukhera APMC,12,Haryana,271,271.0,Jind,Haryana,24226.0
+Pipli APMC,12,Haryana,294,294.0,Kurukshetra,Haryana,24245.0
+Safidon APMC,12,Haryana,272,272.0,Jind,Haryana,24226.0
+Shahabad APMC,12,Haryana,295,295.0,Kurukshetra,Haryana,24226.0
+Shahzadpur APMC,12,Haryana,235,235.0,Ambala,Haryana,24245.0
+Sirsa APMC,12,Haryana,327,327.0,Sirsa,Haryana,24226.0
+Jullana APMC,12,Haryana,269,269.0,Jind,Haryana,24226.0
+Uchana APMC,12,Haryana,273,273.0,Jind,Haryana,24226.0
+kalanwali APMC,12,Haryana,325,325.0,Sirsa,Haryana,24226.0
+Lohardaga APMC,15,Jharkhand,403,403.0,Lohardaga,Jharkhand,24226.0
+Agar APMC,19,Madhya Pradesh,422,422.0,Agar Malwa,Madhya Pradesh,24226.0
+Alirajpur APMC,19,Madhya Pradesh,423,423.0,Alirajpur,Madhya Pradesh,24271.0
+Amarpatan APMC,19,Madhya Pradesh,532,532.0,Satna,Madhya Pradesh,24271.0
+Aron APMC,19,Madhya Pradesh,462,462.0,Guna,Madhya Pradesh,24271.0
+Ashoknagar APMC,19,Madhya Pradesh,426,,,,
+Ashta APMC,19,Madhya Pradesh,536,536.0,Sehore,Madhya Pradesh,24226.0
+Badamalhera APMC,19,Madhya Pradesh,439,439.0,Chhatarpur,Madhya Pradesh,24271.0
+Badnagar APMC,19,Madhya Pradesh,554,554.0,Ujjain,Madhya Pradesh,24226.0
+Badnawar APMC,19,Madhya Pradesh,455,455.0,Dhar,Madhya Pradesh,24226.0
+Badwani APMC,19,Madhya Pradesh,430,430.0,Barwani,Madhya Pradesh,24271.0
+Baikunthpur APMC,19,Madhya Pradesh,522,522.0,Rewa,Madhya Pradesh,24271.0
+Bankhedi APMC,19,Madhya Pradesh,471,471.0,Hoshangabad,Madhya Pradesh,24271.0
+Bareli APMC,19,Madhya Pradesh,510,510.0,Raisen,Madhya Pradesh,24226.0
+Beohari APMC,19,Madhya Pradesh,542,542.0,Shahdol,Madhya Pradesh,24271.0
+Berasia APMC,19,Madhya Pradesh,435,435.0,Bhopal,Madhya Pradesh,24226.0
+Betul APMC,19,Madhya Pradesh,433,433.0,Betul,Madhya Pradesh,24226.0
+Bhind APMC,19,Madhya Pradesh,434,434.0,Bhind,Madhya Pradesh,24271.0
+Biaora APMC,19,Madhya Pradesh,515,515.0,Rajgarh,Madhya Pradesh,24226.0
+Bina APMC,19,Madhya Pradesh,437,437.0,Bina,Madhya Pradesh,24226.0
+Burhanpur APMC,19,Madhya Pradesh,438,438.0,Burhanpur,Madhya Pradesh,24226.0
+Chaakghat APMC,19,Madhya Pradesh,523,523.0,Rewa,Madhya Pradesh,24271.0
+Chaurai APMC,19,Madhya Pradesh,444,444.0,Chhindwara,Madhya Pradesh,24271.0
+Chhatarpur APMC,19,Madhya Pradesh,440,440.0,Chhatarpur,Madhya Pradesh,24226.0
+Chhindwara APMC,19,Madhya Pradesh,445,445.0,Chhindwara,Madhya Pradesh,24226.0
+Chhpara APMC,19,Madhya Pradesh,539,539.0,Seoni,Madhya Pradesh,24271.0
+Dabra APMC,19,Madhya Pradesh,465,465.0,Gwalior,Madhya Pradesh,24226.0
+Datia APMC,19,Madhya Pradesh,451,451.0,Datia,Madhya Pradesh,24226.0
+Deori APMC,19,Madhya Pradesh,526,526.0,Sagar,Madhya Pradesh,24271.0
+Dewas APMC,19,Madhya Pradesh,452,452.0,Dewas,Madhya Pradesh,24226.0
+Dhar APMC,19,Madhya Pradesh,456,456.0,Dhar,Madhya Pradesh,24226.0
+Gadarwada APMC,19,Madhya Pradesh,503,503.0,Narsinghpur,Madhya Pradesh,24226.0
+Garhakota APMC,19,Madhya Pradesh,527,527.0,Sagar,Madhya Pradesh,24271.0
+Gautampura APMC,19,Madhya Pradesh,476,476.0,Indore,Madhya Pradesh,24271.0
+Gotegaon APMC,19,Madhya Pradesh,504,504.0,Narsinghpur,Madhya Pradesh,24271.0
+Guna APMC,19,Madhya Pradesh,463,463.0,Guna,Madhya Pradesh,24226.0
+Hanumana APMC,19,Madhya Pradesh,524,524.0,Rewa,Madhya Pradesh,24271.0
+Harda APMC,19,Madhya Pradesh,467,467.0,Harda,Madhya Pradesh,24226.0
+Harpalpur APMC,19,Madhya Pradesh,441,441.0,Chhatarpur,Madhya Pradesh,24271.0
+Indore APMC,19,Madhya Pradesh,477,477.0,Indore,Madhya Pradesh,24226.0
+Itarsi APMC,19,Madhya Pradesh,472,472.0,Hoshangabad,Madhya Pradesh,24226.0
+Jaora APMC,19,Madhya Pradesh,519,519.0,Ratlam,Madhya Pradesh,24226.0
+Jhabua APMC,19,Madhya Pradesh,484,484.0,Jhabua,Madhya Pradesh,24271.0
+Jobat APMC,19,Madhya Pradesh,424,424.0,Alirajpur,Madhya Pradesh,24271.0
+Karera APMC,19,Madhya Pradesh,548,548.0,Shivpuri,Madhya Pradesh,24271.0
+Kasrawad APMC,19,Madhya Pradesh,490,490.0,Khargone,Madhya Pradesh,24271.0
+Katni APMC,19,Madhya Pradesh,487,487.0,Katni,Madhya Pradesh,24226.0
+Khandwa APMC,19,Madhya Pradesh,489,489.0,Khandwa,Madhya Pradesh,24226.0
+Khargone APMC,19,Madhya Pradesh,491,491.0,Khargone,Madhya Pradesh,24226.0
+Khategaon APMC,19,Madhya Pradesh,453,453.0,Dewas,Madhya Pradesh,24226.0
+Khetia APMC,19,Madhya Pradesh,492,492.0,Khargone,Madhya Pradesh,24271.0
+Khirakiya APMC,19,Madhya Pradesh,468,468.0,Harda,Madhya Pradesh,24226.0
+Kurawar APMC,19,Madhya Pradesh,516,516.0,Rajgarh,Madhya Pradesh,24271.0
+Mahidpur APMC,19,Madhya Pradesh,555,555.0,Ujjain,Madhya Pradesh,24226.0
+Manawar APMC,19,Madhya Pradesh,460,,,,
+Mandla APMC,19,Madhya Pradesh,498,498.0,Mandla,Madhya Pradesh,24226.0
+Mandsaur APMC,19,Madhya Pradesh,500,500.0,Mandsaur,Madhya Pradesh,24226.0
+Mhow APMC,19,Madhya Pradesh,478,478.0,Indore,Madhya Pradesh,24226.0
+Morena APMC,19,Madhya Pradesh,502,502.0,Morena,Madhya Pradesh,24226.0
+Mow APMC,19,Madhya Pradesh,478,478.0,Indore,Madhya Pradesh,24226.0
+Narsinghgarh APMC,19,Madhya Pradesh,517,517.0,Rajgarh,Madhya Pradesh,24271.0
+Narsinghpur APMC,19,Madhya Pradesh,506,,,,
+Neemuch APMC,19,Madhya Pradesh,507,507.0,Neemuch,Madhya Pradesh,24226.0
+Obedullaganj APMC,19,Madhya Pradesh,513,513.0,Raisen,Madhya Pradesh,24226.0
+Paatan APMC,19,Madhya Pradesh,481,,,,
+Panna APMC,19,Madhya Pradesh,509,509.0,Panna,Madhya Pradesh,24271.0
+Patharia APMC,19,Madhya Pradesh,450,450.0,Damoh,Madhya Pradesh,24271.0
+Petlawad APMC,19,Madhya Pradesh,485,485.0,Jhabua,Madhya Pradesh,24271.0
+Pipariya APMC,19,Madhya Pradesh,474,474.0,Hoshangabad,Madhya Pradesh,24226.0
+Piplya APMC,19,Madhya Pradesh,501,501.0,Mandsaur,Madhya Pradesh,24271.0
+Rahatgarh APMC,19,Madhya Pradesh,529,529.0,Sagar,Madhya Pradesh,24271.0
+Rajgarh APMC,19,Madhya Pradesh,461,461.0,Dhar,Madhya Pradesh,24271.0
+Rajnagar APMC,19,Madhya Pradesh,443,443.0,Chhatarpur,Madhya Pradesh,24271.0
+Ramnagar APMC,19,Madhya Pradesh,443,443.0,Chhatarpur,Madhya Pradesh,24271.0
+Ratlam APMC,19,Madhya Pradesh,520,520.0,Ratlam,Madhya Pradesh,24226.0
+Rehli APMC,19,Madhya Pradesh,530,530.0,Sagar,Madhya Pradesh,24271.0
+Rewa APMC,19,Madhya Pradesh,525,525.0,Rewa,Madhya Pradesh,24226.0
+Sagar APMC,19,Madhya Pradesh,531,531.0,Sagar,Madhya Pradesh,24226.0
+Sailana APMC,19,Madhya Pradesh,521,,,,
+Sanwer APMC,19,Madhya Pradesh,479,479.0,Indore,Madhya Pradesh,24226.0
+Satna APMC,19,Madhya Pradesh,535,535.0,Satna,Madhya Pradesh,24226.0
+Segaon APMC,19,Madhya Pradesh,497,,,,
+Sehore APMC,19,Madhya Pradesh,538,538.0,Sehore,Madhya Pradesh,24226.0
+Sendhwa APMC,19,Madhya Pradesh,432,432.0,Barwani,Madhya Pradesh,24226.0
+Shahdol APMC,19,Madhya Pradesh,543,543.0,Shahdol,Madhya Pradesh,24271.0
+Shajapur APMC,19,Madhya Pradesh,544,544.0,Shajapur,Madhya Pradesh,24226.0
+Sheopurkalan APMC,19,Madhya Pradesh,546,546.0,Sheopur,Madhya Pradesh,24226.0
+Shujalpur APMC,19,Madhya Pradesh,545,545.0,Shajapur,Madhya Pradesh,24226.0
+Sidhi APMC,19,Madhya Pradesh,551,551.0,Sidhi,Madhya Pradesh,24271.0
+Silvani APMC,19,Madhya Pradesh,514,514.0,Raisen,Madhya Pradesh,24271.0
+Sirali APMC,19,Madhya Pradesh,469,469.0,Harda,Madhya Pradesh,24271.0
+Sironj APMC,19,Madhya Pradesh,559,559.0,Vidisha,Madhya Pradesh,24271.0
+Sonkatch APMC,19,Madhya Pradesh,454,454.0,Dewas,Madhya Pradesh,24271.0
+Thandla APMC,19,Madhya Pradesh,486,486.0,Jhabua,Madhya Pradesh,24271.0
+Tikamgarh APMC,19,Madhya Pradesh,553,553.0,Tikamgarh,Madhya Pradesh,24226.0
+Timarni APMC,19,Madhya Pradesh,470,470.0,Harda,Madhya Pradesh,24226.0
+Ujjain APMC,19,Madhya Pradesh,556,556.0,Ujjain,Madhya Pradesh,24226.0
+Umariya APMC,19,Madhya Pradesh,557,557.0,Umaria,Madhya Pradesh,24271.0
+Vidisha APMC,19,Madhya Pradesh,560,560.0,Vidisha,Madhya Pradesh,24226.0
+Palari APMC,19,Madhya Pradesh,540,540.0,Seoni,Madhya Pradesh,24271.0
+Anuppur APMC,19,Madhya Pradesh,425,425.0,Anuppur,Madhya Pradesh,24271.0
+Badarwas APMC,19,Madhya Pradesh,547,547.0,Shivpuri,Madhya Pradesh,24271.0
+Damoh APMC,19,Madhya Pradesh,448,448.0,Damoh,Madhya Pradesh,24226.0
+Jora APMC,19,Madhya Pradesh,519,519.0,Ratlam,Madhya Pradesh,24226.0
+Katangi APMC,19,Madhya Pradesh,429,429.0,Balaghat,Madhya Pradesh,24271.0
+Seoni APMC,19,Madhya Pradesh,541,541.0,Seoni,Madhya Pradesh,24226.0
+Achalpur APMC,20,Maharashtra,572,572.0,Amrawati,Maharashtra,24226.0
+Akluj APMC,20,Maharashtra,670,,,,
+Akola APMC,20,Maharashtra,568,568.0,Akola,Maharashtra,24226.0
+Amalner APMC,20,Maharashtra,616,616.0,Jalgaon,Maharashtra,24226.0
+Amarawati APMC,20,Maharashtra,573,,,,
+Barshi APMC,20,Maharashtra,671,671.0,Solapur,Maharashtra,24226.0
+Beed APMC,20,Maharashtra,585,585.0,Beed,Maharashtra,24226.0
+Bhiwapur APMC,20,Maharashtra,627,627.0,Nagpur,Maharashtra,24245.0
+Bhokar APMC,20,Maharashtra,632,632.0,Nanded,Maharashtra,24226.0
+Chalisgaon APMC,20,Maharashtra,617,617.0,Jalgaon,Maharashtra,24245.0
+Chopada APMC,20,Maharashtra,618,,,,
+Daryapur APMC,20,Maharashtra,576,576.0,Amrawati,Maharashtra,24226.0
+Dhule APMC,20,Maharashtra,603,603.0,Dhule,Maharashtra,24226.0
+Dondaicha APMC,20,Maharashtra,604,604.0,Dhule,Maharashtra,24226.0
+Dound APMC,20,Maharashtra,658,658.0,Pune,Maharashtra,24226.0
+Gevrai APMC,20,Maharashtra,586,586.0,Beed,Maharashtra,24226.0
+Hinganghat APMC,20,Maharashtra,679,679.0,Wardha,Maharashtra,24245.0
+Jalana APMC,20,Maharashtra,620,620.0,Jalna,Maharashtra,24245.0
+Jalgaon APMC,20,Maharashtra,619,619.0,Jalgaon,Maharashtra,24245.0
+Karanja APMC,20,Maharashtra,682,682.0,Washim,Maharashtra,24245.0
+Karmala APMC,20,Maharashtra,673,673.0,Solapur,Maharashtra,24245.0
+Lasalgaon APMC,20,Maharashtra,640,640.0,Nashik,Maharashtra,24245.0
+Lasur Station APMC,20,Maharashtra,582,582.0,Aurangabad,Maharashtra,24245.0
+Majalgaon APMC,20,Maharashtra,587,587.0,Beed,Maharashtra,24245.0
+Mangal Wedha APMC,20,Maharashtra,674,674.0,Solapur,Maharashtra,24245.0
+Mangrulpeer APMC,20,Maharashtra,684,684.0,Washim,Maharashtra,24226.0
+Morshi APMC,20,Maharashtra,578,578.0,Amrawati,Maharashtra,24245.0
+Mumbai APMC,20,Maharashtra,626,626.0,Mumbai,Maharashtra,24226.0
+Murtizapur APMC,20,Maharashtra,570,570.0,Akola,Maharashtra,24228.0
+Nagpur APMC,20,Maharashtra,629,629.0,Nagpur,Maharashtra,24226.0
+Nandura APMC,20,Maharashtra,596,,,,
+Nandurbar APMC,20,Maharashtra,635,635.0,Nandurbar,Maharashtra,24226.0
+Pune APMC,20,Maharashtra,662,662.0,Pune,Maharashtra,24226.0
+Rahata APMC,20,Maharashtra,564,564.0,Ahmednagar,Maharashtra,24245.0
+Rahuri APMC,20,Maharashtra,565,565.0,Ahmednagar,Maharashtra,24226.0
+Selu APMC,20,Maharashtra,656,656.0,Parbhani,Maharashtra,24226.0
+Shegaon APMC,20,Maharashtra,597,597.0,Buldhana,Maharashtra,24226.0
+Shevgaon APMC,20,Maharashtra,597,597.0,Buldhana,Maharashtra,24226.0
+Shrirampur APMC,20,Maharashtra,567,567.0,Ahmednagar,Maharashtra,24245.0
+Solapur APMC,20,Maharashtra,677,677.0,Solapur,Maharashtra,24226.0
+Tumsar APMC,20,Maharashtra,590,590.0,Bhandara,Maharashtra,24226.0
+Umared APMC,20,Maharashtra,631,,,,
+Varora APMC,20,Maharashtra,602,602.0,Chandrapur,Maharashtra,24226.0
+Washim APMC,20,Maharashtra,687,687.0,Washim,Maharashtra,24245.0
+Ahmednagar APMC,20,Maharashtra,561,561.0,Ahmednagar,Maharashtra,24226.0
+Akot APMC,20,Maharashtra,569,569.0,Akola,Maharashtra,24244.0
+Baramati APMC,20,Maharashtra,657,657.0,Pune,Maharashtra,24244.0
+Chandur Bazar APMC,20,Maharashtra,575,575.0,Amrawati,Maharashtra,24245.0
+Chikali APMC,20,Maharashtra,591,591.0,Buldhana,Maharashtra,24245.0
+Dhamngaon-Railway APMC,20,Maharashtra,577,577.0,Amrawati,Maharashtra,24245.0
+Digras APMC,20,Maharashtra,690,690.0,Yawatmal,Maharashtra,24244.0
+Dindori APMC,20,Maharashtra,639,639.0,Nashik,Maharashtra,24245.0
+Dudhani APMC,20,Maharashtra,672,,,,
+Gangapur APMC,20,Maharashtra,580,,,,
+Hingoli APMC,20,Maharashtra,614,614.0,Hingoli,Maharashtra,24226.0
+Jintur APMC,20,Maharashtra,654,654.0,Parbhani,Maharashtra,24245.0
+Kannad APMC,20,Maharashtra,581,581.0,Aurangabad,Maharashtra,24245.0
+Katol APMC,20,Maharashtra,628,628.0,Nagpur,Maharashtra,24230.0
+Khamgaon APMC,20,Maharashtra,592,592.0,Buldhana,Maharashtra,24235.0
+Lakhandur APMC,20,Maharashtra,589,,,,
+Latur APMC,20,Maharashtra,624,624.0,Latur,Maharashtra,24226.0
+Lonand APMC,20,Maharashtra,667,667.0,Satara,Maharashtra,24226.0
+Lonar APMC,20,Maharashtra,593,593.0,Buldhana,Maharashtra,24226.0
+Malegaon APMC,20,Maharashtra,641,,,,
+Malkapur APMC,20,Maharashtra,594,594.0,Buldhana,Maharashtra,24226.0
+Manora APMC,20,Maharashtra,685,685.0,Washim,Maharashtra,24245.0
+Mehekar APMC,20,Maharashtra,595,,,,
+Nanded APMC,20,Maharashtra,634,634.0,Nanded,Maharashtra,24245.0
+Nandgaon APMC,20,Maharashtra,643,643.0,Nashik,Maharashtra,24245.0
+Newasa APMC,20,Maharashtra,562,562.0,Ahmednagar,Maharashtra,24226.0
+Pandharpur APMC,20,Maharashtra,675,675.0,Solapur,Maharashtra,24245.0
+Parali Vaijyanath APMC,20,Maharashtra,588,588.0,Beed,Maharashtra,24245.0
+Partur APMC,20,Maharashtra,621,621.0,Jalna,Maharashtra,24245.0
+Patur APMC,20,Maharashtra,621,621.0,Jalna,Maharashtra,24245.0
+Phaltan APMC,20,Maharashtra,668,668.0,Satara,Maharashtra,24245.0
+Sangamner APMC,20,Maharashtra,566,566.0,Ahmednagar,Maharashtra,24245.0
+Sangli APMC,20,Maharashtra,665,665.0,Sangli,Maharashtra,24227.0
+Satana APMC,20,Maharashtra,646,646.0,Nashik,Maharashtra,24245.0
+Shahada APMC,20,Maharashtra,636,636.0,Nandurbar,Maharashtra,24226.0
+Shirpur APMC,20,Maharashtra,605,605.0,Dhule,Maharashtra,24226.0
+Shirur APMC,20,Maharashtra,663,663.0,Pune,Maharashtra,24226.0
+Telhara APMC,20,Maharashtra,571,,,,
+Tuljapur APMC,20,Maharashtra,652,,,,
+Vaijpur APMC,20,Maharashtra,583,583.0,Aurangabad,Maharashtra,24226.0
+Wardha APMC,20,Maharashtra,681,681.0,Wardha,Maharashtra,24226.0
+Yeola APMC,20,Maharashtra,649,649.0,Nashik,Maharashtra,24226.0
+Murum APMC,20,Maharashtra,651,651.0,Osmanabad,Maharashtra,24245.0
+Sengoan APMC,20,Maharashtra,615,615.0,Hingoli,Maharashtra,24226.0
+Ausa APMC,20,Maharashtra,623,623.0,Latur,Maharashtra,24245.0
+Indapur APMC,20,Maharashtra,659,659.0,Pune,Maharashtra,24245.0
+Aarni APMC,20,Maharashtra,688,,,,
+Nampur APMC,20,Maharashtra,642,642.0,Nashik,Maharashtra,24245.0
+Parbhani APMC,20,Maharashtra,655,655.0,Parbhani,Maharashtra,24226.0
+Risod APMC,20,Maharashtra,686,686.0,Washim,Maharashtra,24245.0
+Nagbhid APMC,20,Maharashtra,600,600.0,Chandrapur,Maharashtra,24245.0
+Ner Parasopant APMC,20,Maharashtra,691,691.0,Yawatmal,Maharashtra,24245.0
+Sindi APMC,20,Maharashtra,680,680.0,Wardha,Maharashtra,24245.0
+Umarga APMC,20,Maharashtra,653,,,,
+Hoshiarpur APMC,28,Punjab,815,,,,
+Abohar APMC,28,Punjab,801,801.0,Fazilka,Punjab,24226.0
+Giddarbaha APMC,28,Punjab,852,852.0,Sri Muktsar Sahib,Punjab,24226.0
+Sangrur APMC,28,Punjab,847,847.0,Sangrur,Punjab,24226.0
+Amloh APMC,28,Punjab,799,799.0,Fatehgarh Sahib,Punjab,24245.0
+Bareta APMC,28,Punjab,827,827.0,Mansa,Punjab,24270.0
+Bhucho APMC,28,Punjab,790,790.0,Bathinda,Punjab,24245.0
+Dinanagar APMC,28,Punjab,811,811.0,Gurdaspur,Punjab,24271.0
+Faridkot APMC,28,Punjab,795,795.0,Faridkot,Punjab,24245.0
+Jalalabad APMC,28,Punjab,803,803.0,Fazilka,Punjab,24271.0
+Naushera Pannuan APMC,28,Punjab,857,857.0,Tarn Taran Sahib,Punjab,24271.0
+Rajpura APMC,28,Punjab,838,838.0,Patiala,Punjab,24270.0
+Rayya APMC,28,Punjab,786,786.0,Amritsar,Punjab,24271.0
+Sadiq APMC,28,Punjab,798,798.0,Faridkot,Punjab,24271.0
+Ajnala APMC,28,Punjab,781,781.0,Amritsar,Punjab,24270.0
+Barnala APMC,28,Punjab,787,787.0,Barnala,Punjab,24226.0
+Jagraon APMC,28,Punjab,823,823.0,Ludhiana,Punjab,24271.0
+Alwar APMC,29,Rajasthan,866,866.0,Alwar,Rajasthan,24244.0
+Anta APMC,29,Rajasthan,871,871.0,Baran,Rajasthan,24244.0
+Atru APMC,29,Rajasthan,872,872.0,Baran,Rajasthan,24226.0
+Bandikui APMC,29,Rajasthan,909,909.0,Dausa,Rajasthan,24226.0
+Baran APMC,29,Rajasthan,873,873.0,Baran,Rajasthan,24226.0
+Barisadri APMC,29,Rajasthan,899,899.0,Chittorgarh,Rajasthan,24244.0
+Barodamev APMC,29,Rajasthan,867,867.0,Alwar,Rajasthan,24244.0
+Bayana APMC,29,Rajasthan,877,877.0,Bharatpur,Rajasthan,24244.0
+Begu APMC,29,Rajasthan,900,900.0,Chittorgarh,Rajasthan,24244.0
+Bhadara APMC,29,Rajasthan,917,917.0,Hanumangarh,Rajasthan,24244.0
+Bhagat Ki Kothi APMC,29,Rajasthan,949,949.0,Jodhpur,Rajasthan,24244.0
+Bharatpur APMC,29,Rajasthan,878,878.0,Bharatpur,Rajasthan,24244.0
+Bhawani Mandi APMC,29,Rajasthan,939,939.0,Jhalawar,Rajasthan,24244.0
+Bhilwara APMC,29,Rajasthan,883,883.0,Bhilwara,Rajasthan,24244.0
+Bijaynagar APMC,29,Rajasthan,863,,,,
+Bundi APMC,29,Rajasthan,895,895.0,Bundi,Rajasthan,24226.0
+Chaksu APMC,29,Rajasthan,926,926.0,Jaipur,Rajasthan,24244.0
+Chhabra APMC,29,Rajasthan,874,874.0,Baran,Rajasthan,24244.0
+Dausa APMC,29,Rajasthan,910,910.0,Dausa,Rajasthan,24244.0
+Deeg APMC,29,Rajasthan,879,879.0,Bharatpur,Rajasthan,24244.0
+Deoli APMC,29,Rajasthan,996,996.0,Tonk,Rajasthan,24226.0
+Dholpur APMC,29,Rajasthan,915,915.0,Dholpur,Rajasthan,24244.0
+Gangapur City APMC,29,Rajasthan,973,973.0,Sawai Madhopur,Rajasthan,24226.0
+Gharsana APMC,29,Rajasthan,983,983.0,Sri Ganganagar,Rajasthan,24244.0
+Goluwala APMC,29,Rajasthan,918,918.0,Hanumangarh,Rajasthan,24244.0
+Hanumangarh Town APMC,29,Rajasthan,920,920.0,Hanumangarh,Rajasthan,24270.0
+HanumangarhTown APMC,29,Rajasthan,920,920.0,Hanumangarh,Rajasthan,24270.0
+Hindoun APMC,29,Rajasthan,955,955.0,Karauli,Rajasthan,24226.0
+Iklera APMC,29,Rajasthan,941,941.0,Jhalawar,Rajasthan,24244.0
+Itawa APMC,29,Rajasthan,956,956.0,Kota,Rajasthan,24244.0
+Jaitsar APMC,29,Rajasthan,984,984.0,Sri Ganganagar,Rajasthan,24244.0
+Jhalarapatan APMC,29,Rajasthan,942,942.0,Jhalawar,Rajasthan,24244.0
+Kama APMC,29,Rajasthan,880,880.0,Bharatpur,Rajasthan,24226.0
+Kapasan APMC,29,Rajasthan,902,902.0,Chittorgarh,Rajasthan,24244.0
+Kekri APMC,29,Rajasthan,864,864.0,Ajmer,Rajasthan,24244.0
+Kesarisinghpur APMC,29,Rajasthan,985,985.0,Sri Ganganagar,Rajasthan,24244.0
+Keshoraipatan APMC,29,Rajasthan,897,897.0,Bundi,Rajasthan,24226.0
+Khairthal APMC,29,Rajasthan,868,868.0,Alwar,Rajasthan,24244.0
+Khajuwala APMC,29,Rajasthan,891,891.0,Bikaner,Rajasthan,24244.0
+Khanpur APMC,29,Rajasthan,943,943.0,Jhalawar,Rajasthan,24244.0
+Kherli APMC,29,Rajasthan,869,869.0,Alwar,Rajasthan,24244.0
+Kishangarh Renwal APMC,29,Rajasthan,931,931.0,Jaipur,Rajasthan,24244.0
+Lalsot APMC,29,Rajasthan,911,911.0,Dausa,Rajasthan,24244.0
+Lunkaransar APMC,29,Rajasthan,892,,,,
+Madanganj Kishangarh APMC,29,Rajasthan,865,,,,
+Mahuwa APMC,29,Rajasthan,912,,,,
+Malpura APMC,29,Rajasthan,998,998.0,Tonk,Rajasthan,24244.0
+Mandawar APMC,29,Rajasthan,914,914.0,Dausa,Rajasthan,24226.0
+Mandawari APMC,29,Rajasthan,914,914.0,Dausa,Rajasthan,24226.0
+Nagar APMC,29,Rajasthan,882,882.0,Bharatpur,Rajasthan,24226.0
+Nimbahera APMC,29,Rajasthan,903,903.0,Chittorgarh,Rajasthan,24244.0
+Niwai APMC,29,Rajasthan,999,999.0,Tonk,Rajasthan,24226.0
+Nohar APMC,29,Rajasthan,921,921.0,Hanumangarh,Rajasthan,24244.0
+Nokha APMC,29,Rajasthan,893,893.0,Bikaner,Rajasthan,24226.0
+Padampur APMC,29,Rajasthan,986,986.0,Sri Ganganagar,Rajasthan,24226.0
+Phalodi APMC,29,Rajasthan,953,953.0,Jodhpur,Rajasthan,24244.0
+Pratapgarh APMC,29,Rajasthan,971,,,,
+Rawatsar APMC,29,Rajasthan,923,923.0,Hanumangarh,Rajasthan,24244.0
+Rawla APMC,29,Rajasthan,988,988.0,Sri Ganganagar,Rajasthan,24244.0
+Sadulshahar APMC,29,Rajasthan,990,990.0,Sri Ganganagar,Rajasthan,24244.0
+Sanchore APMC,29,Rajasthan,938,938.0,Jalore,Rajasthan,24244.0
+Sangriya APMC,29,Rajasthan,924,924.0,Hanumangarh,Rajasthan,24244.0
+Sardar Shahar APMC,29,Rajasthan,907,907.0,Churu,Rajasthan,24244.0
+Sawai Madhopur APMC,29,Rajasthan,974,974.0,Sawai Madhopur,Rajasthan,24244.0
+Sri Karanpur APMC,29,Rajasthan,993,,,,
+Sri Vijayanagar APMC,29,Rajasthan,994,994.0,Sri Ganganagar,Rajasthan,24244.0
+Sumerganj APMC,29,Rajasthan,898,898.0,Bundi,Rajasthan,24244.0
+Sumerpur APMC,29,Rajasthan,969,969.0,Pali,Rajasthan,24226.0
+Suratgarh APMC,29,Rajasthan,995,995.0,Sri Ganganagar,Rajasthan,24244.0
+Tonk APMC,29,Rajasthan,1000,1000.0,Tonk,Rajasthan,24244.0
+Udaipur (Grain) APMC,29,Rajasthan,1004,1004.0,Udaipur,Rajasthan,24244.0
+Beawar APMC,29,Rajasthan,862,862.0,Ajmer,Rajasthan,24244.0
+Dei APMC,29,Rajasthan,896,896.0,Bundi,Rajasthan,24244.0
+Gajsinghpur APMC,29,Rajasthan,982,982.0,Sri Ganganagar,Rajasthan,24244.0
+Jodhpur (Grain) APMC,29,Rajasthan,952,952.0,Jodhpur,Rajasthan,24226.0
+Kuchaman City APMC,29,Rajasthan,962,,,,
+Nawalgarh APMC,29,Rajasthan,947,947.0,Jhunjhunu,Rajasthan,24244.0
+Uniyara APMC,29,Rajasthan,1001,1001.0,Tonk,Rajasthan,24244.0
+Bikaner (Grain) APMC,29,Rajasthan,890,890.0,Bikaner,Rajasthan,24226.0
+Bilara APMC,29,Rajasthan,950,950.0,Jodhpur,Rajasthan,24244.0
+Chirawa APMC,29,Rajasthan,944,944.0,Jhunjhunu,Rajasthan,24244.0
+Jaitaran APMC,29,Rajasthan,965,965.0,Pali,Rajasthan,24244.0
+Jhunjhunu APMC,29,Rajasthan,946,946.0,Jhunjhunu,Rajasthan,24244.0
+Kotputli APMC,29,Rajasthan,932,932.0,Jaipur,Rajasthan,24244.0
+Sojat Road APMC,29,Rajasthan,968,968.0,Pali,Rajasthan,24244.0
+Sujangarh APMC,29,Rajasthan,908,908.0,Churu,Rajasthan,24244.0
+Surajgarh APMC,29,Rajasthan,948,948.0,Jhunjhunu,Rajasthan,24244.0
+Rani APMC,29,Rajasthan,967,967.0,Pali,Rajasthan,24244.0
+Banswara APMC,29,Rajasthan,870,870.0,Banswara,Rajasthan,24244.0
+Churu APMC,29,Rajasthan,904,904.0,Churu,Rajasthan,24244.0
+Hanumangarh APMC,29,Rajasthan,919,919.0,Hanumangarh,Rajasthan,24244.0
+Sikar APMC,29,Rajasthan,978,978.0,Sikar,Rajasthan,24244.0
+Bijolia APMC,29,Rajasthan,884,884.0,Bhilwara,Rajasthan,24244.0
+Mandalgarh APMC,29,Rajasthan,886,886.0,Bhilwara,Rajasthan,24244.0
+Ajmer (Grain) APMC,29,Rajasthan,861,861.0,Ajmer,Rajasthan,24244.0
+Achalda APMC,34,Uttar Pradesh,1236,1236.0,Auraiya,Uttar Pradesh,24244.0
+Agra APMC,34,Uttar Pradesh,1227,1227.0,Agra,Uttar Pradesh,24226.0
+Ajuha APMC,34,Uttar Pradesh,1304,1304.0,Kaushambi,Uttar Pradesh,24226.0
+Akbarpur APMC,34,Uttar Pradesh,1232,1232.0,Ambedkar Nagar,Uttar Pradesh,24226.0
+Aligarh APMC,34,Uttar Pradesh,1229,1229.0,Aligarh,Uttar Pradesh,24226.0
+Amroha APMC,34,Uttar Pradesh,1234,1234.0,Amroha,Uttar Pradesh,24244.0
+Anandnagar APMC,34,Uttar Pradesh,1311,1311.0,Maharajganj,Uttar Pradesh,24244.0
+Atarra APMC,34,Uttar Pradesh,1250,1250.0,Banda,Uttar Pradesh,24244.0
+Auraiya APMC,34,Uttar Pradesh,1237,1237.0,Auraiya,Uttar Pradesh,24226.0
+Azamgarh APMC,34,Uttar Pradesh,1239,1239.0,Azamgarh,Uttar Pradesh,24226.0
+Badayoun APMC,34,Uttar Pradesh,1240,1240.0,Badaun,Uttar Pradesh,24226.0
+Bahraich APMC,34,Uttar Pradesh,1244,1244.0,Bahraich,Uttar Pradesh,24226.0
+Ballia APMC,34,Uttar Pradesh,1246,1246.0,Ballia,Uttar Pradesh,24226.0
+Balrampur APMC,34,Uttar Pradesh,1248,1248.0,Balrampur,Uttar Pradesh,24244.0
+Banda APMC,34,Uttar Pradesh,1251,1251.0,Banda,Uttar Pradesh,24226.0
+Bangarmau APMC,34,Uttar Pradesh,1348,1348.0,Unnao,Uttar Pradesh,24226.0
+Barabanki APMC,34,Uttar Pradesh,1252,1252.0,Barabanki,Uttar Pradesh,24226.0
+Bareilly APMC,34,Uttar Pradesh,1254,1254.0,Bareilly,Uttar Pradesh,24226.0
+Basti APMC,34,Uttar Pradesh,1255,1255.0,Basti,Uttar Pradesh,24226.0
+Bharthna APMC,34,Uttar Pradesh,1263,1263.0,Etawah,Uttar Pradesh,24226.0
+Bharuasumerpur APMC,34,Uttar Pradesh,1282,1282.0,Hamirpur,Uttar Pradesh,24226.0
+Bilaspur APMC,34,Uttar Pradesh,1332,,,,
+Bilsi APMC,34,Uttar Pradesh,1241,1241.0,Badaun,Uttar Pradesh,24226.0
+Bindki APMC,34,Uttar Pradesh,1268,,,,
+Bishalpur APMC,34,Uttar Pradesh,1326,1326.0,Pilibhit,Uttar Pradesh,24226.0
+Buland Shahr APMC,34,Uttar Pradesh,1257,,,,
+Chandausi APMC,34,Uttar Pradesh,1323,1323.0,Moradabad,Uttar Pradesh,24226.0
+Charra APMC,34,Uttar Pradesh,1230,,,,
+Chhibramau APMC,34,Uttar Pradesh,1299,1299.0,Kannauj,Uttar Pradesh,24226.0
+Choubepur APMC,34,Uttar Pradesh,1301,1301.0,Kanpur Nagar,Uttar Pradesh,24226.0
+Dadri APMC,34,Uttar Pradesh,1274,,,,
+Etah APMC,34,Uttar Pradesh,1315,1315.0,Mainpuri,Uttar Pradesh,24226.0
+Etawah APMC,34,Uttar Pradesh,1264,1264.0,Etawah,Uttar Pradesh,24226.0
+Farukhabad APMC,34,Uttar Pradesh,1265,1265.0,Farrukhabad,Uttar Pradesh,24226.0
+Fatehpur Sikri APMC,34,Uttar Pradesh,1228,1228.0,Agra,Uttar Pradesh,24226.0
+Firozabad APMC,34,Uttar Pradesh,1270,1270.0,Firozabad,Uttar Pradesh,24244.0
+Ghaziabad APMC,34,Uttar Pradesh,1276,1276.0,Ghaziabad,Uttar Pradesh,24226.0
+Golagokarnath APMC,34,Uttar Pradesh,1305,,,,
+Gonda APMC,34,Uttar Pradesh,1278,1278.0,Gonda,Uttar Pradesh,24226.0
+Gorakhpur APMC,34,Uttar Pradesh,1280,1280.0,Gorakhpur,Uttar Pradesh,24226.0
+Haathras APMC,34,Uttar Pradesh,1290,1290.0,Hathras,Uttar Pradesh,24226.0
+Hapur APMC,34,Uttar Pradesh,1285,1285.0,Hapur,Uttar Pradesh,24226.0
+Hardoi APMC,34,Uttar Pradesh,1286,1286.0,Hardoi,Uttar Pradesh,24226.0
+Hasanpur APMC,34,Uttar Pradesh,1235,1235.0,Amroha,Uttar Pradesh,24244.0
+Jahanabad APMC,34,Uttar Pradesh,1258,1258.0,Bulandshahr,Uttar Pradesh,24226.0
+Jahangirabad APMC,34,Uttar Pradesh,1258,1258.0,Bulandshahr,Uttar Pradesh,24226.0
+Jalaun APMC,34,Uttar Pradesh,1292,1292.0,Jalaun,Uttar Pradesh,24226.0
+Jangipura APMC,34,Uttar Pradesh,1277,1277.0,Ghazipur,Uttar Pradesh,24226.0
+Jaunpur APMC,34,Uttar Pradesh,1295,1295.0,Jaunpur,Uttar Pradesh,24244.0
+Jhansi APMC,34,Uttar Pradesh,1297,1297.0,Jhansi,Uttar Pradesh,24226.0
+Kannauj APMC,34,Uttar Pradesh,1300,1300.0,Kannauj,Uttar Pradesh,24226.0
+Kasganj APMC,34,Uttar Pradesh,1303,1303.0,Kasganj,Uttar Pradesh,24226.0
+Khair APMC,34,Uttar Pradesh,1231,1231.0,Aligarh,Uttar Pradesh,24226.0
+Khalilabad APMC,34,Uttar Pradesh,1337,1337.0,Sant Kabir Nagar,Uttar Pradesh,24226.0
+Khurja APMC,34,Uttar Pradesh,1259,1259.0,Bulandshahr,Uttar Pradesh,24227.0
+Konch APMC,34,Uttar Pradesh,1293,1293.0,Jalaun,Uttar Pradesh,24226.0
+Kopaganj APMC,34,Uttar Pradesh,1320,1320.0,Mau,Uttar Pradesh,24226.0
+Kosikalan APMC,34,Uttar Pradesh,1318,,,,
+Lalitpur APMC,34,Uttar Pradesh,1309,1309.0,Lalitpur,Uttar Pradesh,24226.0
+Lucknow APMC,34,Uttar Pradesh,1310,1310.0,Lucknow,Uttar Pradesh,24226.0
+Madhoganj APMC,34,Uttar Pradesh,1287,1287.0,Hardoi,Uttar Pradesh,24226.0
+Mahoba APMC,34,Uttar Pradesh,1314,1314.0,Mahoba,Uttar Pradesh,24226.0
+Mainpuri APMC,34,Uttar Pradesh,1317,1317.0,Mainpuri,Uttar Pradesh,24226.0
+Mathura APMC,34,Uttar Pradesh,1319,1319.0,Mathura,Uttar Pradesh,24226.0
+Mauranipur APMC,34,Uttar Pradesh,1298,1298.0,Jhansi,Uttar Pradesh,24226.0
+Meerut APMC,34,Uttar Pradesh,1321,1321.0,Meerut,Uttar Pradesh,24226.0
+Milak APMC,34,Uttar Pradesh,1333,1333.0,Rampur,Uttar Pradesh,24226.0
+Mirzapur APMC,34,Uttar Pradesh,1322,1322.0,Mirzapur,Uttar Pradesh,24226.0
+Mohamadabad APMC,34,Uttar Pradesh,1267,,,,
+Muradabad APMC,34,Uttar Pradesh,1324,1324.0,Moradabad,Uttar Pradesh,24226.0
+Muskara APMC,34,Uttar Pradesh,1283,1283.0,Hamirpur,Uttar Pradesh,24226.0
+Muzzafarnagar APMC,34,Uttar Pradesh,1325,,,,
+Naanpara APMC,34,Uttar Pradesh,1245,,,,
+Naugarh APMC,34,Uttar Pradesh,1342,1342.0,Siddharth Nagar,Uttar Pradesh,24244.0
+Nawabganj APMC,34,Uttar Pradesh,1279,1279.0,Gonda,Uttar Pradesh,24244.0
+Partaval APMC,34,Uttar Pradesh,1313,1313.0,Maharajganj,Uttar Pradesh,24226.0
+Pilibhit APMC,34,Uttar Pradesh,1327,1327.0,Pilibhit,Uttar Pradesh,24226.0
+Pratapgarh APMC,34,Uttar Pradesh,1329,1329.0,Pratapgarh,Uttar Pradesh,24226.0
+Prayagraj APMC,34,Uttar Pradesh,1330,1330.0,Prayagraj,Uttar Pradesh,24241.0
+Puranpur APMC,34,Uttar Pradesh,1328,1328.0,Pilibhit,Uttar Pradesh,24226.0
+Raath APMC,34,Uttar Pradesh,1284,1284.0,Hamirpur,Uttar Pradesh,24226.0
+Rampur APMC,34,Uttar Pradesh,1334,1334.0,Rampur,Uttar Pradesh,24226.0
+Robertsganj APMC,34,Uttar Pradesh,1346,1346.0,Sonbhadra,Uttar Pradesh,24226.0
+Safdarganj APMC,34,Uttar Pradesh,1253,1253.0,Barabanki,Uttar Pradesh,24226.0
+Saharanpur APMC,34,Uttar Pradesh,1335,1335.0,Saharanpur,Uttar Pradesh,24226.0
+Sahiyapur APMC,34,Uttar Pradesh,1343,1343.0,Siddharth Nagar,Uttar Pradesh,24226.0
+Sandila APMC,34,Uttar Pradesh,1288,1288.0,Hardoi,Uttar Pradesh,24244.0
+Sehjanwa APMC,34,Uttar Pradesh,1281,1281.0,Gorakhpur,Uttar Pradesh,24244.0
+Shahganj APMC,34,Uttar Pradesh,1296,1296.0,Jaunpur,Uttar Pradesh,24226.0
+Shamli APMC,34,Uttar Pradesh,1341,1341.0,Shamli,Uttar Pradesh,24226.0
+Shikohabad APMC,34,Uttar Pradesh,1271,1271.0,Firozabad,Uttar Pradesh,24226.0
+Sirsaganj APMC,34,Uttar Pradesh,1272,1272.0,Firozabad,Uttar Pradesh,24226.0
+Sitapur APMC,34,Uttar Pradesh,1345,1345.0,Sitapur,Uttar Pradesh,24226.0
+Sultanpur APMC,34,Uttar Pradesh,1347,1347.0,Sultanpur,Uttar Pradesh,24226.0
+Tulsipur APMC,34,Uttar Pradesh,1249,1249.0,Balrampur,Uttar Pradesh,24244.0
+Tundla APMC,34,Uttar Pradesh,1273,1273.0,Firozabad,Uttar Pradesh,24226.0
+Ujhani APMC,34,Uttar Pradesh,1242,1242.0,Badaun,Uttar Pradesh,24226.0
+Unnao APMC,34,Uttar Pradesh,1349,1349.0,Unnao,Uttar Pradesh,24244.0
+Varanasi APMC,34,Uttar Pradesh,1350,1350.0,Varanasi,Uttar Pradesh,24226.0
+Wazirganj APMC,34,Uttar Pradesh,1243,1243.0,Badaun,Uttar Pradesh,24244.0
+Shahjahanpur APMC,34,Uttar Pradesh,1340,1340.0,Shahjahanpur,Uttar Pradesh,24226.0
+Jalalabad APMC,34,Uttar Pradesh,1338,1338.0,Shahjahanpur,Uttar Pradesh,24244.0
+Sambhal APMC,34,Uttar Pradesh,1336,1336.0,Sambhal,Uttar Pradesh,24244.0
+Gadarpur APMC,35,Uttarakhand,1363,1363.0,Udham Singh Nagar,Uttarakhand,24226.0
+Kashipur APMC,35,Uttarakhand,1365,1365.0,Udham Singh Nagar,Uttarakhand,24226.0
+Lakshar APMC,35,Uttarakhand,1356,,,,
+Bazpur APMC,35,Uttarakhand,1362,1362.0,Udham Singh Nagar,Uttarakhand,24226.0
+Haldwani APMC,35,Uttarakhand,1359,1359.0,Nainital,Uttarakhand,24226.0
+Nanakmatta APMC,35,Uttarakhand,1368,1368.0,Udham Singh Nagar,Uttarakhand,24226.0
+Roorkee APMC,35,Uttarakhand,1358,1358.0,Haridwar,Uttarakhand,24226.0
+Ichapuram APMC,2,Andhra Pradesh,30,30.0,Srikakulam,Andhra Pradesh,24244.0
+Kharupetia APMC,4,Assam,35,35.0,Darrang,Assam,24279.0
+Gauripur APMC,4,Assam,36,36.0,Dhubri,Assam,24279.0
+Dhing APMC,4,Assam,37,37.0,Nagaon,Assam,24279.0
+Chhapra APMC,5,Bihar,55,55.0,Saran,Bihar,24271.0
+Hajipur APMC,5,Bihar,57,57.0,Vaishali,Bihar,24271.0
+Mohana APMC,5,Bihar,46,46.0,Kaimur,Bihar,24271.0
+Sasaram APMC,5,Bihar,53,53.0,Rohtas,Bihar,24271.0
+Muzaffarpur APMC,5,Bihar,49,49.0,Muzaffarpur,Bihar,24270.0
+Balod APMC,7,Chhattisgarh,59,59.0,Balod,Chhattisgarh,24226.0
+Kanker APMC,7,Chhattisgarh,70,70.0,Kanker,Chhattisgarh,24279.0
+Dhamtari APMC,7,Chhattisgarh,64,64.0,Dhamtari,Chhattisgarh,24226.0
+Rajim APMC,7,Chhattisgarh,67,67.0,Gariyaband,Chhattisgarh,24226.0
+Anjar APMC,11,Gujarat,164,164.0,Kutch,Gujarat,24227.0
+Bharuch APMC,11,Gujarat,117,117.0,Bharuch,Gujarat,24236.0
+Idar APMC,11,Gujarat,202,202.0,Sabarkantha,Gujarat,24245.0
+Jasdan APMC,11,Gujarat,196,196.0,Rajkot,Gujarat,24226.0
+Jhagadiya APMC,11,Gujarat,118,118.0,Bharuch,Gujarat,24245.0
+Jhalod APMC,11,Gujarat,135,135.0,Dahod,Gujarat,24235.0
+K.Mandvi APMC,11,Gujarat,166,166.0,Kutch,Gujarat,24244.0
+K.Mandvi APMC,11,Gujarat,166,166.0,Kutch,Gujarat,24279.0
+Kodinar APMC,11,Gujarat,144,144.0,Gir Somnath,Gujarat,24232.0
+Mahuva APMC,11,Gujarat,122,122.0,Bhavnagar,Gujarat,24226.0
+Prantij APMC,11,Gujarat,203,203.0,Sabarkantha,Gujarat,24244.0
+Savli APMC,11,Gujarat,225,225.0,Vadodara,Gujarat,24226.0
+Bayad APMC,11,Gujarat,104,104.0,Aravalli,Gujarat,24245.0
+Bhabhar APMC,11,Gujarat,108,108.0,Banaskantha,Gujarat,24229.0
+Dhari APMC,11,Gujarat,96,96.0,Amreli,Gujarat,24239.0
+Lunavada APMC,11,Gujarat,168,168.0,Mahisagar,Gujarat,24245.0
+Una APMC,11,Gujarat,146,146.0,Gir Somnath,Gujarat,24244.0
+Babra APMC,11,Gujarat,94,94.0,Amreli,Gujarat,24229.0
+Rapar APMC,11,Gujarat,167,167.0,Kutch,Gujarat,24236.0
+Bhuj APMC,11,Gujarat,165,165.0,Kutch,Gujarat,24235.0
+Jam Jodhpur APMC,11,Gujarat,150,150.0,Jamnagar,Gujarat,24264.0
+Karjan APMC,11,Gujarat,223,223.0,Vadodara,Gujarat,24262.0
+Jam Khambalia APMC,11,Gujarat,139,139.0,Devbhoomi Dwarka,Gujarat,24236.0
+Kosamba APMC,11,Gujarat,207,207.0,Surat,Gujarat,24244.0
+Rajpipla APMC,11,Gujarat,180,180.0,Narmada,Gujarat,24244.0
+Dholka APMC,11,Gujarat,89,89.0,Ahmedabad,Gujarat,24262.0
+Selemba APMC,11,Gujarat,181,,,,
+Viramgam APMC,11,Gujarat,92,92.0,Ahmedabad,Gujarat,24279.0
+Bavla APMC,11,Gujarat,87,87.0,Ahmedabad,Gujarat,24244.0
+Limkheda APMC,11,Gujarat,136,136.0,Dahod,Gujarat,24244.0
+Malpur APMC,11,Gujarat,106,106.0,Aravalli,Gujarat,24279.0
+Radhanpur APMC,11,Gujarat,190,190.0,Patan,Gujarat,24244.0
+Dhragradhra APMC,11,Gujarat,212,,,,
+Veraval APMC,11,Gujarat,147,147.0,Gir Somnath,Gujarat,24279.0
+Valia APMC,11,Gujarat,119,119.0,Bharuch,Gujarat,24244.0
+Khambhat APMC,11,Gujarat,101,101.0,Anand,Gujarat,24226.0
+Bahadurgarh APMC,12,Haryana,264,264.0,Jhajjar,Haryana,24270.0
+Bhiwani APMC,12,Haryana,237,237.0,Bhiwani,Haryana,24226.0
+Dabwali APMC,12,Haryana,322,322.0,Sirsa,Haryana,24226.0
+Khanina APMC,12,Haryana,302,302.0,Mohindergarh,Haryana,24245.0
+Loharu APMC,12,Haryana,239,239.0,Bhiwani,Haryana,24270.0
+Pai APMC,12,Haryana,278,278.0,Kaithal,Haryana,24245.0
+Pataudi APMC,12,Haryana,255,255.0,Gurugram,Haryana,24270.0
+Rewari APMC,12,Haryana,318,318.0,Rewari,Haryana,24226.0
+Rohtak APMC,12,Haryana,320,320.0,Rohtak,Haryana,24226.0
+Sohna APMC,12,Haryana,256,256.0,Gurugram,Haryana,24270.0
+Fatehabad APMC,12,Haryana,249,249.0,Fatehabad,Haryana,24226.0
+Hassanpur APMC,12,Haryana,306,306.0,Palwal,Haryana,24270.0
+Hathin APMC,12,Haryana,305,305.0,Palawal,Haryana,24270.0
+Hodal APMC,12,Haryana,307,307.0,Palwal,Haryana,24226.0
+Uklana APMC,12,Haryana,263,263.0,Hisar,Haryana,24245.0
+Ambala Cantt. APMC,12,Haryana,231,231.0,Ambala,Haryana,24245.0
+Cheeka APMC,12,Haryana,274,274.0,Kaithal,Haryana,24226.0
+Chhachrauli APMC,12,Haryana,332,332.0,Yamuna Nagar,Haryana,24226.0
+Ellanabad APMC,12,Haryana,324,324.0,Sirsa,Haryana,24226.0
+Farukh Nagar APMC,12,Haryana,253,253.0,Gurugram,Haryana,24270.0
+Samalkha APMC,12,Haryana,316,316.0,Panipat,Haryana,24226.0
+Tauru APMC,12,Haryana,300,300.0,Mewat (Nuh),Haryana,24245.0
+Babain APMC,12,Haryana,290,290.0,Kurukshetra,Haryana,24270.0
+Hissar APMC,12,Haryana,261,261.0,Hisar,Haryana,24245.0
+Iamailabad APMC,12,Haryana,291,291.0,Kurukshetra,Haryana,24226.0
+Punhana APMC,12,Haryana,299,299.0,Mewat (Nuh),Haryana,24245.0
+Tohana APMC,12,Haryana,252,252.0,Fatehabad,Haryana,24226.0
+Siwani APMC,12,Haryana,240,240.0,Bhiwani,Haryana,24226.0
+Madlauda APMC,12,Haryana,314,314.0,Panipat,Haryana,24226.0
+Sadhaura APMC,12,Haryana,336,336.0,Yamuna Nagar,Haryana,24245.0
+Sampla APMC,12,Haryana,321,321.0,Rohtak,Haryana,24270.0
+Nigdu APMC,12,Haryana,286,286.0,Karnal,Haryana,24245.0
+Pundri APMC,12,Haryana,279,279.0,Kaithal,Haryana,24226.0
+Adampur APMC,12,Haryana,257,257.0,Hisar,Haryana,24226.0
+Jundla APMC,12,Haryana,284,284.0,Karnal,Haryana,24270.0
+Thanesar APMC,12,Haryana,296,296.0,Kurukshetra,Haryana,24226.0
+Bhuna APMC,12,Haryana,248,248.0,Fatehabad,Haryana,24270.0
+Gohana APMC,12,Haryana,329,329.0,Sonipat,Haryana,24226.0
+Hansi APMC,12,Haryana,260,260.0,Hisar,Haryana,24226.0
+Indri APMC,12,Haryana,283,283.0,Karnal,Haryana,24226.0
+Israna APMC,12,Haryana,313,313.0,Panipat,Haryana,24245.0
+Jind APMC,12,Haryana,268,268.0,Jind,Haryana,24226.0
+Jui APMC,12,Haryana,238,238.0,Bhiwani,Haryana,24270.0
+Kaithal APMC,12,Haryana,276,276.0,Kaithal,Haryana,24226.0
+Kalayat APMC,12,Haryana,277,277.0,Kaithal,Haryana,24226.0
+Mustafabad APMC,12,Haryana,334,334.0,Yamuna Nagar,Haryana,24270.0
+Nilokheri APMC,12,Haryana,287,287.0,Karnal,Haryana,24245.0
+Nissing APMC,12,Haryana,288,288.0,Karnal,Haryana,24226.0
+Rania APMC,12,Haryana,326,326.0,Sirsa,Haryana,24226.0
+Tosham APMC,12,Haryana,241,241.0,Bhiwani,Haryana,24270.0
+Narnaul APMC,12,Haryana,304,304.0,Mohindergarh,Haryana,24245.0
+Tarori APMC,12,Haryana,289,289.0,Karnal,Haryana,24226.0
+Asandh APMC,12,Haryana,281,281.0,Karnal,Haryana,24226.0
+Ateli APMC,12,Haryana,301,301.0,Mohindergarh,Haryana,24245.0
+Jhajjar APMC,12,Haryana,266,266.0,Jhajjar,Haryana,24226.0
+Kosli APMC,12,Haryana,317,317.0,Rewari,Haryana,24245.0
+Meham APMC,12,Haryana,319,319.0,Rohtak,Haryana,24245.0
+Narwana APMC,12,Haryana,270,270.0,Jind,Haryana,24226.0
+Pehowa APMC,12,Haryana,293,293.0,Kurukshetra,Haryana,24226.0
+Radaur APMC,12,Haryana,335,335.0,Yamuna Nagar,Haryana,24270.0
+Ratia APMC,12,Haryana,251,251.0,Fatehabad,Haryana,24226.0
+Siwan APMC,12,Haryana,280,280.0,Kaithal,Haryana,24270.0
+Yamuna Nagar APMC,12,Haryana,337,337.0,Yamuna Nagar,Haryana,24245.0
+Panipat APMC,12,Haryana,315,315.0,Panipat,Haryana,24226.0
+Sonepat APMC,12,Haryana,331,331.0,Sonipat,Haryana,24226.0
+Mohindergarh APMC,12,Haryana,303,303.0,Mohindergarh,Haryana,24245.0
+Behal APMC,12,Haryana,236,236.0,Bhiwani,Haryana,24270.0
+Bass APMC,12,Haryana,259,259.0,Hisar,Haryana,24270.0
+Beri APMC,12,Haryana,265,265.0,Jhajjar,Haryana,24270.0
+Faridabad APMC,12,Haryana,244,244.0,Faridabad,Haryana,24226.0
+Jagadhri APMC,12,Haryana,333,,,,
+PMY Paonta Sahib,13,Himachal Pradesh,367,367.0,Sirmaur,Himachal Pradesh,24226.0
+Chaibasa APMC,15,Jharkhand,410,410.0,West Singhbhum,Jharkhand,24241.0
+Chakulia APMC,15,Jharkhand,396,396.0,East Singhbhum,Jharkhand,24226.0
+Deoghar APMC,15,Jharkhand,393,393.0,Deoghar,Jharkhand,24226.0
+Dhanbad APMC,15,Jharkhand,394,394.0,Dhanbad,Jharkhand,24226.0
+Dumka APMC,15,Jharkhand,395,395.0,Dumka,Jharkhand,24226.0
+Giridih APMC,15,Jharkhand,399,,,,
+Gumla APMC,15,Jharkhand,400,400.0,Gumla,Jharkhand,24226.0
+Hazaribagh APMC,15,Jharkhand,401,401.0,Hazaribagh,Jharkhand,24226.0
+Jamshedpur APMC,15,Jharkhand,397,397.0,East Singhbhum,Jharkhand,24226.0
+Koderma APMC,15,Jharkhand,402,402.0,Koderma,Jharkhand,24226.0
+Pakur APMC,15,Jharkhand,404,404.0,Pakur,Jharkhand,24226.0
+Ramgarh APMC,15,Jharkhand,406,406.0,Ramgarh,Jharkhand,24226.0
+Sahebganj APMC,15,Jharkhand,408,408.0,Sahebganj,Jharkhand,24236.0
+Simdega APMC,15,Jharkhand,409,409.0,Simdega,Jharkhand,24234.0
+Daltenganj APMC,15,Jharkhand,405,,,,
+Kalburgi APMC,16,Karnataka,414,,,,
+Jabalpur APMC,19,Madhya Pradesh,480,480.0,Jabalpur,Madhya Pradesh,24226.0
+Balaghat APMC,19,Madhya Pradesh,428,428.0,Balaghat,Madhya Pradesh,24226.0
+Sehora APMC,19,Madhya Pradesh,482,482.0,Jabalpur,Madhya Pradesh,24226.0
+Aatpadi APMC,20,Maharashtra,664,664.0,Sangli,Maharashtra,24226.0
+Ambejaogai APMC,20,Maharashtra,584,584.0,Beed,Maharashtra,24245.0
+Arvi APMC,20,Maharashtra,678,678.0,Wardha,Maharashtra,24245.0
+Babhulgaon APMC,20,Maharashtra,689,,,,
+Basmat APMC,20,Maharashtra,613,613.0,Hingoli,Maharashtra,24226.0
+Chandvad APMC,20,Maharashtra,637,637.0,Nashik,Maharashtra,24245.0
+Dharmabad APMC,20,Maharashtra,633,,,,
+Udgir APMC,20,Maharashtra,625,625.0,Latur,Maharashtra,24226.0
+Vai APMC,20,Maharashtra,692,692.0,Yawatmal,Maharashtra,24226.0
+Sangola APMC,20,Maharashtra,676,676.0,Solapur,Maharashtra,24245.0
+Vani APMC,20,Maharashtra,692,692.0,Yawatmal,Maharashtra,24226.0
+Parner APMC,20,Maharashtra,563,,,,
+Chandrapur APMC,20,Maharashtra,598,598.0,Chandrapur,Maharashtra,24226.0
+Kalamb APMC,20,Maharashtra,650,650.0,Osmanabad,Maharashtra,24244.0
+Baripada APMC,26,Odisha,759,759.0,Mayurbhanj,Odisha,24245.0
+Kesinga APMC,26,Odisha,746,746.0,Kalahandi,Odisha,24245.0
+Talcher APMC,26,Odisha,716,716.0,Angul,Odisha,24270.0
+Nawarangpur APMC,26,Odisha,764,,,,
+Padampur APMC,26,Odisha,725,,,,
+Panposh APMC,26,Odisha,777,777.0,Sundargarh,Odisha,24245.0
+Jajpur APMC,26,Odisha,742,742.0,Jajpur,Odisha,24244.0
+Rayagada APMC,26,Odisha,770,770.0,Rayagada,Odisha,24229.0
+Bhanjanagar APMC,26,Odisha,737,737.0,Ganjam,Odisha,24270.0
+Bhawanipatna APMC,26,Odisha,744,744.0,Kalahandi,Odisha,24244.0
+Jharsuguda APMC,26,Odisha,743,743.0,Jharsuguda,Odisha,24270.0
+Dungurapalli APMC,26,Odisha,775,775.0,Sonepur,Odisha,24244.0
+Champua APMC,26,Odisha,752,752.0,Keonjhar,Odisha,24278.0
+Deogarh APMC,26,Odisha,732,732.0,Deogarh,Odisha,24244.0
+Koraput APMC,26,Odisha,757,757.0,Koraput,Odisha,24226.0
+Bonai APMC,26,Odisha,776,776.0,Sundargarh,Odisha,24244.0
+Pallahara APMC,26,Odisha,715,715.0,Angul,Odisha,24270.0
+Khanna APMC,28,Punjab,824,824.0,Ludhiana,Punjab,24245.0
+Kotkapura APMC,28,Punjab,797,797.0,Faridkot,Punjab,24245.0
+Mansa APMC,28,Punjab,830,830.0,Mansa,Punjab,24226.0
+Nawanshahar APMC,28,Punjab,851,851.0,Shaheed Bhagat Singh Nagar,Punjab,24247.0
+Patiala APMC,28,Punjab,836,836.0,Patiala,Punjab,24226.0
+Amritsar APMC,28,Punjab,782,782.0,Amritsar,Punjab,24226.0
+Muktsar APMC,28,Punjab,854,854.0,Sri Muktsar Sahib,Punjab,24226.0
+Balachaur APMC,28,Punjab,849,849.0,Shaheed Bhagat Singh Nagar,Punjab,24271.0
+Maur APMC,28,Punjab,792,792.0,Bathinda,Punjab,24226.0
+Shahkot APMC,28,Punjab,819,819.0,Jalandhar,Punjab,24270.0
+Tarantaran APMC,28,Punjab,859,859.0,Tarn Taran Sahib,Punjab,24245.0
+Bhikhiwind APMC,28,Punjab,855,855.0,Tarn Taran Sahib,Punjab,24270.0
+Talwandi Bhai APMC,28,Punjab,808,808.0,Ferozpur,Punjab,24270.0
+Kapurthala APMC,28,Punjab,820,820.0,Kapurthala,Punjab,24245.0
+Banga APMC,28,Punjab,850,850.0,Shaheed Bhagat Singh Nagar,Punjab,24271.0
+Bhikhi APMC,28,Punjab,828,828.0,Mansa,Punjab,24245.0
+Bhogpur APMC,28,Punjab,816,816.0,Jalandhar,Punjab,24270.0
+Budalada APMC,28,Punjab,829,829.0,Mansa,Punjab,24245.0
+Dhuri APMC,28,Punjab,842,842.0,Sangrur,Punjab,24271.0
+Dudhansadhan APMC,28,Punjab,834,834.0,Patiala,Punjab,24270.0
+Firozepur City APMC,28,Punjab,805,,,,
+Gurdaspur APMC,28,Punjab,813,813.0,Gurdaspur,Punjab,24245.0
+Guru Har Sahai APMC,28,Punjab,806,806.0,Ferozpur,Punjab,24271.0
+Kharar APMC,28,Punjab,841,841.0,S.A.S Nagar,Punjab,24245.0
+Malout APMC,28,Punjab,853,853.0,Sri Muktsar Sahib,Punjab,24245.0
+Mehta APMC,28,Punjab,785,785.0,Amritsar,Punjab,24270.0
+Nakodar APMC,28,Punjab,818,818.0,Jalandhar,Punjab,24270.0
+Pathankot APMC,28,Punjab,833,833.0,Pathankot,Punjab,24226.0
+Patran APMC,28,Punjab,837,837.0,Patiala,Punjab,24270.0
+Phagwara APMC,28,Punjab,821,821.0,Kapurthala,Punjab,24271.0
+Raman APMC,28,Punjab,793,793.0,Bathinda,Punjab,24245.0
+Rampura Phul APMC,28,Punjab,794,794.0,Bathinda,Punjab,24226.0
+Ropar APMC,28,Punjab,840,840.0,Rupnagar,Punjab,24226.0
+Samana APMC,28,Punjab,839,839.0,Patiala,Punjab,24270.0
+Sardulgarh APMC,28,Punjab,831,831.0,Mansa,Punjab,24245.0
+Sunam APMC,28,Punjab,848,848.0,Sangrur,Punjab,24270.0
+Attari APMC,28,Punjab,783,,,,
+Ferozepur Cantt. APMC,28,Punjab,804,,,,
+Khanauri APMC,28,Punjab,843,843.0,Sangrur,Punjab,24271.0
+Bathinda APMC,28,Punjab,789,,,,
+Moonak APMC,28,Punjab,846,846.0,Sangrur,Punjab,24270.0
+Fazilka APMC,28,Punjab,802,802.0,Fazilka,Punjab,24226.0
+Goniana APMC,28,Punjab,791,791.0,Bathinda,Punjab,24226.0
+Makhu APMC,28,Punjab,807,807.0,Ferozpur,Punjab,24271.0
+Moga APMC,28,Punjab,832,832.0,Moga,Punjab,24245.0
+Malerkotla APMC,28,Punjab,845,845.0,Sangrur,Punjab,24270.0
+Patti APMC,28,Punjab,858,858.0,Tarn Taran Sahib,Punjab,24271.0
+Nabha APMC,28,Punjab,835,835.0,Patiala,Punjab,24270.0
+Abu Road APMC,29,Rajasthan,980,980.0,Sirohi,Rajasthan,24244.0
+Bassi APMC,29,Rajasthan,925,925.0,Jaipur,Rajasthan,24244.0
+Fatehnagar APMC,29,Rajasthan,1002,1002.0,Udaipur,Rajasthan,24226.0
+Nagaur APMC,29,Rajasthan,964,,,,
+Neem Ka Thana APMC,29,Rajasthan,976,976.0,Sikar,Rajasthan,24244.0
+Pali APMC,29,Rajasthan,966,966.0,Pali,Rajasthan,24244.0
+Deedwana APMC,29,Rajasthan,960,960.0,Nagaur,Rajasthan,24244.0
+Degana APMC,29,Rajasthan,961,961.0,Nagaur,Rajasthan,24244.0
+Jaipur (Grain) APMC,29,Rajasthan,930,930.0,Jaipur,Rajasthan,24244.0
+Pilibanga APMC,29,Rajasthan,922,922.0,Hanumangarh,Rajasthan,24244.0
+Balotra APMC,29,Rajasthan,875,875.0,Barmer,Rajasthan,24244.0
+Chittorgarh APMC,29,Rajasthan,901,901.0,Chittorgarh,Rajasthan,24244.0
+Sadulpur APMC,29,Rajasthan,906,906.0,Churu,Rajasthan,24244.0
+Bhinmal APMC,29,Rajasthan,935,935.0,Jalore,Rajasthan,24244.0
+Rajsamand APMC,29,Rajasthan,972,972.0,Rajsamand,Rajasthan,24244.0
+Raniwara APMC,29,Rajasthan,937,937.0,Jalore,Rajasthan,24244.0
+Ridmalsar APMC,29,Rajasthan,989,989.0,Sri Ganganagar,Rajasthan,24244.0
+Bajju APMC,29,Rajasthan,888,888.0,Bikaner,Rajasthan,24244.0
+Dooni APMC,29,Rajasthan,997,997.0,Tonk,Rajasthan,24244.0
+Palsana APMC,29,Rajasthan,977,977.0,Sikar,Rajasthan,24244.0
+Gudhagorji APMC,29,Rajasthan,945,,,,
+Chhotisadri APMC,29,Rajasthan,970,970.0,Pratapgarh,Rajasthan,24244.0
+Rajdhanai Mandi (KukarKheda) APMC,29,Rajasthan,933,,,,
+Ramanathapuram APMC,31,Tamil Nadu,1078,1078.0,Ramanathapuram,Tamil Nadu,24270.0
+Dindigul APMC,31,Tamil Nadu,1028,1028.0,Dindigul,Tamil Nadu,24226.0
+Jammikunta APMC,32,Telangana,1175,1175.0,Karimnagar,Telangana,24226.0
+Adilabad APMC,32,Telangana,1162,1162.0,Adilabad,Telangana,
+Zaheerabad APMC,32,Telangana,1203,1203.0,Sanga Reddy,Telangana,24226.0
+Mahabubabad APMC,32,Telangana,1180,1180.0,Mahabubabad,Telangana,24226.0
+Jogipet APMC,32,Telangana,1200,1200.0,Sanga Reddy,Telangana,24226.0
+Nizamabad APMC,32,Telangana,1195,1195.0,Nizamabad,Telangana,24226.0
+Karimnagar APMC,32,Telangana,1176,1176.0,Karimnagar,Telangana,24226.0
+Bhainsa APMC,32,Telangana,1194,1194.0,Nirmal,Telangana,24226.0
+Sadasivpet APMC,32,Telangana,1201,1201.0,Sanga Reddy,Telangana,24226.0
+Najibabad APMC,34,Uttar Pradesh,1256,1256.0,Bijnor,Uttar Pradesh,24244.0
+Shadabad APMC,34,Uttar Pradesh,1291,1291.0,Hathras,Uttar Pradesh,24244.0
+Noida APMC,34,Uttar Pradesh,1275,1275.0,Gautam Buddh Nagar,Uttar Pradesh,24244.0
+Ayodhya APMC,34,Uttar Pradesh,1238,1238.0,Ayodhya,Uttar Pradesh,24241.0
+Powayan APMC,34,Uttar Pradesh,1339,1339.0,Shahjahanpur,Uttar Pradesh,24226.0
+Kicchha APMC,35,Uttarakhand,1367,1367.0,Udham Singh Nagar,Uttarakhand,24226.0
+Rishikesh APMC,35,Uttarakhand,1352,1352.0,Dehradun,Uttarakhand,24226.0
+Kotadwara APMC,35,Uttarakhand,1361,,,,
+Ramnagar APMC,35,Uttarakhand,1360,1360.0,Nainital,Uttarakhand,24226.0
+Rudrapur APMC,35,Uttarakhand,1369,1369.0,Udham Singh Nagar,Uttarakhand,24226.0
+Sitarganj APMC,35,Uttarakhand,1370,1370.0,Udham Singh Nagar,Uttarakhand,24226.0
+Vikasnagar APMC,35,Uttarakhand,1353,1353.0,Dehradun,Uttarakhand,24226.0
+Bobbili APMC,2,Andhra Pradesh,31,31.0,Vizianagaram,Andhra Pradesh,24244.0
+Chilakaluripet APMC,2,Andhra Pradesh,25,25.0,Palnadu,Andhra Pradesh,24244.0
+Kalyandurg APMC,2,Andhra Pradesh,4,4.0,Ananthapuramu,Andhra Pradesh,24230.0
+RAYADURG APMC,2,Andhra Pradesh,5,5.0,Ananthapuramu,Andhra Pradesh,24244.0
+Ravulapelem APMC,2,Andhra Pradesh,13,13.0,Dr BR Ambedkar Konaseema ,Andhra Pradesh,24244.0
+Sattenapalli APMC,2,Andhra Pradesh,27,27.0,Palnadu,Andhra Pradesh,24244.0
+Kurnool APMC,2,Andhra Pradesh,21,21.0,Kurnool,Andhra Pradesh,24226.0
+Duggirala APMC,2,Andhra Pradesh,16,16.0,Guntur,Andhra Pradesh,24226.0
+Tadikonda APMC,2,Andhra Pradesh,18,18.0,Guntur,Andhra Pradesh,24244.0
+Tenali APMC,2,Andhra Pradesh,19,19.0,Guntur,Andhra Pradesh,24235.0
+Rapur APMC,2,Andhra Pradesh,28,28.0,SPSR Nellore,Andhra Pradesh,24226.0
+Yemmiganur APMC,2,Andhra Pradesh,23,23.0,Kurnool,Andhra Pradesh,24226.0
+Denduluru APMC,2,Andhra Pradesh,14,14.0,Eluru,Andhra Pradesh,24226.0
+Eluru APMC,2,Andhra Pradesh,15,15.0,Eluru,Andhra Pradesh,24234.0
+Jaggayyapeta APMC,2,Andhra Pradesh,24,24.0,NTR,Andhra Pradesh,24244.0
+Parchur APMC,2,Andhra Pradesh,9,9.0,Bapatla,Andhra Pradesh,24244.0
+Navapara APMC,7,Chhattisgarh,75,,,,
+Vansda APMC,11,Gujarat,186,186.0,Navsari,Gujarat,24279.0
+Valod APMC,11,Gujarat,219,219.0,Tapi,Gujarat,24279.0
+Bardoli APMC,11,Gujarat,206,206.0,Surat,Gujarat,24244.0
+Nuh APMC,12,Haryana,298,298.0,Mewat (Nuh),Haryana,24245.0
+Channagiri APMC,16,Karnataka,412,412.0,Davanagere,Karnataka,24279.0
+Aheri APMC,20,Maharashtra,606,606.0,Gadchiroli,Maharashtra,24228.0
+Amgaon APMC,20,Maharashtra,609,,,,
+Armori(Desaiganj) APMC,20,Maharashtra,607,,,,
+Chamorshi APMC,20,Maharashtra,608,608.0,Gadchiroli,Maharashtra,24245.0
+Gondiya APMC,20,Maharashtra,611,611.0,Gondiya,Maharashtra,24227.0
+Mul APMC,20,Maharashtra,599,599.0,Chandrapur,Maharashtra,24245.0
+Tiroda APMC,20,Maharashtra,612,612.0,Gondiya,Maharashtra,24245.0
+Sindevahi APMC,20,Maharashtra,601,,,,
+Baghty APMC,24,Nagaland,709,709.0,Wokha,Nagaland,24278.0
+Anandapur APMC,26,Odisha,751,751.0,Keonjhar,Odisha,24244.0
+Bahadajholla APMC,26,Odisha,765,765.0,Nayagarh,Odisha,24226.0
+Balugaon APMC,26,Odisha,754,754.0,Khorda,Odisha,24245.0
+Banki APMC,26,Odisha,729,729.0,Cuttack,Odisha,24270.0
+Bhadrak APMC,26,Odisha,726,726.0,Bhadrak,Odisha,24244.0
+Chandabali APMC,26,Odisha,727,727.0,Bhadrak,Odisha,24245.0
+Digapahandi APMC,26,Odisha,738,738.0,Ganjam,Odisha,24244.0
+Gunpur APMC,26,Odisha,769,769.0,Rayagada,Odisha,24244.0
+Jagatsinghpur APMC,26,Odisha,740,740.0,Jagatsinghpur,Odisha,24244.0
+Jaleswar APMC,26,Odisha,721,721.0,Balasore,Odisha,24245.0
+Junagarh APMC,26,Odisha,745,745.0,Kalahandi,Odisha,24278.0
+Kamakhyanagar APMC,26,Odisha,735,735.0,Dhenkanal,Odisha,24270.0
+Karanjia APMC,26,Odisha,761,761.0,Mayurbhanj,Odisha,24270.0
+Khariar Road APMC,26,Odisha,766,766.0,Nuapada,Odisha,24278.0
+Nimapara APMC,26,Odisha,767,767.0,Puri,Odisha,24244.0
+Parlakhemundi APMC,26,Odisha,736,736.0,Gajapati,Odisha,24226.0
+Sakhigopal APMC,26,Odisha,768,768.0,Puri,Odisha,24235.0
+Attabira APMC,26,Odisha,723,723.0,Bargarh,Odisha,24244.0
+Bargarh APMC,26,Odisha,724,724.0,Bargarh,Odisha,24244.0
+Jatni APMC,26,Odisha,755,755.0,Khorda,Odisha,24244.0
+Kendupatna APMC,26,Odisha,730,730.0,Cuttack,Odisha,24243.0
+Sambalpur APMC,26,Odisha,773,773.0,Sambalpur,Odisha,24270.0
+Angul APMC,26,Odisha,713,713.0,Angul,Odisha,24244.0
+Boudh APMC,26,Odisha,728,728.0,Boudh,Odisha,24270.0
+Dhenkanal APMC,26,Odisha,733,733.0,Dhenkanal,Odisha,24270.0
+Jeypore APMC,26,Odisha,756,756.0,Koraput,Odisha,24245.0
+Malkanagiri APMC,26,Odisha,758,758.0,Malkangiri,Odisha,24244.0
+Udala APMC,26,Odisha,763,763.0,Mayurbhanj,Odisha,24245.0
+Hinjilicut APMC,26,Odisha,739,739.0,Ganjam,Odisha,24270.0
+Betnoti APMC,26,Odisha,760,760.0,Mayurbhanj,Odisha,24245.0
+Kuchinda APMC,26,Odisha,771,771.0,Sambalpur,Odisha,24237.0
+Tikabali APMC,26,Odisha,749,749.0,Kandhamal,Odisha,24230.0
+Kendrapara APMC,26,Odisha,750,750.0,Kendrapara,Odisha,24244.0
+Mukhiguda APMC,26,Odisha,747,747.0,Kalahandi,Odisha,24278.0
+Nilagiri APMC,26,Odisha,722,,,,
+Hindol APMC,26,Odisha,734,734.0,Dhenkanal,Odisha,24245.0
+Bolangir APMC,26,Odisha,717,717.0,Balangir,Odisha,24278.0
+Keonjhar APMC,26,Odisha,753,753.0,Keonjhar,Odisha,24278.0
+Rahama APMC,26,Odisha,741,741.0,Jagatsinghpur,Odisha,24245.0
+Thattanchavady APMC,27,Puducherry,780,,,,
+Karaikal APMC,27,Puducherry,779,779.0,Karaikal,Puducherry,24226.0
+Batala APMC,28,Punjab,809,809.0,Gurdaspur,Punjab,24270.0
+Kalanaur APMC,28,Punjab,814,814.0,Gurdaspur,Punjab,24270.0
+Anaimalai APMC,31,Tamil Nadu,1005,1005.0,Coimbatore,Tamil Nadu,24226.0
+Avalurpet APMC,31,Tamil Nadu,1146,1146.0,Villupuram,Tamil Nadu,24244.0
+Cheyyar APMC,31,Tamil Nadu,1132,1132.0,Tiruvannamalai,Tamil Nadu,24244.0
+Gingee APMC,31,Tamil Nadu,1147,1147.0,Villupuram,Tamil Nadu,24226.0
+Kalavai APMC,31,Tamil Nadu,1142,1142.0,Vellore,Tamil Nadu,24226.0
+Lalgudi APMC,31,Tamil Nadu,1113,1113.0,Tiruchirapalli,Tamil Nadu,24226.0
+Manalurpettai APMC,31,Tamil Nadu,1049,1049.0,Kallakurichi,Tamil Nadu,24270.0
+Mannargudi APMC,31,Tamil Nadu,1110,1110.0,Thiruvarur,Tamil Nadu,24270.0
+Namagiripettai APMC,31,Tamil Nadu,1067,1067.0,Namakkal,Tamil Nadu,24270.0
+Sangarapuram APMC,31,Tamil Nadu,1150,1150.0,Villupuram,Tamil Nadu,24244.0
+Thirukovilur APMC,31,Tamil Nadu,1151,1151.0,Villupuram,Tamil Nadu,24226.0
+Thiryagadurgam APMC,31,Tamil Nadu,1152,1152.0,Villupuram,Tamil Nadu,24244.0
+Thuraiyur APMC,31,Tamil Nadu,1115,1115.0,Tiruchirapalli,Tamil Nadu,24279.0
+Tindivanam APMC,31,Tamil Nadu,1153,1153.0,Villupuram,Tamil Nadu,24244.0
+Tirunelvali APMC,31,Tamil Nadu,1119,1119.0,Tirunelveli,Tamil Nadu,24270.0
+Ulundurpettai APMC,31,Tamil Nadu,1154,1154.0,Villupuram,Tamil Nadu,24226.0
+Valathi APMC,31,Tamil Nadu,1155,1155.0,Villupuram,Tamil Nadu,24279.0
+Vandavasi APMC,31,Tamil Nadu,1136,1136.0,Tiruvannamalai,Tamil Nadu,24244.0
+Vellore APMC,31,Tamil Nadu,1145,1145.0,Vellore,Tamil Nadu,24244.0
+Vikkiravandi APMC,31,Tamil Nadu,1156,1156.0,Villupuram,Tamil Nadu,24244.0
+Villupuram APMC,31,Tamil Nadu,1157,1157.0,Villupuram,Tamil Nadu,24244.0
+Ammoor APMC,31,Tamil Nadu,1140,1140.0,Vellore,Tamil Nadu,24226.0
+Kilpennathur APMC,31,Tamil Nadu,1134,1134.0,Tiruvannamalai,Tamil Nadu,24244.0
+Thenkasi APMC,31,Tamil Nadu,1099,1099.0,Tenkasi,Tamil Nadu,24270.0
+Chinnasalem APMC,31,Tamil Nadu,1048,1048.0,Kallakurichi,Tamil Nadu,24270.0
+Madathukulam APMC,31,Tamil Nadu,1122,1122.0,Tiruppur,Tamil Nadu,24270.0
+Negamam APMC,31,Tamil Nadu,1009,1009.0,Coimbatore,Tamil Nadu,24244.0
+Redhills APMC,31,Tamil Nadu,1052,1052.0,Kancheepuram,Tamil Nadu,24270.0
+Thiruppur APMC,31,Tamil Nadu,1127,1127.0,Tiruppur,Tamil Nadu,24229.0
+Uthiramerur APMC,31,Tamil Nadu,1055,1055.0,Kancheepuram,Tamil Nadu,24279.0
+Vettavalam APMC,31,Tamil Nadu,1137,1137.0,Tiruvannamalai,Tamil Nadu,24244.0
+Kallakurichi APMC,31,Tamil Nadu,1148,1148.0,Villupuram,Tamil Nadu,24226.0
+Udumalpet APMC,31,Tamil Nadu,1128,1128.0,Tiruppur,Tamil Nadu,24228.0
+Marakkanam APMC,31,Tamil Nadu,1149,1149.0,Villupuram,Tamil Nadu,24279.0
+Maduranthagam APMC,31,Tamil Nadu,1051,1051.0,Kancheepuram,Tamil Nadu,24244.0
+Rajapalayam APMC,31,Tamil Nadu,1159,1159.0,Virudhunagar,Tamil Nadu,24244.0
+Sankarankovil APMC,31,Tamil Nadu,1098,1098.0,Tenkasi,Tamil Nadu,24270.0
+Kumbakonam APMC,31,Tamil Nadu,1101,1101.0,Thanjavur,Tamil Nadu,24270.0
+Boothapadi APMC,31,Tamil Nadu,1037,1037.0,Erode,Tamil Nadu,24270.0
+Chetpet APMC,31,Tamil Nadu,1131,1131.0,Tiruvannamalai,Tamil Nadu,24244.0
+Desur APMC,31,Tamil Nadu,1133,1133.0,Tiruvannamalai,Tamil Nadu,24244.0
+Pethappampatti APMC,31,Tamil Nadu,1124,1124.0,Tiruppur,Tamil Nadu,24229.0
+Gangavalli APMC,31,Tamil Nadu,1083,1083.0,Salem,Tamil Nadu,24270.0
+Sevur APMC,31,Tamil Nadu,1126,1126.0,Tiruppur,Tamil Nadu,24279.0
+Thammampati APMC,31,Tamil Nadu,1089,1089.0,Salem,Tamil Nadu,24279.0
+Thondamuthur APMC,31,Tamil Nadu,1013,1013.0,Coimbatore,Tamil Nadu,24279.0
+Sivagiri APMC,31,Tamil Nadu,1045,1045.0,Erode,Tamil Nadu,24270.0
+Karumanturai APMC,31,Tamil Nadu,1084,1084.0,Salem,Tamil Nadu,24279.0
+Thanjavur APMC,31,Tamil Nadu,1105,1105.0,Thanjavur,Tamil Nadu,24270.0
+Vazhapadi APMC,31,Tamil Nadu,1090,1090.0,Salem,Tamil Nadu,24270.0
+Arani APMC,31,Tamil Nadu,1130,1130.0,Tiruvannamalai,Tamil Nadu,24244.0
+Orathanadu APMC,31,Tamil Nadu,1102,1102.0,Thanjavur,Tamil Nadu,24270.0
+Panruti APMC,31,Tamil Nadu,1017,1017.0,Cuddalore,Tamil Nadu,24244.0
+Shrimushnam APMC,31,Tamil Nadu,1019,1019.0,Cuddalore,Tamil Nadu,24270.0
+Virudhachalam APMC,31,Tamil Nadu,1020,1020.0,Cuddalore,Tamil Nadu,24226.0
+Manapparai APMC,31,Tamil Nadu,1114,1114.0,Tiruchirapalli,Tamil Nadu,24279.0
+Salem APMC,31,Tamil Nadu,1088,1088.0,Salem,Tamil Nadu,24270.0
+Thiruvarur APMC,31,Tamil Nadu,1111,1111.0,Thiruvarur,Tamil Nadu,24270.0
+Arcot APMC,31,Tamil Nadu,1080,1080.0,Ranipet,Tamil Nadu,24270.0
+Rajasingamangalam APMC,31,Tamil Nadu,1077,1077.0,Ramanathapuram,Tamil Nadu,24244.0
+Vellakoil APMC,31,Tamil Nadu,1129,1129.0,Tiruppur,Tamil Nadu,24226.0
+Gobichettipalayam APMC,31,Tamil Nadu,1040,,,,
+Konganapuram APMC,31,Tamil Nadu,1085,1085.0,Salem,Tamil Nadu,24270.0
+Palani APMC,31,Tamil Nadu,1032,1032.0,Dindigul,Tamil Nadu,24244.0
+Manamadurai  APMC,31,Tamil Nadu,1093,1093.0,Sivagangai,Tamil Nadu,24270.0
+Alangudi APMC,31,Tamil Nadu,1071,1071.0,Pudukkottai,Tamil Nadu,24270.0
+Gudiyatham APMC,31,Tamil Nadu,1141,1141.0,Vellore,Tamil Nadu,24244.0
+Paramakudi APMC,31,Tamil Nadu,1076,1076.0,Ramanathapuram,Tamil Nadu,24229.0
+Thalavadi APMC,31,Tamil Nadu,1046,1046.0,Erode,Tamil Nadu,24279.0
+Kangeyam APMC,31,Tamil Nadu,1121,1121.0,Tiruppur,Tamil Nadu,24270.0
+Kattumaner koil APMC,31,Tamil Nadu,1015,1015.0,Cuddalore,Tamil Nadu,24270.0
+Pattukottai APMC,31,Tamil Nadu,1104,1104.0,Thanjavur,Tamil Nadu,24270.0
+Attur APMC,31,Tamil Nadu,1081,1081.0,Salem,Tamil Nadu,24270.0
+Pernamallur APMC,31,Tamil Nadu,1070,,,,
+Sethiathoppu APMC,31,Tamil Nadu,1018,1018.0,Cuddalore,Tamil Nadu,24270.0
+Moolanur APMC,31,Tamil Nadu,1123,1123.0,Tiruppur,Tamil Nadu,24244.0
+Vellankoil APMC,31,Tamil Nadu,1047,1047.0,Erode,Tamil Nadu,24279.0
+Kanchipuram APMC,31,Tamil Nadu,1050,1050.0,Kancheepuram,Tamil Nadu,24244.0
+Sivagangai APMC,31,Tamil Nadu,1095,1095.0,Sivagangai,Tamil Nadu,24270.0
+Karaikudi APMC,31,Tamil Nadu,1092,,,,
+Harur APMC,31,Tamil Nadu,1022,1022.0,Dharmapuri,Tamil Nadu,24244.0
+Annur APMC,31,Tamil Nadu,1006,1006.0,Coimbatore,Tamil Nadu,24226.0
+Budalur APMC,31,Tamil Nadu,1100,1100.0,Thanjavur,Tamil Nadu,24270.0
+Chinnamanur APMC,31,Tamil Nadu,1107,1107.0,Theni,Tamil Nadu,24270.0
+Kamuthi APMC,31,Tamil Nadu,1074,1074.0,Ramanathapuram,Tamil Nadu,24244.0
+Madurai APMC,31,Tamil Nadu,1057,1057.0,Madurai,Tamil Nadu,24226.0
+Melur APMC,31,Tamil Nadu,1058,1058.0,Madurai,Tamil Nadu,24270.0
+Papanasam APMC,31,Tamil Nadu,1103,1103.0,Thanjavur,Tamil Nadu,24270.0
+Theni APMC,31,Tamil Nadu,1109,1109.0,Theni,Tamil Nadu,24244.0
+Thirumangalam APMC,31,Tamil Nadu,1060,1060.0,Madurai,Tamil Nadu,24279.0
+Thirupoondi APMC,31,Tamil Nadu,1066,1066.0,Nagapattinam,Tamil Nadu,24270.0
+Tiruttani APMC,31,Tamil Nadu,1054,1054.0,Kancheepuram,Tamil Nadu,24279.0
+Usilampatty APMC,31,Tamil Nadu,1061,1061.0,Madurai,Tamil Nadu,24244.0
+Aranthangi APMC,31,Tamil Nadu,1072,1072.0,Pudukkottai,Tamil Nadu,24270.0
+Cumbum APMC,31,Tamil Nadu,1108,1108.0,Theni,Tamil Nadu,24227.0
+Kudavasal APMC,31,Tamil Nadu,1138,1138.0,Tiruvarur,Tamil Nadu,24270.0
+Mailaduthurai APMC,31,Tamil Nadu,1063,1063.0,Nagapattinam,Tamil Nadu,24244.0
+Sembanarkoil APMC,31,Tamil Nadu,1064,1064.0,Nagapattinam,Tamil Nadu,24244.0
+Singampuneri APMC,31,Tamil Nadu,1094,1094.0,Sivagangai,Tamil Nadu,24270.0
+Sirkali APMC,31,Tamil Nadu,1065,1065.0,Nagapattinam,Tamil Nadu,24244.0
+Valangaiman APMC,31,Tamil Nadu,1139,1139.0,Tiruvarur,Tamil Nadu,24270.0
+Bodinayakkanur APMC,31,Tamil Nadu,1106,1106.0,Theni,Tamil Nadu,24270.0
+Pongalur APMC,31,Tamil Nadu,1125,1125.0,Tiruppur,Tamil Nadu,24270.0
+Natham APMC,31,Tamil Nadu,1030,1030.0,Dindigul,Tamil Nadu,24244.0
+Gopalpatti APMC,31,Tamil Nadu,1029,1029.0,Dindigul,Tamil Nadu,24270.0
+Sathyamangalam APMC,31,Tamil Nadu,1044,1044.0,Erode,Tamil Nadu,24226.0
+Kulasekaram APMC,31,Tamil Nadu,1056,1056.0,Kanyakumari,Tamil Nadu,24270.0
+Aruppukottai APMC,31,Tamil Nadu,1158,1158.0,Virudhunagar,Tamil Nadu,24279.0
+Devakottai APMC,31,Tamil Nadu,1091,1091.0,Sivagangai,Tamil Nadu,24270.0
+Dharampuri APMC,31,Tamil Nadu,1021,1021.0,Dharmapuri,Tamil Nadu,24279.0
+Manalurpet APMC,31,Tamil Nadu,1049,1049.0,Kallakurichi,Tamil Nadu,24270.0
+Vaniyambadi APMC,31,Tamil Nadu,1144,1144.0,Vellore,Tamil Nadu,24244.0
+Erode APMC,31,Tamil Nadu,1039,1039.0,Erode,Tamil Nadu,24244.0
+Krishnagiri APMC,31,Tamil Nadu,1024,1024.0,Dharmapuri,Tamil Nadu,24279.0
+Avalpoonthurai APMC,31,Tamil Nadu,1035,1035.0,Erode,Tamil Nadu,24270.0
+Virudhunagar APMC,31,Tamil Nadu,1161,1161.0,Virudhunagar,Tamil Nadu,24244.0
+Pochampalli APMC,31,Tamil Nadu,1026,1026.0,Dharmapuri,Tamil Nadu,24270.0
+Thirupathur APMC,31,Tamil Nadu,1143,1143.0,Vellore,Tamil Nadu,24244.0
+Vathlagundu APMC,31,Tamil Nadu,1027,1027.0,Dindigul,Tamil Nadu,24270.0
+Vadamadurai  APMC,31,Tamil Nadu,1033,1033.0,Dindigul,Tamil Nadu,24279.0
+Sulur APMC,31,Tamil Nadu,1012,1012.0,Coimbatore,Tamil Nadu,24279.0
+Bhavani APMC,31,Tamil Nadu,1036,1036.0,Erode,Tamil Nadu,24279.0
+Jayamkondam APMC,31,Tamil Nadu,1069,,,,
+Kodumudi APMC,31,Tamil Nadu,1041,1041.0,Erode,Tamil Nadu,24270.0
+Badepalli APMC,32,Telangana,1181,1181.0,Mahbubnagar,Telangana,24226.0
+Devarakadra APMC,32,Telangana,1182,1182.0,Mahbubnagar,Telangana,24226.0
+Devarakonda APMC,32,Telangana,1188,,,,
+Enkoor APMC,32,Telangana,1177,1177.0,Khammam,Telangana,24245.0
+Jagtial APMC,32,Telangana,1167,1167.0,Jagtial,Telangana,24226.0
+Jangaon APMC,32,Telangana,1169,1169.0,Jangaon,Telangana,24236.0
+Kesamudram APMC,32,Telangana,1179,1179.0,Mahabubabad,Telangana,24226.0
+Khammam APMC,32,Telangana,1178,1178.0,Khammam,Telangana,24226.0
+Nakrekal APMC,32,Telangana,1190,1190.0,Nalgonda,Telangana,
+Nalgonda APMC,32,Telangana,1191,1191.0,Nalgonda,Telangana,24245.0
+Shadnagar APMC,32,Telangana,1198,1198.0,Rangareddy (Rajendranagar),Telangana,24226.0
+Siddipet APMC,32,Telangana,1207,1207.0,Siddipet,Telangana,24226.0
+Suryapeta APMC,32,Telangana,1208,,,,
+Warangal APMC,32,Telangana,1218,1218.0,Warangal Urban,Telangana,24226.0
+Choppadandi APMC,32,Telangana,1173,1173.0,Karimnagar,Telangana,24226.0
+Mahbubnagar APMC,32,Telangana,1183,1183.0,Mahbubnagar,Telangana,24226.0
+Miryalaguda APMC,32,Telangana,1189,1189.0,Nalgonda,Telangana,24261.0
+Pargi APMC,32,Telangana,1210,1210.0,Vikarabad,Telangana,24245.0
+Gadwal APMC,32,Telangana,1170,1170.0,Jogulamba Gadwal,Telangana,24226.0
+Gajwel APMC,32,Telangana,1205,1205.0,Siddipet,Telangana,24226.0
+Narayanpet APMC,32,Telangana,1193,1193.0,Narayanpet,Telangana,24226.0
+Tanduru APMC,32,Telangana,1211,1211.0,Vikarabad,Telangana,24226.0
+Wanaparthy town APMC,32,Telangana,1214,1214.0,Wanaparthy,Telangana,24226.0
+Gangadhara APMC,32,Telangana,1174,1174.0,Karimnagar,Telangana,
+Nagarkurnool APMC,32,Telangana,1187,1187.0,Nagarkurnool,Telangana,24226.0
+Peddapalli APMC,32,Telangana,1196,1196.0,Peddapalli,Telangana,24226.0
+Wanaparthy Road APMC,32,Telangana,1213,1213.0,Wanaparthy,Telangana,24227.0
+Metpally APMC,32,Telangana,1168,1168.0,Jagtial,Telangana,24230.0
+Achampet APMC,32,Telangana,1185,1185.0,Nagarkurnool,Telangana,24226.0
+Gollapally APMC,32,Telangana,1166,1166.0,Jagtial,Telangana,24226.0
+Atmakur APMC,32,Telangana,1215,,,,
+Kamareddy APMC,32,Telangana,1171,1171.0,Kamareddy,Telangana,
+Vikarabad APMC,32,Telangana,1212,1212.0,Vikarabad,Telangana,24226.0
+Makthal APMC,32,Telangana,1192,1192.0,Narayanpet,Telangana,24233.0
+Tirumalagiri APMC,32,Telangana,1209,1209.0,Suryapet,Telangana,24226.0
+Husnabad APMC,32,Telangana,1206,1206.0,Siddipet,Telangana,24245.0
+Kalwakurthy APMC,32,Telangana,1186,1186.0,Nagarkurnool,Telangana,24230.0
+Narsampet APMC,32,Telangana,1216,1216.0,Warangal Rural,Telangana,24226.0
+Madnoor APMC,32,Telangana,1172,1172.0,Kamareddy,Telangana,24245.0
+Teliamura APMC,33,Tripura,1221,1221.0,Khowani,Tripura,24271.0
+Mohanpur APMC,33,Tripura,1225,1225.0,West Tripura,Tripura,24271.0
+Kulai APMC,33,Tripura,1219,1219.0,Dhalai,Tripura,24271.0
+Sonamura APMC,33,Tripura,1222,1222.0,Sepahijala,Tripura,24271.0
+Guntur APMC,2,Andhra Pradesh,17,17.0,Guntur,Andhra Pradesh,24226.0
+Dediyapada APMC,11,Gujarat,179,179.0,Narmada,Gujarat,24244.0
+Karad APMC,20,Maharashtra,666,666.0,Satara,Maharashtra,24228.0
+Jalukie APMC,24,Nagaland,703,703.0,Peren,Nagaland,24278.0
+Pabiacherra APMC,33,Tripura,1224,1224.0,Unakoti,Tripura,24271.0
+Panisagar APMC,33,Tripura,1220,1220.0,Gomati,Tripura,24271.0
+Sheoraphuly APMC,36,West Bengal,1376,1376.0,Hooghly,West Bengal,24226.0
+Punganur APMC,2,Andhra Pradesh,12,12.0,Chittoor,Andhra Pradesh,24226.0
+Gulabbagh APMC,5,Bihar,52,52.0,Purnia,Bihar,24271.0
+Gaya APMC,5,Bihar,45,45.0,Gaya,Bihar,24271.0
+Ahmedabad APMC,11,Gujarat,86,86.0,Ahmedabad,Gujarat,24226.0
+Surat APMC,11,Gujarat,210,210.0,Surat,Gujarat,24279.0
+Virpur APMC,11,Gujarat,169,169.0,Mahisagar,Gujarat,24279.0
+Bodeliu APMC,11,Gujarat,130,130.0,Chhota Udaipur,Gujarat,24227.0
+KUKARMUNDA APMC,11,Gujarat,215,,,,
+Zunheboto APMC,24,Nagaland,712,712.0,Zunheboto,Nagaland,24270.0
+Tsemenyu APMC,24,Nagaland,707,707.0,Tsemenyu,Nagaland,24278.0
+Tuensang APMC,24,Nagaland,708,708.0,Tuensang,Nagaland,24278.0
+Nuiland APMC,24,Nagaland,702,702.0,Niuland,Nagaland,24278.0
+Longleng APMC,24,Nagaland,697,697.0,Longleng,Nagaland,24278.0
+Ghathashi APMC,24,Nagaland,711,711.0,Zunheboto,Nagaland,24278.0
+Tenning APMC,24,Nagaland,704,704.0,Peren,Nagaland,24278.0
+Mangkolemba APMC,24,Nagaland,698,698.0,Mokokchung,Nagaland,24278.0
+Anthiyur APMC,31,Tamil Nadu,1034,1034.0,Erode,Tamil Nadu,24226.0
+Pollachi APMC,31,Tamil Nadu,1010,1010.0,Coimbatore,Tamil Nadu,24244.0
+Senjeri APMC,31,Tamil Nadu,1011,,,,
+Kinathukadavu APMC,31,Tamil Nadu,1008,1008.0,Coimbatore,Tamil Nadu,24279.0
+Omalur APMC,31,Tamil Nadu,1087,1087.0,Salem,Tamil Nadu,24279.0
+Hosur APMC,31,Tamil Nadu,1023,1023.0,Dharmapuri,Tamil Nadu,24279.0
+Palakode APMC,31,Tamil Nadu,1025,1025.0,Dharmapuri,Tamil Nadu,24279.0
+Perundurai APMC,31,Tamil Nadu,1042,1042.0,Erode,Tamil Nadu,24229.0
+Shankarapally APMC,32,Telangana,1199,1199.0,Rangareddy (Rajendranagar),Telangana,24226.0
+Bowenpally APMC,32,Telangana,1204,1204.0,Secundrabad,Telangana,24245.0
+Pattikonda APMC,2,Andhra Pradesh,22,22.0,Kurnool,Andhra Pradesh,24226.0
+Bilimora APMC,11,Gujarat,183,183.0,Navsari,Gujarat,24266.0
+Padra APMC,11,Gujarat,224,224.0,Vadodara,Gujarat,24229.0
+PMY Dhalli Shimla,13,Himachal Pradesh,359,359.0,Shimla,Himachal Pradesh,24226.0
+SMY Nagrota Bagwan,13,Himachal Pradesh,346,,,,
+SMY Chail Chowk,13,Himachal Pradesh,356,,,,
+Udhampur APMC,14,Jammu & Kashmir,391,391.0,Udhampur,Jammu & Kashmir,24270.0
+Kathua APMC,14,Jammu & Kashmir,382,382.0,Kathua,Jammu & Kashmir,24270.0
+Batote APMC,14,Jammu & Kashmir,387,,,,
+Kulgam APMC,14,Jammu & Kashmir,383,383.0,Kulgam,Jammu & Kashmir,24270.0
+Tiptur APMC,16,Karnataka,415,415.0,Tumkur,Karnataka,24279.0
+Junnar APMC,20,Maharashtra,660,660.0,Pune,Maharashtra,24235.0
+Kolhapur APMC,20,Maharashtra,622,622.0,Kolhapur,Maharashtra,24226.0
+Nasik APMC,20,Maharashtra,644,,,,
+Umrane APMC,20,Maharashtra,648,648.0,Nashik,Maharashtra,24245.0
+Birmaharajpur APMC,26,Odisha,774,774.0,Sonepur,Odisha,24278.0
+Sargipali APMC,26,Odisha,778,778.0,Sundargarh,Odisha,24278.0
+Ludhiana APMC,28,Punjab,825,825.0,Ludhiana,Punjab,24245.0
+Bikaner (F&V) APMC,29,Rajasthan,889,,,,
+Chomu (F&V) APMC,29,Rajasthan,927,,,,
+Jaipur (F&V) APMC,29,Rajasthan,1003,,,,
+Jaisalmer APMC,29,Rajasthan,934,934.0,Jaisalmer,Rajasthan,24244.0
+Jalore APMC,29,Rajasthan,936,936.0,Jalore,Rajasthan,24244.0
+Jodhpur (F&V) APMC,29,Rajasthan,951,,,,
+Kota (F&V) APMC,29,Rajasthan,957,,,,
+Udaipur (F&V) APMC,29,Rajasthan,1003,,,,
+Gudimalkapur APMC,32,Telangana,1164,1164.0,Hyderabad,Telangana,24245.0
+Adoni APMC,2,Andhra Pradesh,20,20.0,Kurnool,Andhra Pradesh,24226.0
+Biharsharif APMC,5,Bihar,50,50.0,Nalanda,Bihar,24271.0
+Begusarai APMC,5,Bihar,40,40.0,Begusarai,Bihar,24271.0
+Darbhanga APMC,5,Bihar,43,43.0,Darbhanga,Bihar,24271.0
+Forbesganj APMC,5,Bihar,38,38.0,Araria,Bihar,24271.0
+Katihar APMC,5,Bihar,47,47.0,Katihar,Bihar,24271.0
+Motihari APMC,5,Bihar,44,44.0,East Champaran,Bihar,24271.0
+Samastipur APMC,5,Bihar,54,54.0,Samastipur,Bihar,24271.0
+Sitamarhi APMC,5,Bihar,56,56.0,Sitamarhi,Bihar,24271.0
+Daunagar APMC,5,Bihar,39,39.0,Aurangabad,Bihar,24271.0
+Nadiad APMC,11,Gujarat,162,162.0,Kheda,Gujarat,24229.0
+Keshod APMC,11,Gujarat,156,156.0,Junagadh,Gujarat,24264.0
+Navsari APMC,11,Gujarat,185,185.0,Navsari,Gujarat,24245.0
+Shopian APMC,14,Jammu & Kashmir,388,388.0,Shopian,Jammu & Kashmir,24270.0
+Kohima APMC,24,Nagaland,696,696.0,Kohima,Nagaland,24270.0
+Dimapur APMC,24,Nagaland,694,694.0,Dimapur,Nagaland,24270.0
+Kantabaji APMC,26,Odisha,718,718.0,Balangir,Odisha,24228.0
+Rairakhol APMC,26,Odisha,772,772.0,Sambalpur,Odisha,24278.0
+Kandhamal APMC,26,Odisha,748,748.0,Kandhamal,Odisha,24245.0
+Tapa APMC,28,Punjab,788,788.0,Barnala,Punjab,24226.0
+Dera Baba Nanak APMC,28,Punjab,810,810.0,Gurdaspur,Punjab,24270.0
+Janta Market APMC,29,Rajasthan,871,871.0,Baran,Rajasthan,24244.0
+Barmer APMC,29,Rajasthan,876,876.0,Barmer,Rajasthan,24244.0
+Dungarpur APMC,29,Rajasthan,916,916.0,Dungarpur,Rajasthan,24244.0
+Edappadi APMC,31,Tamil Nadu,1082,1082.0,Salem,Tamil Nadu,24270.0
+Mannarkudi APMC,31,Tamil Nadu,1110,1110.0,Thiruvarur,Tamil Nadu,24270.0
+Gaddiannaram APMC,32,Telangana,1197,1197.0,Rangareddy (Rajendranagar),Telangana,24245.0
+Madanapalli APMC,2,Andhra Pradesh,8,8.0,Annamayya,Andhra Pradesh,24226.0
+Palamaner APMC,2,Andhra Pradesh,11,11.0,Chittoor,Andhra Pradesh,24226.0
+Kalikiri APMC,2,Andhra Pradesh,7,7.0,Annamayya,Andhra Pradesh,24226.0
+Talalagir APMC,11,Gujarat,145,145.0,Gir Somnath,Gujarat,24279.0
+Damnagar APMC,11,Gujarat,151,151.0,Jamnagar,Gujarat,24233.0
+Pfatsero APMC,24,Nagaland,705,705.0,Pfutsero,Nagaland,24270.0
+Phek APMC,24,Nagaland,706,706.0,Phek,Nagaland,24278.0
+Unjha APMC,11,Gujarat,173,173.0,Mehsana,Gujarat,24279.0
+Unava APMC,11,Gujarat,172,172.0,Mehsana,Gujarat,24244.0
+Chansama APMC,11,Gujarat,188,188.0,Patan,Gujarat,24279.0
+Merta City APMC,29,Rajasthan,963,963.0,Nagaur,Rajasthan,24226.0
+Chincholi APMC,16,Karnataka,413,,,,
+Ralegaon APMC,20,Maharashtra,641,,,,
+Dhandhuka APMC,11,Gujarat,88,88.0,Ahmedabad,Gujarat,24244.0
+Jamkandorna APMC,11,Gujarat,195,195.0,Rajkot,Gujarat,24264.0
+Modasar APMC,11,Gujarat,107,107.0,Aravalli,Gujarat,24226.0
+Lalpur APMC,11,Gujarat,153,153.0,Jamnagar,Gujarat,24264.0
+Gadada APMC,11,Gujarat,129,129.0,Botad,Gujarat,24226.0
+Gariyadar APMC,11,Gujarat,121,121.0,Bhavnagar,Gujarat,24245.0
+Mecheri APMC,31,Tamil Nadu,1086,1086.0,Salem,Tamil Nadu,24270.0
+Parkal APMC,32,Telangana,1217,1217.0,Warangal Rural,Telangana,24245.0
+Vatpally APMC,32,Telangana,1202,1202.0,Sanga Reddy,Telangana,24227.0

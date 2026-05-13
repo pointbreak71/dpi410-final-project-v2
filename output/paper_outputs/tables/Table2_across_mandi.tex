@@ -1,0 +1,24 @@
+\begin{table}[htbp]
+\centering
+\caption{Effect of eNAM on Across-Mandi Price Dispersion}
+\label{tab:across_mandi_main}
+\begin{tabular}{lcccc}
+\hline\hline
+ & (1) & (2) & (3) & (4) \\
+ & \multicolumn{2}{c}{District-level} & \multicolumn{2}{c}{State-level} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}
+ & Full & Balanced & Full & Balanced \\
+\hline
+Post-adoption & $+0.0175$ & $-0.0391$ & $-0.0975$ & $-0.0746$ \\
+ & $(0.0418)$ & $(0.0564)$ & $(0.1884)$ & $(0.1672)$ \\
+\hline
+Observations & $21,138$ & $14,763$ & $22,278$ & $16,848$ \\
+Units & $321$ & $235$ & $178$ & $122$ \\
+Unit FE & Yes & Yes & Yes & Yes \\
+Time FE & Yes & Yes & Yes & Yes \\
+SE & CRV1 (State) & CRV1 (State) & HC1 & HC1 \\
+Never-treated units & None & None & None & None \\
+\hline\hline
+\multicolumn{5}{l}{\footnotesize \textit{Notes:} Outcome is log(SD of modal prices across mandis) within a geography-crop-month cell. District sample requires $\geq 4$ mandis per cell. All districts and states eventually adopt eNAM; later adopters serve as not-yet-treated controls. HC1 SEs used for state-level regressions ($n=23$ clusters). $^{{***}}$p$<$0.01, $^{{**}}$p$<$0.05, $^{{*}}$p$<$0.10.}} \\
+\end{tabular}
+\end{table}

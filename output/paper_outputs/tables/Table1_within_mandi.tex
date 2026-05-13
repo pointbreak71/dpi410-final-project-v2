@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\centering
+\caption{Effect of eNAM on Within-Mandi Price Dispersion}
+\label{tab:within_mandi_main}
+\begin{tabular}{lcc}
+\hline\hline
+ & (1) & (2) \\
+ & Full sample & Balanced crops \\
+\hline
+Post-adoption & $+0.1566^{***}$ & $+0.1327^{***}$ \\
+ & $(0.0156)$ & $(0.0160)$ \\
+\hline
+Observations & $58,033$ & $54,517$ \\
+Units (mandi$\times$crop) & $1,073$ & $955$ \\
+Treated units & $1,004$ & $893$ \\
+Unit FE & Yes & Yes \\
+Time FE & Yes & Yes \\
+Clustered SE & State & State \\
+\hline\hline
+\multicolumn{3}{l}{\footnotesize \textit{Notes:} Outcome is log(max price $-$ min price) within a mandi-crop-month cell. Post-adoption $= 1$ at or after the mandi's first eNAM trade date. Balanced crops drops rice, mustard, soybean, chana ($<$50 mandis in range data). Standard errors clustered at state level. $^{{***}}$p$<$0.01, $^{{**}}$p$<$0.05, $^{{*}}$p$<$0.10.}} \\
+\end{tabular}
+\end{table}

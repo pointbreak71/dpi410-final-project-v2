@@ -11,8 +11,17 @@ data/**/.DS_Store
 
 # Temp/intermediate
 data/raw/ne_states_tmp/
+output/stacked_did/
+
+# Virtual environments
+.venv/
+venv/
 
 # Python
 __pycache__/
 *.pyc
 .env
+
+# R
+.Rhistory
+.RData

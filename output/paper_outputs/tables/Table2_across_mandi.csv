@@ -1,0 +1,5 @@
+,Post-adoption (ATT),SE,N observations,N units,SE type
+District — Full,+0.0175,(0.0418),"21,138",321,CRV1 (State)
+District — Balanced,-0.0391,(0.0564),"14,763",235,CRV1 (State)
+State — Full,-0.0975,(0.1884),"22,278",178,HC1
+State — Balanced,-0.0746,(0.1672),"16,848",122,HC1

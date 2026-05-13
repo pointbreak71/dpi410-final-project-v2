@@ -1,0 +1,8 @@
+Metric,Value
+ATT,+0.1566***
+SE,(0.0156)
+95% CI,"[0.1259, 0.1872]"
+N observations,"58,033"
+N units,"1,073"
+N time periods,192
+N treated units,"1,004"
